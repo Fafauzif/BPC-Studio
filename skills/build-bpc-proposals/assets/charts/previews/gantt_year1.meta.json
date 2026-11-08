@@ -1,0 +1,41 @@
+{
+  "id": "gantt_year1",
+  "type": "gantt",
+  "tex": "skills/build-bpc-proposals/assets/charts/previews/gantt_year1.tex",
+  "input_sha256": "593ddb42d5ede55a83a57936957954a169bbaa32de611e49181586718bcc0422",
+  "font": "DejaVu Serif",
+  "width_cm": 16,
+  "font_pt": 10,
+  "data_summary": {
+    "periods": 12,
+    "tasks": 6,
+    "intervals": "1-based inclusive",
+    "row_heights": "actual wrapped label bounding boxes"
+  },
+  "example_status": "Illustrative team assumptions; not observed research or market results.",
+  "source_note": "Demonstration input for the reusable chart library. Replace with project evidence and cited assumptions.",
+  "pdf": "skills/build-bpc-proposals/assets/charts/previews/gantt_year1.pdf",
+  "engine": "xelatex",
+  "tex_warnings": [
+    "Underfull \\hbox (badness 5417) in paragraph at lines 65--65",
+    "Underfull \\hbox (badness 1845) in paragraph at lines 65--65",
+    "Underfull \\hbox (badness 4132) in paragraph at lines 65--65",
+    "Underfull \\hbox (badness 1400) in paragraph at lines 65--65",
+    "Underfull \\hbox (badness 5105) in paragraph at lines 65--65",
+    "Underfull \\hbox (badness 2245) in paragraph at lines 65--65",
+    "Underfull \\hbox (badness 10000) in paragraph at lines 65--65"
+  ],
+  "pdf_width_cm": 16.434505038791233,
+  "pdf_height_cm": 7.344127519395617,
+  "pdf_text_fonts": [
+    "DejaVuSerif"
+  ],
+  "pdf_text_sizes_pt": [
+    8.935,
+    9.928
+  ],
+  "min_text_pt_at_nominal_width": 8.698701099209565,
+  "png_renderer": "PyMuPDF",
+  "png": "skills/build-bpc-proposals/assets/charts/previews/gantt_year1.png",
+  "render_status": "rendered"
+}

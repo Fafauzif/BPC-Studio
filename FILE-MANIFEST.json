@@ -1,0 +1,2944 @@
+{
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 102,
+      "sha256": "68b36996bf8ce69500822f990730c67385095b2ffec6692667e1bc6b3e2b30a1"
+    },
+    {
+      "path": "AGENTS.md",
+      "bytes": 3525,
+      "sha256": "e66d417c121dedd53088720d27a2f49d0c5a49813eba80b1449e3ce7dacb046b"
+    },
+    {
+      "path": "LICENSE-NOTICE.md",
+      "bytes": 1607,
+      "sha256": "b4f6df6befb8c9c79845d58c44070d58a8d83f52b699b91472b6907a31da2ad5"
+    },
+    {
+      "path": "README.md",
+      "bytes": 4942,
+      "sha256": "e72d904de98b84872bbeae437d385b564176f20b21064630a8b3c3dba83a0109"
+    },
+    {
+      "path": "RELEASE-NOTES.md",
+      "bytes": 981,
+      "sha256": "69d91b6defba48836e36ff4e85c17fe8980ab943e1a3473a6e9bddf42a72c9ef"
+    },
+    {
+      "path": "START.md",
+      "bytes": 1262,
+      "sha256": "3b213e953a85cba73a0624c68cff13295dfcdfcd8090ae9d91d7db47c3c2103c"
+    },
+    {
+      "path": "archive/README.md",
+      "bytes": 383,
+      "sha256": "24707552b10c69df83275b4c31885488ce24b30e5144f765b97c8ec0cbed262a"
+    },
+    {
+      "path": "archive/WORK-IN-PROGRESS-checkpoint.md",
+      "bytes": 939,
+      "sha256": "72d657d410a9fddacad47d5560c3bbe0f6dc1ab0467e7cf029f4d5f031be79d9"
+    },
+    {
+      "path": "archive/essay-guidance/AGENTS-upstream.md",
+      "bytes": 3911,
+      "sha256": "3ad476fcb5a637bfe43a65f723a6515a3e618895aff119824457ab1441571732"
+    },
+    {
+      "path": "archive/essay-guidance/README-upstream.md",
+      "bytes": 4737,
+      "sha256": "9cd380343f3bd21fd82dbd6e5e9e2356a1b89b5770990301a91e95d5bb75f65c"
+    },
+    {
+      "path": "archive/essay-guidance/SKILL-upstream.md",
+      "bytes": 7321,
+      "sha256": "bfcb5aadbf9f0e7b901fc335bef953e2a6895d059fd9c98b1ef10c5e59f1ed68"
+    },
+    {
+      "path": "archive/essay-guidance/references/appendices-and-navigation.md",
+      "bytes": 11444,
+      "sha256": "e3d1ba4745f15114668a5a0e190f963f98f7ff9c9299c916d6f6dddd1f5e1ab4"
+    },
+    {
+      "path": "archive/essay-guidance/references/business-plan-module.md",
+      "bytes": 9894,
+      "sha256": "c46320f311399b7697abd6402c3e55acde2530cc79e9691c0120ba9c70ba9352"
+    },
+    {
+      "path": "archive/essay-guidance/references/evidence-and-sources.md",
+      "bytes": 10894,
+      "sha256": "ce15014727a118253446bc7143e92d8b8bfafdb99396ef41bba2fa14fe29bd67"
+    },
+    {
+      "path": "archive/essay-guidance/references/frameworks-and-implementation.md",
+      "bytes": 14847,
+      "sha256": "5f6e30629c6ee72dc6e3d9656826708cdf4dedc7fa4e511078531255b81348d9"
+    },
+    {
+      "path": "archive/essay-guidance/references/innovation-essay-hub-v5.md",
+      "bytes": 130216,
+      "sha256": "eed46f6bee81ed206c500f78a54ff5b7926d2dc7be325d57b41f62d60c7e18ff"
+    },
+    {
+      "path": "archive/essay-guidance/references/project-record-and-portability.md",
+      "bytes": 8516,
+      "sha256": "b414ccc8bade838a2e53019f2e027883a513010fed2a1f1421e6909c2c32aae4"
+    },
+    {
+      "path": "archive/essay-guidance/references/review-and-release.md",
+      "bytes": 11505,
+      "sha256": "32f03a503a53dfe003869c376016419b0d6016abcb92be24bdebd10566114eb6"
+    },
+    {
+      "path": "archive/essay-guidance/references/user-production-standard.md",
+      "bytes": 3484,
+      "sha256": "9c0f5fdc4703046dbdc0423065eea71cb41a38c1e520086d3bea0c688366b577"
+    },
+    {
+      "path": "archive/essay-guidance/references/visual-and-imagery.md",
+      "bytes": 11626,
+      "sha256": "61af65e3c857f0f0d0e1d036d88223115ab4653aa852f22bcb6672354d416c35"
+    },
+    {
+      "path": "archive/essay-guidance/references/workflow.md",
+      "bytes": 13802,
+      "sha256": "fcec194f698c1a5e9bc9a6b873c47ad34ef4edd283ec167f5d54f52bc3c0987d"
+    },
+    {
+      "path": "archive/essay-guidance/references/writing-and-voice.md",
+      "bytes": 14629,
+      "sha256": "2eba086857f4bd5fcf188e692c8fddf8dfaae1348ea5585a10bbc23142800253"
+    },
+    {
+      "path": "archive/portability-transforms.json",
+      "bytes": 28059,
+      "sha256": "12d1250d04dac1f834fcf5aef2ee3378b51c44a8dc2e45d5b2cea01770545683"
+    },
+    {
+      "path": "archive/upstream-file-inventory.json",
+      "bytes": 122527,
+      "sha256": "c39a62cb99adb23b26ee8385da88a69efc93afe59e75f2b1ffafbd8955ef902b"
+    },
+    {
+      "path": "assets/chart-gallery-preview.jpg",
+      "bytes": 222152,
+      "sha256": "95ec22976ca298fcf59cdfd48b8d4582f92c91b98d28149ef8a75d060c8d12d2"
+    },
+    {
+      "path": "assets/reference-previews/citizen-charter.png",
+      "bytes": 168802,
+      "sha256": "d2c4b91bece4d3b1f80202f64bc0829ffe4d70edcadb6b3f35b96d434eeb3f5c"
+    },
+    {
+      "path": "assets/reference-previews/corpus-selection-contact-sheet.jpg",
+      "bytes": 447459,
+      "sha256": "c8b6ec92d10724f6551160b30e494a7fb4ae2c18d01ccb8247e89fbfaf82dd3d"
+    },
+    {
+      "path": "assets/reference-previews/dua-comparison.png",
+      "bytes": 205439,
+      "sha256": "e7ae0d8470f55bf45c137303f9847613f44a59520ce9441af4998727bf575715"
+    },
+    {
+      "path": "assets/reference-previews/dua-implementation.png",
+      "bytes": 205193,
+      "sha256": "f988c28a43c80b4eb31cbac81204dd29d41560f758774c718dd5ce72c1f72326"
+    },
+    {
+      "path": "assets/reference-previews/fishee-opening.png",
+      "bytes": 282694,
+      "sha256": "afa2f89e38831fc7b71d722c49134dbc2208743351619377216537754570e6bc"
+    },
+    {
+      "path": "assets/reference-previews/fishee-transaction.png",
+      "bytes": 295298,
+      "sha256": "0b8276925a17fb4f426b7713435f67bb055b41347a024a3c2a27381cea0179d8"
+    },
+    {
+      "path": "assets/reference-previews/jakarta-system.png",
+      "bytes": 504328,
+      "sha256": "299fa8e15f4d573ade3ed62c6c1a1fd07d488005612fe7c1b7baa2a144b8c028"
+    },
+    {
+      "path": "assets/reference-previews/pi-mt-writing.png",
+      "bytes": 227893,
+      "sha256": "fa97f97a0d3f8dee1888494cdeb8f25f28c6f307b1ecd3c834fc1afb96fc9310"
+    },
+    {
+      "path": "assets/reference-previews/preview-manifest.json",
+      "bytes": 8085,
+      "sha256": "d1f4c680cf25c97ebb89f6449cad836182f6cb6776c5390cc177c5fa0848a9a1"
+    },
+    {
+      "path": "assets/reference-previews/refeel-market-exhibit.png",
+      "bytes": 380657,
+      "sha256": "4d0b0d6456343b349e22b380623d732427efdebddd4e28304575a128ae16af54"
+    },
+    {
+      "path": "assets/reference-previews/refeel-service-workflow.png",
+      "bytes": 306389,
+      "sha256": "b65f2146042704588bc8748c977d1e9360722ec90e1e92456a3e07cf76b1f6eb"
+    },
+    {
+      "path": "assets/reference-previews/sakara-business-flow.png",
+      "bytes": 211446,
+      "sha256": "a1feb013e76b143dcc57ea47912e6b31ff74e7df0242d588885d007b98c53441"
+    },
+    {
+      "path": "assets/reference-previews/solvaerophil-appendix-calls.png",
+      "bytes": 172959,
+      "sha256": "6605c53ce35890a82201c93621395313a90af26c8c95ee003d595f640da525b7"
+    },
+    {
+      "path": "assets/reference-previews/taste-01.png",
+      "bytes": 256169,
+      "sha256": "099e03307e1729742884bc757d89c0d3e073f2bbd50aa71b19ba1b06d5bade9b"
+    },
+    {
+      "path": "assets/reference-previews/taste-02.png",
+      "bytes": 216888,
+      "sha256": "eb81aad8a8a445f1024a3cacabac9e0f953df4c346e12d4539ab29514dfc1081"
+    },
+    {
+      "path": "assets/reference-previews/taste-03.png",
+      "bytes": 134185,
+      "sha256": "b8e257208e589fb40ccca6d51365b7dda4d30dc257afb1930e6ec9725dcf237c"
+    },
+    {
+      "path": "assets/reference-previews/taste-04.png",
+      "bytes": 48317,
+      "sha256": "beda4b35261bac6c9f6f33c3cd9921d3bcbb7066d20130689f1835094869a08a"
+    },
+    {
+      "path": "assets/reference-previews/taste-05.png",
+      "bytes": 119418,
+      "sha256": "6e87790b2f6c4d0f3ec27d9f81e7c26806302227d36c5f58efa386ad307c4030"
+    },
+    {
+      "path": "assets/reference-previews/taste-06.png",
+      "bytes": 126337,
+      "sha256": "afd5b1ca8ae3254c495dbf96d75e79fda2ec7e77c8cc83665d79a5bc95ddf102"
+    },
+    {
+      "path": "assets/reference-previews/taste-07.png",
+      "bytes": 125691,
+      "sha256": "f7f78ef90eebfd20e24b0e246f5fb56c15d573d9ab62a1cd86fe8f2536c57d4a"
+    },
+    {
+      "path": "assets/reference-previews/taste-08.png",
+      "bytes": 88997,
+      "sha256": "040f9778212ee8fc3c3349551e0fd2463436ddc0614f494644b8f35661380b31"
+    },
+    {
+      "path": "assets/reference-previews/taste-09.png",
+      "bytes": 216147,
+      "sha256": "dd04b6c751583fc57bffaf04c8c362f982ea54655e29c1f39f2401291b1d5a05"
+    },
+    {
+      "path": "assets/reference-previews/taste-10.png",
+      "bytes": 127544,
+      "sha256": "2b8488e6b181febab6ebe812f94aca3085e6daef56ff77b220cc1ec15c6e350d"
+    },
+    {
+      "path": "assets/reference-previews/taste-11.png",
+      "bytes": 166259,
+      "sha256": "ff18fa4e3afd1ed5e78c7eef45a7c1eb5bde6a07158d40e5785368ad21fd1fe6"
+    },
+    {
+      "path": "assets/reference-previews/taste-12.png",
+      "bytes": 281456,
+      "sha256": "50997755336e41eac69b89d17918c8cdfc5902704b21a5b2e05c494ab22799f6"
+    },
+    {
+      "path": "assets/reference-previews/taste-13.png",
+      "bytes": 206242,
+      "sha256": "b2321a54a7ef588fa4f3cc884ba0b6b8833c81314c5c1f77ec584e35dc8e839b"
+    },
+    {
+      "path": "assets/reference-previews/taste-contact-sheet.jpg",
+      "bytes": 308930,
+      "sha256": "2284a67b54c758e31028805cdbb2fb85db22f3aaf4d5aac76c6e845eb0d54a50"
+    },
+    {
+      "path": "assets/reference-previews/taste-manifest.json",
+      "bytes": 5915,
+      "sha256": "39d8faf375dcca3d40b5c8d28d936ce6c938e7c280ab69709908d1f73bd19082"
+    },
+    {
+      "path": "cases/jejakbalik/JejakBalik_Esai_Revisi_2.docx",
+      "bytes": 3060905,
+      "sha256": "cb9df1909d274bc9d58eec80bd9d4333a8b216c26697f685de512b2f8ee2f552"
+    },
+    {
+      "path": "cases/jejakbalik/JejakBalik_Esai_dan_Lampiran.docx",
+      "bytes": 5851611,
+      "sha256": "2a6da711f723c1cba35d789da491e43a147556fc1bbabcc529c00071a50ed4ff"
+    },
+    {
+      "path": "cases/jejakbalik/JejakBalik_Esai_dan_Lampiran.pdf",
+      "bytes": 3562679,
+      "sha256": "50a7b3ed6940d81373634908f7e0e680ab0713c8a721a9d77154449b77fd54f6"
+    },
+    {
+      "path": "cases/jejakbalik/JejakBalik_Master_AI_Context_v3.md",
+      "bytes": 27403,
+      "sha256": "8227ffaa8be07eab8070097926ba02c38b769e4aeda13c580bfd65f55b43c7be"
+    },
+    {
+      "path": "cases/jejakbalik/README.md",
+      "bytes": 1847,
+      "sha256": "df78c8e8f5e91930ab44331e0ea6da7a87e68aeaf5d67634a311cb9168b84890"
+    },
+    {
+      "path": "cases/jejakbalik/owner-screenshots/Screenshot 2026-11-04 183445.png",
+      "bytes": 447351,
+      "sha256": "267badae07c6100b6ad3e892ae512febd019ee185d577a8a0fdfa575a0cca6c7"
+    },
+    {
+      "path": "cases/jejakbalik/owner-screenshots/Screenshot 2026-11-04 183449.png",
+      "bytes": 61152,
+      "sha256": "bbdb968a845009056dccbd7af935b96794c1f9ab4079947633a58c02bec8497b"
+    },
+    {
+      "path": "cases/jejakbalik/owner-screenshots/Screenshot 2026-11-04 183501.png",
+      "bytes": 496082,
+      "sha256": "47a970754929ec66655aafb0d5469ccda114c9a23aeb48f88c7acad3febf0797"
+    },
+    {
+      "path": "cases/jejakbalik/owner-screenshots/Screenshot 2026-11-04 183507.png",
+      "bytes": 355038,
+      "sha256": "ea17cb1f3fb920fd86dc90a2ea72a208e0ad3ac8b906b5111ae46f3be1a332ea"
+    },
+    {
+      "path": "cases/jejakbalik/owner-screenshots/Screenshot 2026-11-04 183513.png",
+      "bytes": 448281,
+      "sha256": "37d82c4a288e0f1a9810c86eba96340952f49fad740e16813c2d0d44b6a761c0"
+    },
+    {
+      "path": "cases/jejakbalik/owner-screenshots/Screenshot 2026-11-04 183521.png",
+      "bytes": 334416,
+      "sha256": "a41fdc5d5b37dc8ac28e4e54ddbf180e7a178af59282afba0a98b9d7bffcfa5b"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/appendix_content.json",
+      "bytes": 59151,
+      "sha256": "697bacd4ced9de2da3f40ed4fe0757a9fcd9d7b07b85a7eef31137ef7b40b364"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/concept_service.png",
+      "bytes": 2798725,
+      "sha256": "19c13bf07363e4807c5ad0cf72f84ae732a1c7d008dcefb84d14d543811905d3"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/figures/finance_annual.pdf",
+      "bytes": 15981,
+      "sha256": "1993b1393293c5f9ea9b781882e6654fabaef4bf367e8e716ba8ecd6ca39f95f"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/figures/finance_annual.png",
+      "bytes": 60385,
+      "sha256": "eb190c4bb0e35682b96e7a3dd856b4328741ccacf9cefe98abea1b56e74029f1"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/figures/finance_cash.pdf",
+      "bytes": 24254,
+      "sha256": "24125502bc4db30bcadccabf86328386beddae8e54dd56100d2f28368ab3bf8d"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/figures/finance_cash.png",
+      "bytes": 76529,
+      "sha256": "f85b0de67c3ede7c994a5440fdee706ab8bc2af1704ab56d9e8af1674606e53e"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/figures/finance_sensitivity.pdf",
+      "bytes": 26803,
+      "sha256": "305b7f57421ceb0e99a2865baeeb402d769145bac4b984822f2f2f08ee86bff1"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/figures/finance_sensitivity.png",
+      "bytes": 132087,
+      "sha256": "c9e9151ab64e744303c749ff17beca0c43013c570764f37d4f316a6de0954969"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/figures/gantt_decade.pdf",
+      "bytes": 16924,
+      "sha256": "23f91919ad9166c6d366df9c15a216c14e608241c16ea05ae594c52d5674b251"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/figures/gantt_decade.png",
+      "bytes": 90744,
+      "sha256": "e48725f0da62149a8ba00f5e09606b12b49162d3ec5967035d4d500e80dff73a"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/figures/gantt_year1.pdf",
+      "bytes": 17669,
+      "sha256": "c75c019a9c032f3ddad89014b39aa27cc375c3bb6340659840d900d5c4c1c2ef"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/figures/gantt_year1.png",
+      "bytes": 122109,
+      "sha256": "3b042fad4a1195b7a0eef12eafda13880b69642f20bb2b02676d2a57de47b37b"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/figures/issue_tree.pdf",
+      "bytes": 29918,
+      "sha256": "d4b92c32186fdeb96ff28a0907cc4410b6f4c8197c1032e45dff72cdf9a96532"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/figures/issue_tree.png",
+      "bytes": 194639,
+      "sha256": "ea2c95b553fa80e38b43419ce55e616731b32ae46bd73c90206711a355b63a1b"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/figures/main_system.pdf",
+      "bytes": 25669,
+      "sha256": "f8d2aa400c06d0c42aade067d2b451d1681db6d46d6f93cfa7395afac89e1152"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/figures/main_system.png",
+      "bytes": 124075,
+      "sha256": "67c36fbcc5da0d779fdc8dbaab53a8b8da8c812e5fe552f39097652b16218f3f"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/figures/manifest.json",
+      "bytes": 4325,
+      "sha256": "f3b1f05d57a2a7397934878dbc5463ef1ad87305fa713825510ee598197553e3"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/figures/mc_drivers.pdf",
+      "bytes": 32991,
+      "sha256": "6dfbc0e0bb5544707d99ee9e048242933026371900ab23ed6b69fc49f9e5bd2b"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/figures/mc_drivers.png",
+      "bytes": 82388,
+      "sha256": "db88cb6352243e3392249df87a431f281864a5b241d30cd6411e8494c5373b02"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/figures/mc_funding.pdf",
+      "bytes": 17162,
+      "sha256": "928c33979f15e7549abfc7420fe2603ef9636434cadb298a5419f8c3ecae4bb2"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/figures/mc_funding.png",
+      "bytes": 60214,
+      "sha256": "571a558632a54dc171824d756b1646fd4eab1a34cb992c0de2b6a8ce30a044b6"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/figures/mc_npv.pdf",
+      "bytes": 25332,
+      "sha256": "3f65c9a637964609f1d867ae7e5ac6c2e4bd3e63d7cced13a26e7a51936f34b2"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/figures/mc_npv.png",
+      "bytes": 49421,
+      "sha256": "6f39e6ac6b7cb624fae2a88822d8b4fa1140d6e5f6e4b3c0ea3504d04f75bafe"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/figures/prototype_comparison.pdf",
+      "bytes": 15805,
+      "sha256": "d4a3d897088586daeefbf9af8e6c6f9b2af62ff1448fa044cde8aa5f1ba2c26b"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/figures/prototype_comparison.png",
+      "bytes": 46932,
+      "sha256": "8e250be8084a53ed2f6bc5d72fb659cb1af4490f722425e17bc56fca6c201ae7"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/figures/risk_heatmap.pdf",
+      "bytes": 17033,
+      "sha256": "952ecf5300dbac69eaee4c2a5b99dcce286d43a70d1583462231b2fa04fa783d"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/figures/risk_heatmap.png",
+      "bytes": 140789,
+      "sha256": "093542389c0e121017788455a48b1f798f760fb97c53347a9c920b32c684a1f6"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/figures/service_swimlane.pdf",
+      "bytes": 26362,
+      "sha256": "4fc7f2468d786f242fdcf9be35f9e24774cce4d45e0e7e076b0cfe4c42252fbc"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/figures/service_swimlane.png",
+      "bytes": 136993,
+      "sha256": "5c86d43972e7909f9db28fadbbd57be5e4ad601b191a8b0668dc5448da0961d4"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/figures/tam_sam_som.pdf",
+      "bytes": 35110,
+      "sha256": "f63abb7071cd5bed30cb4c541fd6a6dc9cac28a0e18a15e82e21538ba7986b2f"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/figures/tam_sam_som.png",
+      "bytes": 112323,
+      "sha256": "c4c26f9def0bddac1dc879e1bfb5e4541edc6024e87bd60aca9d10820599903d"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/logos/dlh-bemui-black.png",
+      "bytes": 7262,
+      "sha256": "d92880be31f46b447708b26f85caf89ed3068e356a2cbf424283caa2262f287f"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/logos/ewasterj-black.png",
+      "bytes": 38215,
+      "sha256": "e2607ef092a10e986ed941ea93eba767bc6113fe2478a14e3efc966013860534"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/logos/lintasarta-black.png",
+      "bytes": 11128,
+      "sha256": "10a72597a0ebcf3115442e7377f7f4281fb18488320e984e7864a0216a51a8b6"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/logos/lintasarta-peduli-black.png",
+      "bytes": 8082,
+      "sha256": "21fefc21e23ccf25205825d8a47e29e5b85d7d8b8493e7bb0196343bda00e76d"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/logos/source-87.png",
+      "bytes": 13996,
+      "sha256": "31d7131c606260ae728a3214319e4a82dc47bd9ef050e967ffcf81b4a434f79f"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/logos/source-88.png",
+      "bytes": 49565,
+      "sha256": "88070e26d59233c148d16708389011500dd5aa09d4d70503fd84d026a2a0c9b5"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/logos/source-89.png",
+      "bytes": 10386,
+      "sha256": "2a707098d247e45ca29597af2cade0c55b14a2093809c8e46706974c19ff73af"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/logos/source-90.png",
+      "bytes": 10597,
+      "sha256": "d6dae9428875646284d214d73d4dcc7efb06ffe1b0e28b762d88bf716dc386fd"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/screenshots/01-network.png",
+      "bytes": 785825,
+      "sha256": "fbf4f93001f8bdfd886d194b0b1335d1e838b1ff6842a485282231642bf89038"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/screenshots/02-journey-comparison.png",
+      "bytes": 1014824,
+      "sha256": "6156fc296202b44a654b53dc532d503dc61a8c64fae1e118844f19e930fe49b0"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/screenshots/03-approval.png",
+      "bytes": 775907,
+      "sha256": "802895e6b20f80052c6cb3ed341c506b4263dd9e4a93ab43763aca301b3c135f"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/screenshots/04-custody-exception.png",
+      "bytes": 248563,
+      "sha256": "3ec7bb115398e165d5e027b56795518b8bed186425bbe6c4594812470baafa60"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/screenshots/05-data-hold.png",
+      "bytes": 254468,
+      "sha256": "7b57341ad50681cf97daa0aafad5662d73bf5629d835d70416ce6176f374146e"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/screenshots/06-results.png",
+      "bytes": 224459,
+      "sha256": "83edb84c2c696712dd12882a095939022cf558defe8248d31da3067f7f5d5d54"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/screenshots/07-intake.png",
+      "bytes": 281310,
+      "sha256": "f4dfe52bf17ae2d6f26de5ac0cb57e1f71906381971abc512394b8548d0610c7"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/screenshots/08-reference-results.png",
+      "bytes": 230596,
+      "sha256": "eb67ac10daef6923800b9dae564d6406aff29a42285cd196dcdd45c9663d0cc0"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/screenshots/09-options-detail.png",
+      "bytes": 369321,
+      "sha256": "87548da593005b42843974c3cc33f301ee27adf5e49faca2c26dec7eec73b7c5"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/screenshots/10-device-view.png",
+      "bytes": 416713,
+      "sha256": "15ea957546e001aca6973bbdd797840ad58a124c56cebe23a58b405357352be7"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/screenshots/11-owner-vehicle.png",
+      "bytes": 249817,
+      "sha256": "ff09c3797a99c8245063d38f11cc911afc218ebab7234f33a113eb0dae97fb50"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/screenshots/12-owner-facility.png",
+      "bytes": 281583,
+      "sha256": "cce0dd13161f230b91d77b69ddac8c478ec5d36171af033ab53079a8b10a0605"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/screenshots/13-custody-detail.png",
+      "bytes": 67968,
+      "sha256": "5f437646a22395a9f88d0facdf5c2ca81f4285d1ac67cbe67d221d0370a40fc3"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/screenshots/14-data-detail.png",
+      "bytes": 53544,
+      "sha256": "54f7b01fb33e51e87ef821a7d2993745fddb6b1d43bd02714efebbde227346ab"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/screenshots/15-approval-detail.png",
+      "bytes": 131974,
+      "sha256": "3b517d06654e4c1d44a18c6f393946115186de6b9b657808e1bd71ad01340166"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/screenshots/16-options-detail.png",
+      "bytes": 87673,
+      "sha256": "8862334bc2ab2583f05fd48729d737fefd6afd0ff67d5ab19d4e7046774a4e57"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/screenshots/17-intake-detail.png",
+      "bytes": 86755,
+      "sha256": "029d7b1b412fcc12e03ab6231daaee8629f93edd42173cdf7866e82b8cba602b"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/screenshots/18-results-detail.png",
+      "bytes": 177831,
+      "sha256": "c4188302c0154c3239b064e612a71351097e0636eb3dd3b3c79e08014ec05a49"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/screenshots/19-options-compact.png",
+      "bytes": 73789,
+      "sha256": "5a6b1531f050548e6033d440c5baf9d6541d1f0ec4921f55e04d58118afb9022"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/screenshots/manifest.json",
+      "bytes": 4045,
+      "sha256": "550aa6faa3a131118cc8a7f3751079e4118958ce0246d3dd4a1a2bd00833b652"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/build_document.py",
+      "bytes": 38134,
+      "sha256": "0892350aa14f5214eed2a0b49ae47f5ac3035119826b74db240069f11af9ec77"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/evidence.json",
+      "bytes": 27412,
+      "sha256": "0fde1c813f129b3a214f6fe5eabb80572811e93db5b9dba90615d7be91895f73"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/figures/build_figures.py",
+      "bytes": 13113,
+      "sha256": "33823b983edc68224fc490fa6a06088ec8f4db6b03deaae91c17b70661e15e2e"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/figures/build_finance_figures.py",
+      "bytes": 9781,
+      "sha256": "7c780bead9e2acf3072c204d4bcefa95c27f4c7a16a39dc9426fbe41d31f8700"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/figures/finance_annual.tex",
+      "bytes": 1941,
+      "sha256": "03fd7ca60ed05a11144dff5cecbc1f0446d70be05712488863befe2920e30a34"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/figures/finance_cash.tex",
+      "bytes": 2925,
+      "sha256": "3939c0ce31bce4191c32b28669520f2373e09ce5762bbbba982c7717db2ed943"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/figures/finance_sensitivity.tex",
+      "bytes": 1927,
+      "sha256": "64cf41da8de1f10db383087e943e08adef1c166b906d4cc1ad0eca415c7d90b6"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/figures/gantt_decade.tex",
+      "bytes": 1870,
+      "sha256": "675477f84c11dc6a8b17c88ef39670fdea14167a16a92654efdb693d205e2c8e"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/figures/gantt_year1.tex",
+      "bytes": 1891,
+      "sha256": "3418d251d24a318b7e50b7fcc1b97405e18de1d907419af99abc690f779c9185"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/figures/issue_tree.tex",
+      "bytes": 2721,
+      "sha256": "92438d6d3ea303b21141ef76f7721dd2ee78e0997b3b849d4c96e1cd56332aff"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/figures/main_system.tex",
+      "bytes": 1947,
+      "sha256": "406d5f5b6fb7fcb421824be35839eccaa48ce9de50dc6b161d5485632a96e05e"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/figures/mc_drivers.tex",
+      "bytes": 1803,
+      "sha256": "6d5e5284f0263f62c02f0152ae7f812068b9a51058d4fc835ab35032683249d8"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/figures/mc_funding.tex",
+      "bytes": 2658,
+      "sha256": "4eba645ea74e29d786e6565b31ebc0c96ea93f19d5bf95c3e384ab7c72d9776f"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/figures/mc_npv.tex",
+      "bytes": 2434,
+      "sha256": "821e9945a13d12e6950be8b1fdd5e459e2cff3eabc1617a7ebe470d8ebaf1ae5"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/figures/prototype_comparison.tex",
+      "bytes": 2030,
+      "sha256": "fcceb0c5badc5527c4b0581522843f8f5d4f62893253706bfd5acb7ce49a4748"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/figures/risk_heatmap.tex",
+      "bytes": 4068,
+      "sha256": "c8665b146bbd41acc9b1017fea280929b89ba4a65e6b0df583a8f901497f8551"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/figures/service_swimlane.tex",
+      "bytes": 2472,
+      "sha256": "a2aaf973e88dc41ab131548a8e74cd2a67598dc6dbcbfb2800d1c4a72deb6af7"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/figures/tam_sam_som.tex",
+      "bytes": 1977,
+      "sha256": "a62ebc34c0a8f91824a3b1af52023363e3fac04d9b1423fda00a872501237857"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/finance.json",
+      "bytes": 38123,
+      "sha256": "a57f6827cdfe9612e64e669954541cd939a1ebf2ec7a50872c74fd6c4553ab9f"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/finance_mc_draws.csv",
+      "bytes": 2322044,
+      "sha256": "5eb2832e46d869817bdf9fb6f2638a7f97ea8b42318427665d90ea70a58f39b8"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/finance_model.py",
+      "bytes": 22747,
+      "sha256": "d82d92ef3db076035dd58be224f42d75851f18be90713eb61d78a6057d501359"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/finance_tables.json",
+      "bytes": 15516,
+      "sha256": "72ef0b81d54926c27cb32a6363694cd19e29dd3b9c7bf7c949d4c6a83796b1b6"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/main.json",
+      "bytes": 12409,
+      "sha256": "3b7acc252a40bb848f1b838c8599a4aa9ebe2936e68a4a74005f739cd6243aab"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/method_appendix.json",
+      "bytes": 6592,
+      "sha256": "a3f9fdd116d2c8193f96f231deb2485413be0298741c2dc8e8e63b0bdc3e28a9"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/prototype-execution/run.mjs",
+      "bytes": 6027,
+      "sha256": "910b51770debf248e78da267928f8c74bec5ccba62cbfafd9890fcb78357a333"
+    },
+    {
+      "path": "cases/jejakbalik/production-original/prototype_scenarios.json",
+      "bytes": 37359,
+      "sha256": "d7c8010e11d33bfd310b87a26d8a79cc529edffec7a43362c486be4e3d89a421"
+    },
+    {
+      "path": "cases/jejakbalik/source-current/all-49-comments.json",
+      "bytes": 75830,
+      "sha256": "e22b0f9f0331f062c92025b218e60aa24364084a1f43e7c8b705fd62aab15171"
+    },
+    {
+      "path": "cases/jejakbalik/source-current/assembled_sections.json",
+      "bytes": 92552,
+      "sha256": "22b8afe70316732af390f54496a17358cbb3c2151e7393eb0710feb537721caa"
+    },
+    {
+      "path": "cases/jejakbalik/source-current/embedded-media/image30.png",
+      "bytes": 7262,
+      "sha256": "d92880be31f46b447708b26f85caf89ed3068e356a2cbf424283caa2262f287f"
+    },
+    {
+      "path": "cases/jejakbalik/source-current/embedded-media/image31.png",
+      "bytes": 11128,
+      "sha256": "10a72597a0ebcf3115442e7377f7f4281fb18488320e984e7864a0216a51a8b6"
+    },
+    {
+      "path": "cases/jejakbalik/source-current/embedded-media/image32.png",
+      "bytes": 435297,
+      "sha256": "c213f865cd875647b326f9bd5f8f03bbfd83fd9144a84bfcf2aeab07663f7e34"
+    },
+    {
+      "path": "cases/jejakbalik/source-current/embedded-media/image33.png",
+      "bytes": 695,
+      "sha256": "52af592826d1b950ab64d240becf0d5156ab159e2abe3360d01d320219fee559"
+    },
+    {
+      "path": "cases/jejakbalik/source-current/embedded-media/image34.png",
+      "bytes": 378874,
+      "sha256": "39b7801c81c192417d3cb4b7758461b218cf743337a3794133d5ab4547b37ca7"
+    },
+    {
+      "path": "cases/jejakbalik/source-current/embedded-media/image35.png",
+      "bytes": 189109,
+      "sha256": "76073f940afdc583a0a7138e11767ed7db0ff452db7b1c85e945793bc7170a3d"
+    },
+    {
+      "path": "cases/jejakbalik/source-current/embedded-media/image36.png",
+      "bytes": 785825,
+      "sha256": "fbf4f93001f8bdfd886d194b0b1335d1e838b1ff6842a485282231642bf89038"
+    },
+    {
+      "path": "cases/jejakbalik/source-current/embedded-media/image37.png",
+      "bytes": 67968,
+      "sha256": "5f437646a22395a9f88d0facdf5c2ca81f4285d1ac67cbe67d221d0370a40fc3"
+    },
+    {
+      "path": "cases/jejakbalik/source-current/embedded-media/image38.png",
+      "bytes": 53544,
+      "sha256": "54f7b01fb33e51e87ef821a7d2993745fddb6b1d43bd02714efebbde227346ab"
+    },
+    {
+      "path": "cases/jejakbalik/source-current/embedded-media/image39.png",
+      "bytes": 73789,
+      "sha256": "5a6b1531f050548e6033d440c5baf9d6541d1f0ec4921f55e04d58118afb9022"
+    },
+    {
+      "path": "cases/jejakbalik/source-current/embedded-media/image40.png",
+      "bytes": 131974,
+      "sha256": "3b517d06654e4c1d44a18c6f393946115186de6b9b657808e1bd71ad01340166"
+    },
+    {
+      "path": "cases/jejakbalik/source-current/embedded-media/image41.png",
+      "bytes": 86755,
+      "sha256": "029d7b1b412fcc12e03ab6231daaee8629f93edd42173cdf7866e82b8cba602b"
+    },
+    {
+      "path": "cases/jejakbalik/source-current/embedded-media/image42.png",
+      "bytes": 177831,
+      "sha256": "c4188302c0154c3239b064e612a71351097e0636eb3dd3b3c79e08014ec05a49"
+    },
+    {
+      "path": "cases/jejakbalik/source-current/embedded-media/image43.png",
+      "bytes": 46932,
+      "sha256": "8e250be8084a53ed2f6bc5d72fb659cb1af4490f722425e17bc56fca6c201ae7"
+    },
+    {
+      "path": "cases/jejakbalik/source-current/embedded-media/image44.png",
+      "bytes": 112323,
+      "sha256": "c4c26f9def0bddac1dc879e1bfb5e4541edc6024e87bd60aca9d10820599903d"
+    },
+    {
+      "path": "cases/jejakbalik/source-current/embedded-media/image45.png",
+      "bytes": 60385,
+      "sha256": "eb190c4bb0e35682b96e7a3dd856b4328741ccacf9cefe98abea1b56e74029f1"
+    },
+    {
+      "path": "cases/jejakbalik/source-current/embedded-media/image46.png",
+      "bytes": 76529,
+      "sha256": "f85b0de67c3ede7c994a5440fdee706ab8bc2af1704ab56d9e8af1674606e53e"
+    },
+    {
+      "path": "cases/jejakbalik/source-current/embedded-media/image47.png",
+      "bytes": 122109,
+      "sha256": "3b042fad4a1195b7a0eef12eafda13880b69642f20bb2b02676d2a57de47b37b"
+    },
+    {
+      "path": "cases/jejakbalik/source-current/embedded-media/image48.png",
+      "bytes": 90744,
+      "sha256": "e48725f0da62149a8ba00f5e09606b12b49162d3ec5967035d4d500e80dff73a"
+    },
+    {
+      "path": "cases/jejakbalik/source-current/embedded-media/image49.png",
+      "bytes": 140789,
+      "sha256": "093542389c0e121017788455a48b1f798f760fb97c53347a9c920b32c684a1f6"
+    },
+    {
+      "path": "cases/jejakbalik/source-current/embedded-media/image50.png",
+      "bytes": 49421,
+      "sha256": "6f39e6ac6b7cb624fae2a88822d8b4fa1140d6e5f6e4b3c0ea3504d04f75bafe"
+    },
+    {
+      "path": "cases/jejakbalik/source-current/embedded-media/image51.png",
+      "bytes": 82388,
+      "sha256": "db88cb6352243e3392249df87a431f281864a5b241d30cd6411e8494c5373b02"
+    },
+    {
+      "path": "cases/jejakbalik/source-current/figure_manifest.json",
+      "bytes": 1399,
+      "sha256": "40f237b580346636afcd79ea4f2b3dbe5eaf2298d47cd8261e162528f498bafb"
+    },
+    {
+      "path": "cases/jejakbalik/source-current/finance_model.py",
+      "bytes": 22747,
+      "sha256": "d82d92ef3db076035dd58be224f42d75851f18be90713eb61d78a6057d501359"
+    },
+    {
+      "path": "cases/jejakbalik/source-current/impact.py",
+      "bytes": 16379,
+      "sha256": "1578e97c2d7a89ed09a5770b0d9d9140595d2c95500cf997c1fc78b62c3a3d6b"
+    },
+    {
+      "path": "cases/jejakbalik/source-current/issue_tree_horizontal.tex",
+      "bytes": 4907,
+      "sha256": "7456e5426e31a4dce5a3f92500c758e46de12d54b35b668f1a38219b2a19a60c"
+    },
+    {
+      "path": "cases/jejakbalik/source-current/main_overview_strip.tex",
+      "bytes": 1337,
+      "sha256": "928fc753bbba07e789de19d8ed0ac029751a584c5f4dc5aad1185e1502b1e1e5"
+    },
+    {
+      "path": "cases/jejakbalik/source-current/media_manifest.json",
+      "bytes": 3265,
+      "sha256": "6e6f3036582ae65081cf632b5e7b26f86fa945eb28bab4bc9c50dd87722ba642"
+    },
+    {
+      "path": "cases/jejakbalik/source-current/overview_sources.json",
+      "bytes": 1578,
+      "sha256": "2c77056283b3f998297885f7ce314c769f19d9b006b19f288de63268a368ca02"
+    },
+    {
+      "path": "cases/jejakbalik/source-current/prototype_scenarios.json",
+      "bytes": 37360,
+      "sha256": "a1dc7849b105963acbdc3d5c04f8184a3bab5681c8a6cad7718309d5a15475e0"
+    },
+    {
+      "path": "cases/jejakbalik/source-current/service_flow.tex",
+      "bytes": 2428,
+      "sha256": "bbd783ea0f4bcec64d2654fb51cc9d7391cabbc9ad776a42301db9e1be3cb7c9"
+    },
+    {
+      "path": "cases/jejakbalik/source-history/JejakBalik_Master_AI_Context_v3(1).md",
+      "bytes": 27403,
+      "sha256": "8227ffaa8be07eab8070097926ba02c38b769e4aeda13c580bfd65f55b43c7be"
+    },
+    {
+      "path": "cases/jejakbalik/source-history/original-archive/finance_mc_draws.csv",
+      "bytes": 2332045,
+      "sha256": "47a66280fb9bb86a927aad1ab0ded12d97389de49c52d15874dad5799233b0ba"
+    },
+    {
+      "path": "cases/jejakbalik/source-history/original-archive/qa_final.json",
+      "bytes": 640,
+      "sha256": "89647af4b66a6718e0235292baafdb3b826c532279e201f67535dd23531394ba"
+    },
+    {
+      "path": "docs/calculation-tools.md",
+      "bytes": 4543,
+      "sha256": "bbcc76ab74ffeef4fc1a36f4ebef62c7619fd6557f8670e65fb0f312d3a0db39"
+    },
+    {
+      "path": "docs/chart-gallery.md",
+      "bytes": 26517,
+      "sha256": "5d2cc87d184cc1fefc443a164afe6bf5a36729e76cc6c72ce7d8c47a9c0644f1"
+    },
+    {
+      "path": "docs/document-intake.md",
+      "bytes": 7457,
+      "sha256": "1f9722e363dca27229f8f750596824bcfe2cc51a6fcafa2e924c6890a79680c4"
+    },
+    {
+      "path": "docs/document-schema.md",
+      "bytes": 14801,
+      "sha256": "0f885551488f3051da7cc9b1bb549d9dfc9e7990773dc7fd09d52a1ca8e66e97"
+    },
+    {
+      "path": "docs/portability.md",
+      "bytes": 213,
+      "sha256": "8980d6734aa148bf84f92e4a2cdc8a7e3e0adb0aff174e75ca078a4fec963b94"
+    },
+    {
+      "path": "docs/reference-atlas.md",
+      "bytes": 8742,
+      "sha256": "b8389f5d43a0243043ecd4063eb15bae03c436847f50abd80340e9d4d607a7f9"
+    },
+    {
+      "path": "docs/review-playbook.md",
+      "bytes": 217,
+      "sha256": "88b8cf44edf1446102994e01c37e50fc746127cf80e5476d652390ff324418d2"
+    },
+    {
+      "path": "docs/setup.md",
+      "bytes": 2263,
+      "sha256": "b87dffb2b363defb65a495b87cbcf52b62cde13a0f0c9cab8911ab3c658c02c3"
+    },
+    {
+      "path": "docs/style-guide.md",
+      "bytes": 213,
+      "sha256": "fdbefab346c5e9cbecd3b21038251cf28777c03b0fe5f84eabd7123bd063f9c5"
+    },
+    {
+      "path": "docs/workflow.md",
+      "bytes": 202,
+      "sha256": "62351acb2aef4693616d081947a0284052442feebdee815892398db4dbb0b792"
+    },
+    {
+      "path": "examples/figure-demo.json",
+      "bytes": 962,
+      "sha256": "6863f64bb299b3be9e0b7f9204e88acf4c5052564be5779e3ffcbbdc9a3f1a99"
+    },
+    {
+      "path": "examples/finance-plan.json",
+      "bytes": 1121,
+      "sha256": "6961a6ec98c63e6d1377381e70d15e7570a0785b0762c6d3c94d3bd9809a4d33"
+    },
+    {
+      "path": "examples/project-record-template.json",
+      "bytes": 773,
+      "sha256": "0e8836e407be0fc1b02de94578d80679be3636eb2c29cd2bc857cc048f397677"
+    },
+    {
+      "path": "examples/ruang-rapi/HANDOFF.md",
+      "bytes": 431,
+      "sha256": "63b81c238f8e02cfc426a09d663a8da150f0dec6dfeeca9b80750ea6cf4fb936"
+    },
+    {
+      "path": "examples/ruang-rapi/README.md",
+      "bytes": 1488,
+      "sha256": "97531259c7ea488486d788c16716e9536bb1cbbd3505d125e784d504c52e7a02"
+    },
+    {
+      "path": "examples/ruang-rapi/assets/charts/cash.meta.json",
+      "bytes": 950,
+      "sha256": "f14d05010bc25b78e31970036859eff9910eccd8ba1773c42605dc9164d386ca"
+    },
+    {
+      "path": "examples/ruang-rapi/assets/charts/cash.pdf",
+      "bytes": 15053,
+      "sha256": "2542ff821275192369310f4875769a43bea07e2030842eaa173292f8a8cb2b22"
+    },
+    {
+      "path": "examples/ruang-rapi/assets/charts/cash.png",
+      "bytes": 56346,
+      "sha256": "31b22a9d9644fbaf481d632036d87353f49e944d0518590e51bc97aecba51856"
+    },
+    {
+      "path": "examples/ruang-rapi/assets/charts/cash.tex",
+      "bytes": 1486,
+      "sha256": "81f2522da63732698c55d987f21ceb5e3b30d006df642b283f41d149b9ad6246"
+    },
+    {
+      "path": "examples/ruang-rapi/audit.json",
+      "bytes": 1468,
+      "sha256": "f751703eba4b2d3e83102967b2287f4e226bfaf2c81eb089f725721182da43f6"
+    },
+    {
+      "path": "examples/ruang-rapi/build_sample.py",
+      "bytes": 9976,
+      "sha256": "58d237abebd10980b0899074dfb9aab37326db0e53bb6c82fbcb18c00d77c4d3"
+    },
+    {
+      "path": "examples/ruang-rapi/draft.md",
+      "bytes": 5769,
+      "sha256": "a6765f254ad15b1ea67406c5d8c4affe14a762140f63182b334365f0d71f4e37"
+    },
+    {
+      "path": "examples/ruang-rapi/finance-input.json",
+      "bytes": 1596,
+      "sha256": "c495ad3640283e9fcd8e64473ac1029e37ac74cd526241cb02fd26e652452ae6"
+    },
+    {
+      "path": "examples/ruang-rapi/model/chart-inputs/cash.json",
+      "bytes": 1050,
+      "sha256": "c84b4b18eced835115c0ebb19b28060aca11d560f989244f43d5e56229390df1"
+    },
+    {
+      "path": "examples/ruang-rapi/model/finance.json",
+      "bytes": 19782,
+      "sha256": "eedf32477254e41faa91e8658aeabaa719e22e3b8fdc35ec45d0d0bb1b17fc4c"
+    },
+    {
+      "path": "examples/ruang-rapi/model/monthly.csv",
+      "bytes": 3150,
+      "sha256": "45d505e8992803595dc168901e6a7584d805d29f21b700a2f3108bc9f16ff11e"
+    },
+    {
+      "path": "examples/ruang-rapi/model/reconciliation.json",
+      "bytes": 585,
+      "sha256": "83a25121e279d885898163870bcba86b71a01da762514227f31806624224839a"
+    },
+    {
+      "path": "examples/ruang-rapi/project-record.json",
+      "bytes": 3000,
+      "sha256": "d997005a1abe7a62a87b5772375096b4479098aa2e8d0d0ae8d9d91e40cf9c6e"
+    },
+    {
+      "path": "examples/ruang-rapi/proposal.build.json",
+      "bytes": 1112,
+      "sha256": "07f5a0477f865821e5555195f0ba8d9b7c19198556f940b08de2bb1ad17c8e07"
+    },
+    {
+      "path": "examples/ruang-rapi/proposal.docx",
+      "bytes": 88486,
+      "sha256": "1455f45b634d0409a623a4821b60b0002bc7a75cc94585377f95412889f2a735"
+    },
+    {
+      "path": "examples/ruang-rapi/proposal.json",
+      "bytes": 14175,
+      "sha256": "7c3a7c7813e0ac9fb5dfbec259f8046ca839337405adf9778ab5b74cbecd4e83"
+    },
+    {
+      "path": "examples/ruang-rapi/reconcile.py",
+      "bytes": 5438,
+      "sha256": "9256ef466e956517dccc51dd224051b0d1bbbf8992779afe8e324f2c404628d3"
+    },
+    {
+      "path": "examples/ruang-rapi/render/proposal.pdf",
+      "bytes": 192558,
+      "sha256": "9681e4db0d3d1a9831074652af445bb0b3db592f4813dacecb21e76ea6e80393"
+    },
+    {
+      "path": "examples/ruang-rapi/render/render-report.json",
+      "bytes": 1348,
+      "sha256": "5acb0a9ec72c33854298ce71ba6e72414ea7f825727207d8994c730aa36c177e"
+    },
+    {
+      "path": "examples/ruang-rapi/voice.json",
+      "bytes": 259,
+      "sha256": "78443d96b21042012691f1d8f75a84aab33ad38096f0ae3fcc1d46e7666f8125"
+    },
+    {
+      "path": "examples/short-demo.json",
+      "bytes": 7606,
+      "sha256": "496cc44c4999b18318a8513e7bf645805878b867ce33b8f1c22393585db36c1c"
+    },
+    {
+      "path": "examples/weighted-score.json",
+      "bytes": 526,
+      "sha256": "588c1acf8eebb7fc846d117c50da37c8f97d333b441f297995bc56a7f0b454cd"
+    },
+    {
+      "path": "library/bpc-index.md",
+      "bytes": 10243,
+      "sha256": "d0964c3df03ee78081b323cea138219245f538336274a75b327cfead6de462e1"
+    },
+    {
+      "path": "library/bpc-inventory.json",
+      "bytes": 21347,
+      "sha256": "8d26791f77414550224a868dafd800bfc7d494df2eee0088aadf3d69dafcde16"
+    },
+    {
+      "path": "library/bpc-lessons/BPC-01.md",
+      "bytes": 1426,
+      "sha256": "88053c82c62e7a16bf040e967501a4b62bc249e2dd48fdc86436a14c2c26256e"
+    },
+    {
+      "path": "library/bpc-lessons/BPC-02.md",
+      "bytes": 1552,
+      "sha256": "146095431b2d96ad512836d8eb04344b6168306bf96e0997403f719ca78dc944"
+    },
+    {
+      "path": "library/bpc-lessons/BPC-03.md",
+      "bytes": 1389,
+      "sha256": "80cdac151eb924645860f1379d8f8bde35c2ec1c571ead5b3ca57862cf62cb72"
+    },
+    {
+      "path": "library/bpc-lessons/BPC-04.md",
+      "bytes": 1510,
+      "sha256": "d232da7a3340c7c3c647ba4c203adf36699d7d556475c21cb33ae747401834b4"
+    },
+    {
+      "path": "library/bpc-lessons/BPC-05.md",
+      "bytes": 1474,
+      "sha256": "c1c12ff4f0c2cffa60ff3bd3eacef69d9a43e3dab30cad617220d21c34257ba3"
+    },
+    {
+      "path": "library/bpc-lessons/BPC-06.md",
+      "bytes": 1420,
+      "sha256": "e1d8bbdfb27cc0600fe0b40498f0268d89884fca9d3bc61622ebb2a4c46af6b4"
+    },
+    {
+      "path": "library/bpc-lessons/BPC-07.md",
+      "bytes": 1597,
+      "sha256": "aaa537533fa2708e4f53121ef205185c41fd6d66260046a3ceca132f1fe397ff"
+    },
+    {
+      "path": "library/bpc-lessons/BPC-08.md",
+      "bytes": 3368,
+      "sha256": "777396bab6c9df51f7a7d671035b6b16639cabc6ed940db44a60bc2b6354cf02"
+    },
+    {
+      "path": "library/bpc-lessons/BPC-09.md",
+      "bytes": 3122,
+      "sha256": "cbed708dd7952184b40738c3792f3bb772e7fe5d674a923dbf1a6d9dbd06029c"
+    },
+    {
+      "path": "library/bpc-lessons/BPC-10.md",
+      "bytes": 3336,
+      "sha256": "84d4f8aff9c43b182e2691298a88be835f632cd90b735642bd3296e811a331bd"
+    },
+    {
+      "path": "library/bpc-lessons/BPC-11.md",
+      "bytes": 3251,
+      "sha256": "77b2c7aa3dfbfa3c702ee09757ed701942efc46f18c9c6de9604341844f4bd5c"
+    },
+    {
+      "path": "library/bpc-lessons/BPC-12.md",
+      "bytes": 2978,
+      "sha256": "5bf0a065d0a6e35415472f746f4b7f167995bef89995f868a4fb114ccc345446"
+    },
+    {
+      "path": "library/bpc-lessons/BPC-13.md",
+      "bytes": 4442,
+      "sha256": "ddc18fb30b00053a744e170ad4419f414f0260b3ab40ff4dcc9a01adacfb609e"
+    },
+    {
+      "path": "library/bpc-lessons/BPC-14.md",
+      "bytes": 3170,
+      "sha256": "559607facdc57389120d4c4e459d6a1b8c76ee00c9e0d25d57cbd6ce1a369f04"
+    },
+    {
+      "path": "library/bpc-lessons/BPC-15.md",
+      "bytes": 3007,
+      "sha256": "223426ed0239119946ff4cc858c7b8e4a09cac425ede12b60249136fc5ed46b3"
+    },
+    {
+      "path": "library/bpc-lessons/BPC-16.md",
+      "bytes": 3058,
+      "sha256": "03da25a5508152577019878af0143fbbd128921f40cdca28aad42f1b483c3518"
+    },
+    {
+      "path": "library/bpc-lessons/BPC-17.md",
+      "bytes": 3283,
+      "sha256": "22500b6a30f4a36e073b87a624a09816c3073511d343a475b15e23ba1fd2450c"
+    },
+    {
+      "path": "library/bpc-lessons/BPC-18.md",
+      "bytes": 3780,
+      "sha256": "a292c23b3fe816331de1cb0a70fac60a7db259a5d8dcd823715d6aa951242900"
+    },
+    {
+      "path": "library/bpc-lessons/BPC-19.md",
+      "bytes": 3677,
+      "sha256": "73744a5c43c60ff866c25d1d0cec4dac04387665853e640d3be476c4f6b6f7c5"
+    },
+    {
+      "path": "library/bpc-lessons/BPC-20.md",
+      "bytes": 3751,
+      "sha256": "deb3ede970abbf211470b9537963cb57c4bc53c8eb05405d57d128ea075d5959"
+    },
+    {
+      "path": "library/bpc-lessons/BPC-21.md",
+      "bytes": 3822,
+      "sha256": "61f3552f94b4a3a7365c5d743e97c2809f675597de315bd105f1dd11c7dfa141"
+    },
+    {
+      "path": "library/bpc-lessons/BPC-22.md",
+      "bytes": 3669,
+      "sha256": "2291305798e528bf0ec87a4e093e7e84bc383af98e8587f9adcede4b70a7ccc0"
+    },
+    {
+      "path": "library/bpc-lessons/BPC-23.md",
+      "bytes": 3636,
+      "sha256": "c6e24d1baccb4249beb097191920dcd8a547efae18b038744496c6e7ef033ee2"
+    },
+    {
+      "path": "library/bpc-lessons/BPC-24.md",
+      "bytes": 3717,
+      "sha256": "bcb7a352284eb4af9dce2b99a71131773bf7a53e294f76261b89e6a62573ad73"
+    },
+    {
+      "path": "library/bpc-lessons/BPC-25.md",
+      "bytes": 3954,
+      "sha256": "167e4bef09e53fa1d1574e031138a86e7bb61c483bc44d775cf648414e0523f4"
+    },
+    {
+      "path": "library/bpc-lessons/BPC-26.md",
+      "bytes": 3836,
+      "sha256": "e2a8ad32c19eaa1321c5c5c330380a5a030a03bb0193713bc011de93e5910721"
+    },
+    {
+      "path": "library/bpc-lessons/BPC-27.md",
+      "bytes": 3977,
+      "sha256": "016ea8fbb7882b6f32fae242102ccdbc7140f87b5ac6f8ad686af5205f104b60"
+    },
+    {
+      "path": "library/bpc-lessons/BPC-28.md",
+      "bytes": 4144,
+      "sha256": "792f28c68b94de538daf7ee93a8c7080e0583f76b00dc36bf5dc483fffff3805"
+    },
+    {
+      "path": "library/bpc-lessons/BPC-29.md",
+      "bytes": 3383,
+      "sha256": "ec55ee0f769258ef080455b75efbdcd0210d800dde9cc3e95cb5704fb0a244c3"
+    },
+    {
+      "path": "library/bpc-lessons/BPC-30.md",
+      "bytes": 3564,
+      "sha256": "087d881c48f38321c5865f1c0abcb8301dbfad84bf3f44054bee42ab96c8682f"
+    },
+    {
+      "path": "library/bpc-lessons/BPC-31.md",
+      "bytes": 3785,
+      "sha256": "447372a72474325169f5b1a2b6ad592f3c24fd7940f5a457790c728d7ea3a917"
+    },
+    {
+      "path": "library/bpc-lessons/BPC-32.md",
+      "bytes": 3648,
+      "sha256": "67cb5ac068a406b9e230271113e1a3381035b6db7ae4e939ae41d6a17ea3dae3"
+    },
+    {
+      "path": "library/bpc-lessons/BPC-33.md",
+      "bytes": 3799,
+      "sha256": "69b4a1ec276f6b73d08e7e11eaf499f8394a5a98e832b6cada452eda99aec678"
+    },
+    {
+      "path": "library/bpc-lessons/BPC-34.md",
+      "bytes": 3591,
+      "sha256": "753261fe2a8925df7de772bbb012b52fd2a7a1a98643f02b86980f4c503dbc5f"
+    },
+    {
+      "path": "library/bpc-lessons/BPC-35.md",
+      "bytes": 3264,
+      "sha256": "b255c093991dde26d8b057d140c842f850c1f33369580e223beec7d2033dbfda"
+    },
+    {
+      "path": "library/bpc-lessons/BPC-36.md",
+      "bytes": 3413,
+      "sha256": "fc50dc7a25e4b1d857fdbf17e4bdb8f918960f37e5cf38d2aa14837d548a44d0"
+    },
+    {
+      "path": "library/bpc-lessons/BPC-37.md",
+      "bytes": 4865,
+      "sha256": "4af7ace0fb01acf3b2b3c65d877582b4d08dbb12ea2f5ca344013b8e3dcd0062"
+    },
+    {
+      "path": "library/bpc-lessons/BPC-38.md",
+      "bytes": 4653,
+      "sha256": "4ca961e784e6d6106c66f039ab403558ed090a1513bdfaf9ff2c68e01bcb556e"
+    },
+    {
+      "path": "library/bpc-lessons/BPC-39.md",
+      "bytes": 4612,
+      "sha256": "301156cf49bf4e9e64d54506f69fcd0bf94897a015b42eeef1ca045ea74bba58"
+    },
+    {
+      "path": "library/bpc-lessons/BPC-40.md",
+      "bytes": 4667,
+      "sha256": "a0b6f82393aa23aa5cf98430aa7ca6aad92951ab92f277468e3e8cbe17f9ef9c"
+    },
+    {
+      "path": "library/bpc-lessons/BPC-41.md",
+      "bytes": 4693,
+      "sha256": "1cd6e02098f609310a12f27ad6c2bc34736542e30d2d0122aad03e712f71da63"
+    },
+    {
+      "path": "library/bpc-lessons/BPC-42.md",
+      "bytes": 4322,
+      "sha256": "893c8fe99af8a8e17e8212f0c6f484e150bf923b948360d1bfe21ea2c49b530e"
+    },
+    {
+      "path": "library/bpc-lessons/BPC-43.md",
+      "bytes": 4509,
+      "sha256": "5ff7eb0ba7d4b5d5e88f69007c89a28338c7cb32b3e7edbe6be6003a94eda962"
+    },
+    {
+      "path": "library/bpc-lessons/BPC-44.md",
+      "bytes": 4735,
+      "sha256": "8d7a9e74fca8ee74481829e43162c65fbeb007b8a0b89af145788ce3e1340e9d"
+    },
+    {
+      "path": "library/bpc-lessons/BPC-45.md",
+      "bytes": 4682,
+      "sha256": "8138c6a7724261ef47119645f1fea2286709e2289c56a9298fb2c8e4ba48282f"
+    },
+    {
+      "path": "library/bpc-lessons/BPC-46.md",
+      "bytes": 4682,
+      "sha256": "4e8c1d2706de5735b5944083effc22d876b1fb62df97117a29296e71e6b13f8e"
+    },
+    {
+      "path": "library/bpc-lessons/BPC-47.md",
+      "bytes": 4826,
+      "sha256": "24915290ae55a40a12859456c2d71609df7f3ba1d16f37517872603cb5ec1996"
+    },
+    {
+      "path": "library/bpc-lessons/BPC-48.md",
+      "bytes": 3796,
+      "sha256": "1924a794d36c8ccc35ed233793960f2adf997d68484e7a96db8a6f05aeecc8a6"
+    },
+    {
+      "path": "library/bpc-lessons/BPC-49.md",
+      "bytes": 3765,
+      "sha256": "ca41fed3633914d54d7664252b360dd2def38f1c333769227ea6b1a72b44801d"
+    },
+    {
+      "path": "library/bpc-lessons/BPC-50.md",
+      "bytes": 3691,
+      "sha256": "d937d40b60a955c1ae232eda170173d93662de15331cd927627fce36f063091e"
+    },
+    {
+      "path": "library/bpc-lessons/BPC-51.md",
+      "bytes": 3914,
+      "sha256": "f1da6d181c2a577887d98e3ee60a1156d9ec0271ac12233413235c4a38006974"
+    },
+    {
+      "path": "library/bpc-lessons/BPC-52.md",
+      "bytes": 3859,
+      "sha256": "6a73fa1f6ea3d420a9544351985c461c51dcab03eaac0f67141daf94f544b0bb"
+    },
+    {
+      "path": "library/bpc-lessons/BPC-53.md",
+      "bytes": 3719,
+      "sha256": "95cd09eaaa915c7c05b52612bd06328ac1e7a2bdc2df5bdb97cb969d4c5ab300"
+    },
+    {
+      "path": "library/bpc-lessons/BPC-54.md",
+      "bytes": 3910,
+      "sha256": "285afb67ab2ac103292f52dc2e92f2ac916af279926e60bf0efc8f24e4c0dab0"
+    },
+    {
+      "path": "library/bpc-lessons/BPC-55.md",
+      "bytes": 3886,
+      "sha256": "b654f0c87dc952371693648063d3aa246532647e90e04118d5140b292a9dae73"
+    },
+    {
+      "path": "library/bpc-lessons/BPC-56.md",
+      "bytes": 3838,
+      "sha256": "d18802ad35afc2f079f2c05a62fce3783f677becded0573b652b670835094308"
+    },
+    {
+      "path": "library/bpc-lessons/BPC-57.md",
+      "bytes": 4087,
+      "sha256": "4458e689c300ed999a1369a0555a18fa897ab22e33489449229434504575414f"
+    },
+    {
+      "path": "library/bpc-lessons/BPC-58.md",
+      "bytes": 4233,
+      "sha256": "fd22daae29e146c7b05218485ce51aba72d44b4b884f3b3114044841c09de66f"
+    },
+    {
+      "path": "library/bpc-lessons/DUA.md",
+      "bytes": 15253,
+      "sha256": "8d42b6888dcbf8ce1e12c6831b720ae62a3d521f4571fd216350d6d440cd768f"
+    },
+    {
+      "path": "library/bpc-lessons/REFEEL.md",
+      "bytes": 13501,
+      "sha256": "b7cdb9ebe4799396e5a2ba1d8120adf3efc4edd09fb5bdf7c85219c1aa155c0b"
+    },
+    {
+      "path": "library/bpc-lessons/coverage-01-07.json",
+      "bytes": 5059,
+      "sha256": "81b61728fbfedcdd4fd7226b79c1b9763a13f002e5d32efb578adf8169b937e5"
+    },
+    {
+      "path": "library/bpc-lessons/coverage-08-17.json",
+      "bytes": 10662,
+      "sha256": "50ecd43807520565a052f56e06bfd4ecff302200a8bf94e01aca1f8e86c6f776"
+    },
+    {
+      "path": "library/bpc-lessons/coverage-18-27.json",
+      "bytes": 10906,
+      "sha256": "3942891314eb85694742e3316489c29bdc04ec63590f0e97f7fbefc93c858129"
+    },
+    {
+      "path": "library/bpc-lessons/coverage-28-37.json",
+      "bytes": 17970,
+      "sha256": "12d8685b89368567d00ad0dde92a58b2e84da33715b025a82f99a0929b7d8e9f"
+    },
+    {
+      "path": "library/bpc-lessons/coverage-38-47.json",
+      "bytes": 16804,
+      "sha256": "ede596a0333e6224d88a4697b2c5386601b006c0bcf580073e842cd639048f40"
+    },
+    {
+      "path": "library/bpc-lessons/coverage-48-58.json",
+      "bytes": 21251,
+      "sha256": "33f92342aced35176e48b68922451fdac5a82ea232aef324435f93c7d1cde381"
+    },
+    {
+      "path": "library/bpc-lessons/coverage-dua.json",
+      "bytes": 5020,
+      "sha256": "b2fe5c5fc7d1e0bf8f2e0b25e9b360df9637394c40f21f26bb9e2d2090558e58"
+    },
+    {
+      "path": "library/bpc-lessons/coverage-refeel.json",
+      "bytes": 3619,
+      "sha256": "18724f925bcae54276b028e672433068af33ca4e551478a4dbe6d3726fbb059a"
+    },
+    {
+      "path": "library/bpc-overlap.md",
+      "bytes": 8356,
+      "sha256": "d49cadb678aae2c82b0e5b1056c1db1d4044206a68614ae45b80f9aafda2bc49"
+    },
+    {
+      "path": "library/bpc-synthesis.md",
+      "bytes": 1810,
+      "sha256": "1013adebb04c95a7ed8f51850174fda32f07fb02a575b037fbf4653e11feba70"
+    },
+    {
+      "path": "library/catalog-data.json",
+      "bytes": 23813,
+      "sha256": "535cf292853ff41f4c1669300823bafabd3a133e6aa7dd4dc9c06ead22d22601"
+    },
+    {
+      "path": "library/catalog.md",
+      "bytes": 10840,
+      "sha256": "437ee9272dcedbca2e1763fa0271f2e6af910612dfc3147ac10020833372a654"
+    },
+    {
+      "path": "library/lessons/corpus-01-the-ozone-fire-shield-protector.md",
+      "bytes": 2991,
+      "sha256": "ac80f87cf1d17af2f6089fe2b17e7f939eff4e1018b0197751707de444681bbb"
+    },
+    {
+      "path": "library/lessons/corpus-02-digital-services-act-mitigasi-konten-berisiko.md",
+      "bytes": 2882,
+      "sha256": "a7203b00bfa74c6445e7e6b16d903330409e80133ee50f38c729b1cc62e31caf"
+    },
+    {
+      "path": "library/lessons/corpus-03-fenomena-mandi-lumpur-dalam-tinjauan-dramaturgi.md",
+      "bytes": 2962,
+      "sha256": "fb70dfef5391b9aaaf0ce8e7fef5be7e9b586c8cd5a6e94f4d07de2c4be4de72"
+    },
+    {
+      "path": "library/lessons/corpus-04-fishee-id.md",
+      "bytes": 2877,
+      "sha256": "5ed4387270db651495e1eb55ef429b6a202c955147f31c7505ed44ab82471d11"
+    },
+    {
+      "path": "library/lessons/corpus-05-bio-soleen.md",
+      "bytes": 2764,
+      "sha256": "45881175e34a841d526d0af1fdc52b390db7d2c4bc155a3acb66c0f52361192f"
+    },
+    {
+      "path": "library/lessons/corpus-06-jenis-jenis-penelitian.md",
+      "bytes": 2781,
+      "sha256": "1e462025ce6720cb021a9e84a48a6e92db6978639cdd1d1145457c64c7231e6b"
+    },
+    {
+      "path": "library/lessons/corpus-07-nutrizone-diet-programme-for-autistic-children.md",
+      "bytes": 2916,
+      "sha256": "a5e1182a2fb1000ec3346b689017291315084c64e9a4a27d27ddc4e91caca6f7"
+    },
+    {
+      "path": "library/lessons/corpus-08-jakarta-smart-island.md",
+      "bytes": 2967,
+      "sha256": "6674256fd7be144e25d144c42ff5271c8381304ded3a5b217614804b431036df"
+    },
+    {
+      "path": "library/lessons/corpus-09-integrasi-tiga-titik.md",
+      "bytes": 2833,
+      "sha256": "2cb0b6cf3d3a9952e1aec1a5a73d84d8139326d15deddea75ae260d5fcf1e34c"
+    },
+    {
+      "path": "library/lessons/corpus-10-e-ceng.md",
+      "bytes": 2861,
+      "sha256": "72c3f7e0fc6d48654a570d279ff27e27c73198048f7f76d4b996da13f4f1f606"
+    },
+    {
+      "path": "library/lessons/corpus-11-solvaerophil.md",
+      "bytes": 2893,
+      "sha256": "194afcbbacff4fa26a82d20e9f2b3b0014afaeed5b6027ed7ff28508c0360327"
+    },
+    {
+      "path": "library/lessons/corpus-12-kontura-tana-madhura.md",
+      "bytes": 2783,
+      "sha256": "2bf1d4e5a26dd82089ec5e37e71aaf04ae7dd2903c00b74dfd7f27a4bea1e592"
+    },
+    {
+      "path": "library/lessons/corpus-13-tpqline.md",
+      "bytes": 2797,
+      "sha256": "15b137afa48682e34332f13e6c1b3c71de86e21df81f9d1b03e1c7b58472ae5c"
+    },
+    {
+      "path": "library/lessons/corpus-14-29-flowers-1-garden.md",
+      "bytes": 2759,
+      "sha256": "bca1509dbacf0feeb7d8b003c0fa31c37eac151e89faf5a4f0cb74fed5a10449"
+    },
+    {
+      "path": "library/lessons/corpus-15-siapa-penulis-opini-ini.md",
+      "bytes": 2865,
+      "sha256": "0da44234b854893f5160b88d70f3817da396b53609b22460fb48b47531817360"
+    },
+    {
+      "path": "library/lessons/corpus-16-transformasi-legislasi-e-legislation.md",
+      "bytes": 2802,
+      "sha256": "d76cb5371488f086310752e27aef12fe876f9f2510733447383546e0d6f0e7cf"
+    },
+    {
+      "path": "library/lessons/corpus-17-curhatin-yuk.md",
+      "bytes": 2744,
+      "sha256": "382484a954d26f336f171dc7c0ba7468b148d7c57bdd9cd683c0eef40f0e2d07"
+    },
+    {
+      "path": "library/lessons/corpus-18-aquanet.md",
+      "bytes": 2755,
+      "sha256": "e39762fb478deede6bc0ef74bdc3ed0f22bd64bc6b2eb6be7729513280442fdd"
+    },
+    {
+      "path": "library/lessons/corpus-19-grow-together.md",
+      "bytes": 2841,
+      "sha256": "14bc900d5fbe840ec389315e773b78e74c7352ab50fb78c76b99dd3ae126f7bd"
+    },
+    {
+      "path": "library/lessons/corpus-20-essay-anthology-excerpt.md",
+      "bytes": 2893,
+      "sha256": "132b40a016d505dfda44c6ac6ac6d00b3cad8958383484961c367d548bd66c65"
+    },
+    {
+      "path": "library/lessons/corpus-21-ummahub-apps.md",
+      "bytes": 2760,
+      "sha256": "107e1c4916f97353b32f59e32c6825c1599ad1255514986fecc9fab6dde54a9a"
+    },
+    {
+      "path": "library/lessons/corpus-22-agriverse.md",
+      "bytes": 2854,
+      "sha256": "ac79853b544e7671b3e978e7e3f6d53ecdd77f0a11c83bd2705297e66aa3d42f"
+    },
+    {
+      "path": "library/lessons/corpus-24-adrodeco.md",
+      "bytes": 2880,
+      "sha256": "c787bb1bc91473aec0649fb85d6fa832f8fa9011258c0abe2ec4c48dc57e115d"
+    },
+    {
+      "path": "library/lessons/corpus-25-gintech.md",
+      "bytes": 2849,
+      "sha256": "5a66aa5de37ed80b26b142fc3fdd710fbc249941b49009eae5c8193a0dcbc9c0"
+    },
+    {
+      "path": "library/lessons/corpus-26-healthlink-apps.md",
+      "bytes": 2774,
+      "sha256": "eaad56e9ce855ac1eebe7ba8c3a7e2b7ce1be112d277180b101816019a37c150"
+    },
+    {
+      "path": "library/lessons/corpus-27-cinnamaldehyde-and-type-a-polyphenols.md",
+      "bytes": 2801,
+      "sha256": "a281c9233f5bbb40fdaa752303ec0d19f440d8fbf38e361fe7fb959f4a6162b5"
+    },
+    {
+      "path": "library/lessons/corpus-28-nexus-point.md",
+      "bytes": 2808,
+      "sha256": "180be58b44671a28265df874005d0f26d8bf1a6490d8cff3b9c93c016f316e05"
+    },
+    {
+      "path": "library/lessons/corpus-29-poseidon.md",
+      "bytes": 2849,
+      "sha256": "eeae336d4179f11787377fedf7f218332e43a0510c4fa155f96022b2ae8542a5"
+    },
+    {
+      "path": "library/lessons/corpus-30-ecois.md",
+      "bytes": 2797,
+      "sha256": "0d417a6938a97c714e3fce3544ef684ea2e267a3d43ce931cd339ad0e736d59c"
+    },
+    {
+      "path": "library/lessons/corpus-31-eduhub-ecosystem.md",
+      "bytes": 2741,
+      "sha256": "de322a5ec28d83e332c8fd040744df4986d8dda0fef129c6c7ef477e9faf6c45"
+    },
+    {
+      "path": "library/lessons/corpus-32-kumpulan-naskah-esai.md",
+      "bytes": 2934,
+      "sha256": "274c0eac5bc77039ea676e4fb5e185168d0cedcd8ba09e85519dbb65b96bb807"
+    },
+    {
+      "path": "library/lessons/corpus-34-membidik-masa-depan-econesia-apps.md",
+      "bytes": 2884,
+      "sha256": "552c06f62b6d7f6fec9a20f4b21fb7d567e0628da8166abb5c5f778d45ccfd2c"
+    },
+    {
+      "path": "library/lessons/corpus-35-transformasi-legislasi-e-legislation-including-turnitin-version.md",
+      "bytes": 2967,
+      "sha256": "2b1c26920ca8e6743bfc4a69d494b6fe25207440d696a371973b7258736ff061"
+    },
+    {
+      "path": "library/lessons/corpus-36-nostalgia.md",
+      "bytes": 2988,
+      "sha256": "212c2c3cebff5e504b9f4ebd0d3fb42571e301f8d95e646e08d056f48d9f43b9"
+    },
+    {
+      "path": "library/lessons/corpus-37-sakara.md",
+      "bytes": 2994,
+      "sha256": "5f43a43a0e7c8e5b338c2597c7b333d170a01a6ef394b582186d6657f346e3cf"
+    },
+    {
+      "path": "library/lessons/user-models.md",
+      "bytes": 12320,
+      "sha256": "d1fdb7c7f4dbc952a070bd4396a9dae0b95ea097f605d8c65941c99c6c9589bb"
+    },
+    {
+      "path": "library/lessons/visual-references.md",
+      "bytes": 7072,
+      "sha256": "e411532dfd574b6e23ac02f07a947891ebac23247ce1f70fbd437749be30d774"
+    },
+    {
+      "path": "library/originals/bpc/BPC-01.pdf",
+      "bytes": 4585004,
+      "sha256": "b1b3f607033a9081da149cd6945e235be7a476bcd2b383aaebcb29efe39347a5"
+    },
+    {
+      "path": "library/originals/bpc/BPC-02.pdf",
+      "bytes": 1465365,
+      "sha256": "bf66111610f3fcc9d2ae5ffe41c08f42a0fd5aac61c18019c54f32a3b9db64f9"
+    },
+    {
+      "path": "library/originals/bpc/BPC-03.pdf",
+      "bytes": 2737702,
+      "sha256": "e334a24d55e874497e227ac51cda9526b9489ebc7563a61f675561513ae60107"
+    },
+    {
+      "path": "library/originals/bpc/BPC-04.pdf",
+      "bytes": 38039904,
+      "sha256": "c42e6cca6d73fdf5c1ea6d33bcc3ae3356ea5e62c6fb0ff7cca8bb577a420317"
+    },
+    {
+      "path": "library/originals/bpc/BPC-05.pdf",
+      "bytes": 2967620,
+      "sha256": "c57c3539fb3f97e59cf2537473991a01a5c3aa345eb9575b1a66e4ae521278ab"
+    },
+    {
+      "path": "library/originals/bpc/BPC-06.pdf",
+      "bytes": 1561393,
+      "sha256": "d1aff430102f7a2160bd2c4fe309706b77355929a6a3238dbae42ff1124540f5"
+    },
+    {
+      "path": "library/originals/bpc/BPC-07.pdf",
+      "bytes": 6292839,
+      "sha256": "bca9979330512edf4c5a7262e3e6f4d766b677ca6a5fe597c0e7788342191029"
+    },
+    {
+      "path": "library/originals/bpc/BPC-08.pdf",
+      "bytes": 9296823,
+      "sha256": "18900e712fe5c359e97e59034a00955158275a62cacbdf94ba42e7e5887f3ddf"
+    },
+    {
+      "path": "library/originals/bpc/BPC-09.pdf",
+      "bytes": 9813398,
+      "sha256": "e398c94cb7a6ef75c18bc09f69e3a03961dd7ac4f1751e4e23e6697c3f979bb5"
+    },
+    {
+      "path": "library/originals/bpc/BPC-10.pdf",
+      "bytes": 5576400,
+      "sha256": "e95f38ffc1f23e56f0c17c0d8b93d41bd76793eee900b5844fe2ca05294987b0"
+    },
+    {
+      "path": "library/originals/bpc/BPC-11.pdf",
+      "bytes": 1811523,
+      "sha256": "ca03c9cdf2817e264216f68793214dd71d3b0d7ac07f29f03eb5d6405ed13967"
+    },
+    {
+      "path": "library/originals/bpc/BPC-12.pdf",
+      "bytes": 3515492,
+      "sha256": "bd750d327df02571aaf2086453dc7d9c2e3cdcbc4d9165dde212660efa01bc54"
+    },
+    {
+      "path": "library/originals/bpc/BPC-13.pdf",
+      "bytes": 7470636,
+      "sha256": "060a7621cd093ab51387a08f2209a0530c34b1567b34c74cf1bd2763cecd6390"
+    },
+    {
+      "path": "library/originals/bpc/BPC-14.pdf",
+      "bytes": 6580957,
+      "sha256": "4cf98e8cdee95e928f85120a8cee4f1077ea4a2cb420bd32751ad79242cec4dc"
+    },
+    {
+      "path": "library/originals/bpc/BPC-15.pdf",
+      "bytes": 7925023,
+      "sha256": "f13dc9b19a449700daa4c81f1969002a1007277712a6ecc601e876a9d3d5e2ea"
+    },
+    {
+      "path": "library/originals/bpc/BPC-16.pdf",
+      "bytes": 9001077,
+      "sha256": "8f221259ecbe80a80c3b31890d838093e3acdc540a906f2bb78e9b841c977bb1"
+    },
+    {
+      "path": "library/originals/bpc/BPC-17.pdf",
+      "bytes": 13610732,
+      "sha256": "d2cbc2b96c1b6d8a5adf14a97ac86c9f9b7f491f38ac14c2108eb5dfadf58228"
+    },
+    {
+      "path": "library/originals/bpc/BPC-18.pdf",
+      "bytes": 4491319,
+      "sha256": "c5e04c37cf5136cbafe6e61ac1e9430a30ce6d48eb8d9f97414c4d9eaed61866"
+    },
+    {
+      "path": "library/originals/bpc/BPC-19.pdf",
+      "bytes": 437975,
+      "sha256": "ad464f7c2675afc651af2e3ea37de3fa6d67aff7bb200ce99bcf359e2387e8d0"
+    },
+    {
+      "path": "library/originals/bpc/BPC-20.pdf",
+      "bytes": 426812,
+      "sha256": "639e21e224b1c4a5035032ce24903659ff09545f9ea9ffe95304182db8de05cf"
+    },
+    {
+      "path": "library/originals/bpc/BPC-21.pdf",
+      "bytes": 41358073,
+      "sha256": "14b6b300ad3274bc44e8b601fcdd0f82ac75e963a37ba2b31b103a735365a318"
+    },
+    {
+      "path": "library/originals/bpc/BPC-22.pdf",
+      "bytes": 1040136,
+      "sha256": "d30bc0d6003e219faafe376d01ce6d4bd7a604089b63f377c444a1cd2285092f"
+    },
+    {
+      "path": "library/originals/bpc/BPC-23.pdf",
+      "bytes": 423163,
+      "sha256": "65a73575ddba2f3861c8583e9d301ee09491ce8596bb4da266bf48918431a049"
+    },
+    {
+      "path": "library/originals/bpc/BPC-24.pdf",
+      "bytes": 4446906,
+      "sha256": "af9b0d2c16df7027964de50ba2c81d20362b947906b9cee8797e515c0b798a49"
+    },
+    {
+      "path": "library/originals/bpc/BPC-25.pdf",
+      "bytes": 3378662,
+      "sha256": "13f8b5aa6e0e5c1401157287e84473f7d37789ff4d9784e2f630ca9f771012b9"
+    },
+    {
+      "path": "library/originals/bpc/BPC-26.pdf",
+      "bytes": 3279666,
+      "sha256": "3fd4d1e6dc5a0a6759da290f7af934a3def9b0816bc4eba23e1c231c19744c8c"
+    },
+    {
+      "path": "library/originals/bpc/BPC-27.pdf",
+      "bytes": 3300891,
+      "sha256": "f4c39ba75f51542dd9b9f8d7ae395b1f89b4d36c7adc8292254ac5b1d6dd9740"
+    },
+    {
+      "path": "library/originals/bpc/BPC-28.pdf",
+      "bytes": 5038109,
+      "sha256": "d722a73ebb97d71f245ad4e69b9790a53b8a800008aafeb482e1809f05a49c69"
+    },
+    {
+      "path": "library/originals/bpc/BPC-29.pdf",
+      "bytes": 1648777,
+      "sha256": "8635051fbcfbfe545cdaa8caa5d27dc1eb9e2dab66efb91de482381bb9f33928"
+    },
+    {
+      "path": "library/originals/bpc/BPC-30.pdf",
+      "bytes": 1819148,
+      "sha256": "74b45a55222fd3bc1bda65dbfded47bd47776e7b3be7107cec5c6d7b8dc7bcef"
+    },
+    {
+      "path": "library/originals/bpc/BPC-31.pdf",
+      "bytes": 2927538,
+      "sha256": "2130ca9dc195902f227f23862118e5fb258541ebf7a5679ae5bdb7ebfce6a986"
+    },
+    {
+      "path": "library/originals/bpc/BPC-32.pdf",
+      "bytes": 3489486,
+      "sha256": "a66be6e27434298abefc367cff7a17f4c020def9ede6b56d7f2f5a3a9b39e790"
+    },
+    {
+      "path": "library/originals/bpc/BPC-33.pdf",
+      "bytes": 9753212,
+      "sha256": "95234f719738f59f04502f6a5a2df708f960f0ca2909043bcf2ca103435ea214"
+    },
+    {
+      "path": "library/originals/bpc/BPC-34.pdf",
+      "bytes": 3406859,
+      "sha256": "d7b15c03c041aa840cc9d9f04dcb221910666b366658a0ba1d8441ad37b1e296"
+    },
+    {
+      "path": "library/originals/bpc/BPC-35.pdf",
+      "bytes": 1039733,
+      "sha256": "9aecf7f2fd4b0f2b95f18821249ebea3c7efe1ed3f58ade15dc1225ad6d42e8f"
+    },
+    {
+      "path": "library/originals/bpc/BPC-36.pdf",
+      "bytes": 543075,
+      "sha256": "ce1052d23fc00a9fa0489aae721527b0422853e1c90da5048fc230c8ee3fa8d4"
+    },
+    {
+      "path": "library/originals/bpc/BPC-37.pdf",
+      "bytes": 1922039,
+      "sha256": "4542624b480a5309072f99837aaa2896cfb9eb80305ff411e8b07b1470cbd821"
+    },
+    {
+      "path": "library/originals/bpc/BPC-38.pdf",
+      "bytes": 1707243,
+      "sha256": "941ff7b69487df323004ffeef9b1787809c9cd929dd3e90f338e42d6e6ed7280"
+    },
+    {
+      "path": "library/originals/bpc/BPC-39.pdf",
+      "bytes": 5616954,
+      "sha256": "5856eb0ed503b20c487d2cbb733492d57c14794f94e60f987af1ba1e2d42ddf5"
+    },
+    {
+      "path": "library/originals/bpc/BPC-40.pdf",
+      "bytes": 1812570,
+      "sha256": "5b941e86e03e93bc2ae26161262a57ec93aefb599f5f1e010d28e5903a3c2a5b"
+    },
+    {
+      "path": "library/originals/bpc/BPC-41.pdf",
+      "bytes": 2139609,
+      "sha256": "8c0f73bf0fe4751079299797c179b6a8015867c861d06635bacd58ed2821d2cd"
+    },
+    {
+      "path": "library/originals/bpc/BPC-42.pdf",
+      "bytes": 2279744,
+      "sha256": "0de8eb102faa135bfdff9a9af552c7f0eefb4f5eec336c3c899327b8efcdeced"
+    },
+    {
+      "path": "library/originals/bpc/BPC-43.pdf",
+      "bytes": 1823919,
+      "sha256": "a22180e1fe82a5ea813978d1df72d22f54108da68d9a137c1340bae800715636"
+    },
+    {
+      "path": "library/originals/bpc/BPC-44.pdf",
+      "bytes": 4449011,
+      "sha256": "f219478f9b2c8f70293c6612593a594a90f7371a495cfe4d966a058c8348a275"
+    },
+    {
+      "path": "library/originals/bpc/BPC-45.pdf",
+      "bytes": 1824468,
+      "sha256": "2dc2fdb1d869935969ff5e838aea2276fb346653c6df1bc3a9b7085db9ac2b51"
+    },
+    {
+      "path": "library/originals/bpc/BPC-46.pdf",
+      "bytes": 722358,
+      "sha256": "c95dc9c38d320d740fcc69af76a8a3a33323f8c12bb6852191909280c509698a"
+    },
+    {
+      "path": "library/originals/bpc/BPC-47.pdf",
+      "bytes": 1213680,
+      "sha256": "d8c2acc710f04ed23bd6dbef4826fb8869412d76b225f35141b03c46e1d8c14b"
+    },
+    {
+      "path": "library/originals/bpc/BPC-48.pdf",
+      "bytes": 1466465,
+      "sha256": "0aac8f329597738f91ba6510f12bcbbd701ac16a694a0d731e410c9030efa4f8"
+    },
+    {
+      "path": "library/originals/bpc/BPC-49.pdf",
+      "bytes": 2003265,
+      "sha256": "2114b7fe1c21a88f658a4b110c36a001688b2d767e4365971ca206d7bd1556ea"
+    },
+    {
+      "path": "library/originals/bpc/BPC-50.pdf",
+      "bytes": 2362279,
+      "sha256": "3a45d6561a3f0648ecf0ceb182275fb05f3e2e52caf3617295953558bc9a0eac"
+    },
+    {
+      "path": "library/originals/bpc/BPC-51.pdf",
+      "bytes": 25991924,
+      "sha256": "d040119c512f24a1b4492dee44e4814d2cb56bf2198386b2ea883de98bb6e58f"
+    },
+    {
+      "path": "library/originals/bpc/BPC-52.pdf",
+      "bytes": 24069239,
+      "sha256": "392518a06a8cf8a455326d55318639983fd69dafe027b0b2875c58b9295bb49c"
+    },
+    {
+      "path": "library/originals/bpc/BPC-53.pdf",
+      "bytes": 1190457,
+      "sha256": "47560f344382bf7543213702668ce6878e13a043bef7b0afecb2754dc320ad12"
+    },
+    {
+      "path": "library/originals/bpc/BPC-54.pdf",
+      "bytes": 1213597,
+      "sha256": "7b57fc82f7288795b1b1b30bbe4bca1d4385c01d7e1beb2e376ff595472ce583"
+    },
+    {
+      "path": "library/originals/bpc/BPC-55.pdf",
+      "bytes": 13738430,
+      "sha256": "a97c1bf696c55b3ddf9a87d8f6c608a5f0a093071334c430b4a5c7fb0f3ca8a8"
+    },
+    {
+      "path": "library/originals/bpc/BPC-56.pdf",
+      "bytes": 4625390,
+      "sha256": "43eca744b07088b9aff08c7c83d9efa370cb181bc8ef0b89e13dcfa741ef035a"
+    },
+    {
+      "path": "library/originals/bpc/BPC-57.pdf",
+      "bytes": 994088,
+      "sha256": "f1d8e79578bc1fe70f99d8e5b47232e8c625a385e5960ec0cd28fe1a626a2169"
+    },
+    {
+      "path": "library/originals/bpc/BPC-58.pdf",
+      "bytes": 8756295,
+      "sha256": "7f728810ee5348a47240bd9d1c3504f96565c9a50d08c53ea85071051769dd1e"
+    },
+    {
+      "path": "library/originals/essays/Dua_Athifa Ardhani_UI.pdf",
+      "bytes": 17727159,
+      "sha256": "4f24ee77bcf3a8b06b2628c26dea03f43502170e2e665ee5f0d4c93d646396e9"
+    },
+    {
+      "path": "library/originals/essays/Gotong-Sampah.pdf",
+      "bytes": 8453368,
+      "sha256": "5ed675cb7bf111f8e128aea150ba18338c638213d1ee645b2ae982c5989dd186"
+    },
+    {
+      "path": "library/originals/essays/PI MT.docx.pdf",
+      "bytes": 279807,
+      "sha256": "c01050b75fde3c47e7d2be724ebf6357812211baa88abedf743b6f8e36fc7167"
+    },
+    {
+      "path": "library/originals/essays/SIRKULA.pdf",
+      "bytes": 11838292,
+      "sha256": "fb66a65305bf0e41e600483727d7482001e0442897d497a634920170e7459ba1"
+    },
+    {
+      "path": "library/originals/essays/Semifinal Round_Faga_Hamiz Ghanir_BPC21MX..pdf",
+      "bytes": 22758076,
+      "sha256": "a3cde55fd2a9b4eb2758b16e8c5aadadf5c6cd65814873386156929df68afa8b"
+    },
+    {
+      "path": "library/originals/guidebooks/Guidebook Essay Competition (1)(1).pdf",
+      "bytes": 52901564,
+      "sha256": "8d2ba6fa0e18a69b6fdff28234768ebb5bcc16e64e692c8f44d6c4888e1c4c0e"
+    },
+    {
+      "path": "library/originals/manuals/JejakBalik_Master_AI_Context_v3(1).md",
+      "bytes": 27403,
+      "sha256": "8227ffaa8be07eab8070097926ba02c38b769e4aeda13c580bfd65f55b43c7be"
+    },
+    {
+      "path": "library/originals/manuals/innovation-essay-hub-v5(2).md",
+      "bytes": 130216,
+      "sha256": "eed46f6bee81ed206c500f78a54ff5b7926d2dc7be325d57b41f62d60c7e18ff"
+    },
+    {
+      "path": "library/originals/reference-corpus/10-E-CENG.pdf",
+      "bytes": 1608380,
+      "sha256": "3afb7c6b0d0ccfab312b726e248f99fc570cee0aa171f16587cfb6b1b945f8f0"
+    },
+    {
+      "path": "library/originals/reference-corpus/17-CURHATIN-YUK.pdf",
+      "bytes": 2130834,
+      "sha256": "f37c48fc4382f8a48dbb4cbd49ef40ab50ae1c09c309159559163cebccb8ddd9"
+    },
+    {
+      "path": "library/originals/reference-corpus/23-CURHATIN-YUK-duplicate.pdf",
+      "bytes": 2130834,
+      "sha256": "f37c48fc4382f8a48dbb4cbd49ef40ab50ae1c09c309159559163cebccb8ddd9"
+    },
+    {
+      "path": "library/originals/reference-corpus/33-E-CENG-duplicate.pdf",
+      "bytes": 1608380,
+      "sha256": "3afb7c6b0d0ccfab312b726e248f99fc570cee0aa171f16587cfb6b1b945f8f0"
+    },
+    {
+      "path": "library/originals/reference-corpus/Amaliya Putri - SOLVEAROPHILE.pdf",
+      "bytes": 1028537,
+      "sha256": "59b2492b6c9e7a992768676e07d8f6e12db7ad663e81cc8d9204ec9d71d8c00a"
+    },
+    {
+      "path": "library/originals/reference-corpus/BIO-SOLEEN Biodegradable Plastic.pdf",
+      "bytes": 1657739,
+      "sha256": "156507830143ea4f1781920c4ba84c354e90a50a622879f299d7d3c668dab00f"
+    },
+    {
+      "path": "library/originals/reference-corpus/Copy of 1. MARIO DWI PRASETYO_INSTITUT TEKNOLOGI SEPULUH NOPEMBER_JAKARTA SMART ISLAND - Mario Dwi Prasetyo.pdf",
+      "bytes": 1425009,
+      "sha256": "30677ae4e1352b7bb0fd53e8a576dba06f42bd5ead597274d5dc173ea2860184"
+    },
+    {
+      "path": "library/originals/reference-corpus/Copy of ESAI_MAKARA TEAM_UNIVERSITAS INDONESIA_SAKARA (Sarana Karbon Nusantara).pdf",
+      "bytes": 6565121,
+      "sha256": "8f24d577c4c246e0399ca533cd175aee4e014d0fd9433b5ede9312ba5b09f314"
+    },
+    {
+      "path": "library/originals/reference-corpus/Copy of FENOMENA MANDI LUMPUR SEBAGAI PENYALAHGUNAAN KEBEBASAN BEREKSPRESI DI SOSIAL MEDIA DALAM TINJAUAN TEORI SOSIOLOGI DRAMATURGI.docx",
+      "bytes": 111100,
+      "sha256": "c2006e37563f8a7522618455131d7babbb5affe0018fb322b56edd77d24bff84"
+    },
+    {
+      "path": "library/originals/reference-corpus/Copy of Farrel Mukti Attallah_Essay Competition_The Nexus Point.docx",
+      "bytes": 1358616,
+      "sha256": "77600eb378afa3838e7b6f401f81dccd6d8ec8446ee4c5600a9191bba1a46846"
+    },
+    {
+      "path": "library/originals/reference-corpus/Copy of Farrel Mukti Attallah_Lomba Opini AKSARA UEA .docx",
+      "bytes": 969813,
+      "sha256": "69e1e8cc6cf9f2d644283aba95ddcf291843cc2d2542e9cbd82163e01238cb1d"
+    },
+    {
+      "path": "library/originals/reference-corpus/Copy of Farrel Mukti Attallah_NOSTALGIA MENELUSURI JEJAK PSIKOLOGI YANG MEMBAWA KEJAYAAN DALAM DUNIA SINEMA.docx",
+      "bytes": 590176,
+      "sha256": "7ef01c7194db6d9725faec597bb8753a3736a9158ccbbabe0913c9d8a69aed1f"
+    },
+    {
+      "path": "library/originals/reference-corpus/Copy of ISIC 2024 ESSAY COMPETITION.docx",
+      "bytes": 571105,
+      "sha256": "f30d1ab56b78e2cc70912a062e1c2a95a8a75ea2da1bc245352a03bb13277ab1"
+    },
+    {
+      "path": "library/originals/reference-corpus/Copy of Ilhammuhammad_universitasdiponegoro_PKM-GFT (1).pdf",
+      "bytes": 490705,
+      "sha256": "0cea76b0583fbc68fd22787724b88d3af3fb8e5077721b79686352f252897161"
+    },
+    {
+      "path": "library/originals/reference-corpus/Copy of JUARA 3 INTEGRASI TIGA TITIK.pdf",
+      "bytes": 395876,
+      "sha256": "eeaa1b3ad36853f3d79a77f03f6e0ca0169e1dbb93bd471df1a3e6af31e09534"
+    },
+    {
+      "path": "library/originals/reference-corpus/Copy of PENELITIAN+2+JENIS+PENELITIAN.pdf",
+      "bytes": 988215,
+      "sha256": "53696180274a8aba646565c0a42a2d23267de8022bb835c644b2ac36d89dca67"
+    },
+    {
+      "path": "library/originals/reference-corpus/Copy of ilhammuhammad_universitasdiponegoro_PKM-PM.pdf",
+      "bytes": 492065,
+      "sha256": "95adcb2ec8522e30f856a6f593869283e076955a4f94380cfd0c648a003ee474"
+    },
+    {
+      "path": "library/originals/reference-corpus/Energi dan Teknologi_MEC4_Amaliya Putri_Universitas Diponegoro_ADRODECO (Aeromonas hydrophila Detection and Control).pdf",
+      "bytes": 2910009,
+      "sha256": "5c201d716aadbe22b76046a521679e4eab9c1590b8591ff913ab80d1f1906d11"
+    },
+    {
+      "path": "library/originals/reference-corpus/Esai_M Alfren Rolegian_Institut Teknologi Bandung_Membidik Masa Depan_IC 2024.pdf",
+      "bytes": 3407421,
+      "sha256": "21b9921a5c4fa92ea1e32f05b4ca9a5d0768d41eb769d8d1a574dae6fecb3e23"
+    },
+    {
+      "path": "library/originals/reference-corpus/Esai_Muhamad Alfren Rolegian_Institut Teknologi Bandung.pdf",
+      "bytes": 3989376,
+      "sha256": "e2da05b4d62c42faaed866bf93016111996b26175ede30fd998295be5703e77e"
+    },
+    {
+      "path": "library/originals/reference-corpus/IBC2024_Muhamad Alfren Rolegian_Institut Teknologi Bandung_ECOIS THE APLICATION.pdf",
+      "bytes": 1713456,
+      "sha256": "371919bd4f79e69275acd880ef87554f816486a0ca789d8a0e239af5c1a1aaf1"
+    },
+    {
+      "path": "library/originals/reference-corpus/KARYA 1_GINTECH_CECILIA FAUZIAH_X.pdf",
+      "bytes": 2921427,
+      "sha256": "2552ab3ff40e9e8ea9722315bbe3a7cb8997332f7868c638bbf513e5218ef936"
+    },
+    {
+      "path": "library/originals/reference-corpus/KARYA 2_AGRIVERSE_CECILIA FAUZIAH_X.pdf",
+      "bytes": 3585377,
+      "sha256": "35a89054969735ee9bf8bf0e02af2b78f9bc7e9e0d07b6f4e3598fad2f7a3725"
+    },
+    {
+      "path": "library/originals/reference-corpus/KARYA 3_POSEIDON_CECILIA FAUZIAH_X.pdf",
+      "bytes": 3739312,
+      "sha256": "fd6c9fd57934939952371f62e040feee69c4aab01d36293b98f9193854ceafa7"
+    },
+    {
+      "path": "library/originals/reference-corpus/Kumpulan Karya Esai Ilmiah dan Populer (1).pdf",
+      "bytes": 1235307,
+      "sha256": "7e668a033521f47de6774dcc81bbe079ce0070504dc630dfa0cd99bea121903a"
+    },
+    {
+      "path": "library/originals/reference-corpus/Kumpulan Naskah Esai.pdf",
+      "bytes": 6402676,
+      "sha256": "b178afb84cb3d0efad2af546589130ad91dd9b78e2e7f23850f8f5c6a4bfdeaf"
+    },
+    {
+      "path": "library/originals/reference-corpus/Naskah Juara 1 Lomba Esai Nasional.pdf",
+      "bytes": 1362787,
+      "sha256": "c0e2f4785cd807c30b68da2e10b4c34da87b75c53a120ab3e1cc427fd10d8094"
+    },
+    {
+      "path": "library/originals/reference-corpus/Naskah Lomba Esai Nasional.pdf",
+      "bytes": 770088,
+      "sha256": "cc4f40a7ddeb14a810484052b41a57df4eaffd9b1bad4651be68deb2fa48cf68"
+    },
+    {
+      "path": "library/originals/reference-corpus/Naskah_M Alfren Rolegian.pdf",
+      "bytes": 1657846,
+      "sha256": "cdd58e3550230c3a2b582a92b6d0e1ee1dd2593e200eda4d6e6e0dc42e108895"
+    },
+    {
+      "path": "library/originals/reference-corpus/Naskah_M Alfren Rolegian_Institut Teknologi Bandung_HealthLink Apps.pdf",
+      "bytes": 3284944,
+      "sha256": "bd1f5462ff20f55c373df130a2180fa719c63983c95fc1eecd2e7f581b567abc"
+    },
+    {
+      "path": "library/originals/reference-corpus/PEKTIN_ESSAY_MUHAMMAD RIDWAN_UNIVERSITAS JEMBER_HUKUM DAN POLITIK.pdf",
+      "bytes": 431486,
+      "sha256": "69245eb5c800a8922ffb159e6fcf742ee05a10a91e20ce665c327abe2eaff015"
+    },
+    {
+      "path": "library/originals/reference-corpus/PIMPEL 2024_M Ridwan E_TPQ LIne Mewujudkan Pembelajaran_Universitas Jember.pdf",
+      "bytes": 641817,
+      "sha256": "15b3e4aa4d574290a5bc43784952d1ab3160b02b17dcefbba704d177ecc95f27"
+    },
+    {
+      "path": "library/originals/reference-corpus/POTENSI CINNAMALDEHYDE (CND).pdf",
+      "bytes": 3234952,
+      "sha256": "40c93aa311cfc08ce3f509b0babdef278c1e2187d576fcbeaf6c081060841148"
+    },
+    {
+      "path": "library/originals/reference-corpus/Paper_Muh Ridwan E_Digital Servive Act.pdf",
+      "bytes": 434615,
+      "sha256": "c4b1a0274c9f46a6f084d2b3207048c39fb3505a6d0d8de3fcb849396fa1e3f7"
+    },
+    {
+      "path": "library/originals/reference-corpus/[ESAIFLF2024_Tim Francis Bacon_M.RIDWAN EFFENDI_UNIVERSITAS JEMBER_TRANSFORMASI LEGISLASI DI INDONESIA ME.pdf",
+      "bytes": 1777221,
+      "sha256": "a920a2467800a74e4d5b5f6f86f41996c12eda36ecee8b5ebd7ed3110ab6f95e"
+    },
+    {
+      "path": "library/originals/reference-corpus/downloadfile.pdf",
+      "bytes": 2917510,
+      "sha256": "28ee7c1087a4937d5456407599eb183fee72e34eaf6eccce24c6a3b1535af8c6"
+    },
+    {
+      "path": "library/originals/reference-corpus/huhu- ESAIAKLAMASI2025_MUH. RIDWAN EFENDI_UNIVERSITAS JEMBER_GROW TOGETHER (GT).pdf",
+      "bytes": 1363969,
+      "sha256": "671df7ca0a5ea3ed45192a8fedcc0f5488bb481ccfe0aedad605078dbfa0ec16"
+    },
+    {
+      "path": "library/originals/templates/David Muhammad Thorique_Universitas Indonesia_ RegenCity Grid Indonesia (1)(1).docx",
+      "bytes": 17321920,
+      "sha256": "b85628c53b1bcfee9e36b4fc77639cb5660e2ad40fb6a5136a6949b001b13173"
+    },
+    {
+      "path": "library/originals/visual-references/Screenshot 2026-10-24 231904(1).png",
+      "bytes": 303758,
+      "sha256": "df8b411fe0d541a764318f295e5dd5973ed0df54b5c27933a6cce12f764ac5c8"
+    },
+    {
+      "path": "library/originals/visual-references/Screenshot 2026-10-25 131141(1).png",
+      "bytes": 245781,
+      "sha256": "4c0b422091b30aa41b59b96f55fc49366e228f9233830b9335f36bbc7b034c4e"
+    },
+    {
+      "path": "library/originals/visual-references/Screenshot 2026-10-25 131206(1).png",
+      "bytes": 160931,
+      "sha256": "340f78b64ff7cf005103876830d10b5af83c124d4eb49dd7c0cde220bff429b5"
+    },
+    {
+      "path": "library/originals/visual-references/Screenshot 2026-10-25 131211.png",
+      "bytes": 55250,
+      "sha256": "5443dd63244c1fb7f89aa8684c1fec5a4ce4212b8d378f99a325317923d0960e"
+    },
+    {
+      "path": "library/originals/visual-references/Screenshot 2026-10-25 131222.png",
+      "bytes": 136278,
+      "sha256": "8b74654087b82d9b474547ee19f9da2cdd5a25846a80b5dacd491ee4d89d258f"
+    },
+    {
+      "path": "library/originals/visual-references/Screenshot 2026-10-25 131320.png",
+      "bytes": 153158,
+      "sha256": "78c8e661195f977c9337aefb17ce8fbf71b0f23d90d409890f01500273207c07"
+    },
+    {
+      "path": "library/originals/visual-references/Screenshot 2026-10-25 131326(1).png",
+      "bytes": 144516,
+      "sha256": "a4f350710d3d020114923930a41df01d397736b0f797ae73d3926ebe930b7cbf"
+    },
+    {
+      "path": "library/originals/visual-references/Screenshot 2026-10-25 131332(1).png",
+      "bytes": 99305,
+      "sha256": "40b8a387c5e1cb0c9e16fe91a632780f84e30718771d80dc0d84f9bcdeaebd3c"
+    },
+    {
+      "path": "library/originals/visual-references/Screenshot 2026-10-25 131336(1).png",
+      "bytes": 246911,
+      "sha256": "8e3429d7bde31bbca071bf42fd4cf6e14b60e8e9e3c3ab5a6e64b6ffc8d72f4b"
+    },
+    {
+      "path": "library/originals/visual-references/Screenshot 2026-10-25 131340(1).png",
+      "bytes": 147711,
+      "sha256": "1100cb5811be2103a0259d3bc5aba82709bb89c921882a98b99abf54d3d36f01"
+    },
+    {
+      "path": "library/originals/visual-references/Screenshot 2026-10-25 131346(1).png",
+      "bytes": 192752,
+      "sha256": "7263bdefe977b3c0eda1d11ba22ecb484aee1a8fb14518f7855cd5372eb1110f"
+    },
+    {
+      "path": "library/originals/visual-references/image(20261104-153424).png",
+      "bytes": 239900,
+      "sha256": "288cde19e37914de7f7f4dc2484559bf49606d1630c2ebf7fca43e495fe2e8a7"
+    },
+    {
+      "path": "library/originals/visual-references/image(20261104-153430).png",
+      "bytes": 157963,
+      "sha256": "6215423c86bf4c7d8fbfc3df84ce7cca92d1960beb340a9b3ea5f0a484d53ea6"
+    },
+    {
+      "path": "library/reading-routes.md",
+      "bytes": 1966,
+      "sha256": "6202c734246c49ea3f6696cc0f9a8c666234feb6e718e71f3d48d3c28a878157"
+    },
+    {
+      "path": "library/source-audit.md",
+      "bytes": 4134,
+      "sha256": "4821d805aee1d85849ed4561b0958d6522cc43bc329f8f67bd1137fa515fbfd0"
+    },
+    {
+      "path": "library/source-availability.md",
+      "bytes": 5967,
+      "sha256": "dffeebc508c3946cf756b1d2a4ee343c3b47fd2aa170904dd5fbf3112e03f68d"
+    },
+    {
+      "path": "library/source-manifest.json",
+      "bytes": 120848,
+      "sha256": "c7e43cfe0208afeba533fec51cc7dab1433a0b806086b21d02c97303ea8013e8"
+    },
+    {
+      "path": "requirements-optional.txt",
+      "bytes": 81,
+      "sha256": "8a34c9af7d89b4a96a6bec13549d257b4b5fd8eccf655caec401b842caf5606d"
+    },
+    {
+      "path": "requirements-tested.txt",
+      "bytes": 189,
+      "sha256": "353caaf46a9c6ca4539e08e3e6af013a6ef7114e765b6ad92f20fd3281c36d80"
+    },
+    {
+      "path": "requirements.txt",
+      "bytes": 52,
+      "sha256": "905b96dbda141d6c238dadae2d7adc532a19d592c35ab43be051e71d572b70b0"
+    },
+    {
+      "path": "schemas/source-record.schema.json",
+      "bytes": 1331,
+      "sha256": "289466b0fca9accca4a2907fb3ce100ce1bea15a0887b55eb4292d9d77daaeee"
+    },
+    {
+      "path": "skills/build-bpc-proposals/SKILL.md",
+      "bytes": 4637,
+      "sha256": "d5362d0b99d8b56f35dee1577a7c35a6a0138d35806572b045c119a86ebf5162"
+    },
+    {
+      "path": "skills/build-bpc-proposals/assets/charts/catalog.json",
+      "bytes": 12599,
+      "sha256": "22d52350ee857a20d72e6ecd1945ab738b2c97bf4bd937aaaf0ef2d6ef25aef5"
+    },
+    {
+      "path": "skills/build-bpc-proposals/assets/charts/examples/cash.json",
+      "bytes": 1386,
+      "sha256": "20e2fae19d3cf7467dfb4cc6fc11dca678fac0c68e45f830c6ba34a50eb4a73b"
+    },
+    {
+      "path": "skills/build-bpc-proposals/assets/charts/examples/comparison.json",
+      "bytes": 573,
+      "sha256": "95ef851fad82f14d834e957f1aea45c12b6a4a05ad7b58bcc8437816b0d1a4b5"
+    },
+    {
+      "path": "skills/build-bpc-proposals/assets/charts/examples/drivers.json",
+      "bytes": 644,
+      "sha256": "c33039a079a02f57904168c8bbefd8291c32d9da9ab25693148de57fdbbd2b40"
+    },
+    {
+      "path": "skills/build-bpc-proposals/assets/charts/examples/gantt_strategy.json",
+      "bytes": 966,
+      "sha256": "14e06aa4f151403f0f6cb153102f6512c3be4b03a1a3334856db07a29c4c367c"
+    },
+    {
+      "path": "skills/build-bpc-proposals/assets/charts/examples/gantt_year1.json",
+      "bytes": 1079,
+      "sha256": "593ddb42d5ede55a83a57936957954a169bbaa32de611e49181586718bcc0422"
+    },
+    {
+      "path": "skills/build-bpc-proposals/assets/charts/examples/issue_tree.json",
+      "bytes": 1760,
+      "sha256": "6b57c2c73d7d7a04d4a59842f384a1188207ddb6d4f65369cd6a7cadd799ae1b"
+    },
+    {
+      "path": "skills/build-bpc-proposals/assets/charts/examples/market_layers.json",
+      "bytes": 923,
+      "sha256": "4c0ea4b41b7d27711649094e62877b8bc5a7271533b41fdddb523c6ab2363f47"
+    },
+    {
+      "path": "skills/build-bpc-proposals/assets/charts/examples/npv_distribution.json",
+      "bytes": 15407,
+      "sha256": "f74510a1691e96825c974a52f654da35ac0710ff14a2b1123edd86504ee85217"
+    },
+    {
+      "path": "skills/build-bpc-proposals/assets/charts/examples/positioning.json",
+      "bytes": 792,
+      "sha256": "87c35e08f9c8538e579ef871c37d171ab6bb7f67a8dec2eb1a9421659a337535"
+    },
+    {
+      "path": "skills/build-bpc-proposals/assets/charts/examples/risk_heatmap.json",
+      "bytes": 953,
+      "sha256": "14f1683f5292715fab676b78645e710d8da040952f58e26aac4d5b73008f8359"
+    },
+    {
+      "path": "skills/build-bpc-proposals/assets/charts/examples/service_flow.json",
+      "bytes": 909,
+      "sha256": "bbf264b7e55c9b411546558d344f41a275d14b02437b101c2ddeae4762fb7d24"
+    },
+    {
+      "path": "skills/build-bpc-proposals/assets/charts/examples/stakeholder_structure.json",
+      "bytes": 1351,
+      "sha256": "73e2b46af6fb01237eac28b055b0b65fafa5c5cda1025078ac4e37f33076d56a"
+    },
+    {
+      "path": "skills/build-bpc-proposals/assets/charts/examples/value_proposition.json",
+      "bytes": 1231,
+      "sha256": "d00408412d5e490d1ede73042303404dea29bf5c86764696f5f58a1095a3b65d"
+    },
+    {
+      "path": "skills/build-bpc-proposals/assets/charts/previews/cash.meta.json",
+      "bytes": 974,
+      "sha256": "8c47decf8b843593a3374a2d64712512fa390f4ac33beaf57fb595d948c46b83"
+    },
+    {
+      "path": "skills/build-bpc-proposals/assets/charts/previews/cash.pdf",
+      "bytes": 14165,
+      "sha256": "0602938408f9a5ac80c9c6d534875d3cde37fc325ec75710787e6782975794c7"
+    },
+    {
+      "path": "skills/build-bpc-proposals/assets/charts/previews/cash.png",
+      "bytes": 57089,
+      "sha256": "8c8ee4a54d5e379516d72a1ea60292785b9ee3161bdbbece26babe7458cff6d8"
+    },
+    {
+      "path": "skills/build-bpc-proposals/assets/charts/previews/cash.tex",
+      "bytes": 1661,
+      "sha256": "85e78a7b6b7dbfb2cbb6c712cdf695bb84fee1e1635015575456ded5cac67a1a"
+    },
+    {
+      "path": "skills/build-bpc-proposals/assets/charts/previews/comparison.meta.json",
+      "bytes": 1140,
+      "sha256": "41499f4872acc490e2ec586fe33c972ca7e9335c2a99bc4bde78556b1be273ce"
+    },
+    {
+      "path": "skills/build-bpc-proposals/assets/charts/previews/comparison.pdf",
+      "bytes": 12936,
+      "sha256": "f9cdaf61828eb10807c510c609ca3d804865349d2629218e871b270bde4a9e36"
+    },
+    {
+      "path": "skills/build-bpc-proposals/assets/charts/previews/comparison.png",
+      "bytes": 24799,
+      "sha256": "c277296f6f10d3f64516f0099629bf5a99c7b38cd953d4db071ccbd546b29306"
+    },
+    {
+      "path": "skills/build-bpc-proposals/assets/charts/previews/comparison.tex",
+      "bytes": 1431,
+      "sha256": "b42b28dcec4da728b46a8e6c9655b8a17586a4c09e711b15dc475b735c62b1fb"
+    },
+    {
+      "path": "skills/build-bpc-proposals/assets/charts/previews/drivers.meta.json",
+      "bytes": 1482,
+      "sha256": "774f6c41f4b4507e0ed12ba6b34fde0972336a196b3defc6341c3487abb6fe7d"
+    },
+    {
+      "path": "skills/build-bpc-proposals/assets/charts/previews/drivers.pdf",
+      "bytes": 15984,
+      "sha256": "56a0217b235a920c0c26b83ed0164361ba671764629f3a00c6c0a67308d73f0e"
+    },
+    {
+      "path": "skills/build-bpc-proposals/assets/charts/previews/drivers.png",
+      "bytes": 41350,
+      "sha256": "2a7d35be87f151eb0ce4184c7e77a2c5408199031e043f4643986e73688c0068"
+    },
+    {
+      "path": "skills/build-bpc-proposals/assets/charts/previews/drivers.tex",
+      "bytes": 1513,
+      "sha256": "57e8a12b923cdecde6e66f7cee6350279e9bf57d2090977a01f52f118db699f0"
+    },
+    {
+      "path": "skills/build-bpc-proposals/assets/charts/previews/gallery-contact-1.jpg",
+      "bytes": 134122,
+      "sha256": "26ddf732b7d14c99ed3864ab25c2bf1bba5e90c31f5c9f9ff252833c17b8910a"
+    },
+    {
+      "path": "skills/build-bpc-proposals/assets/charts/previews/gallery-contact-2.jpg",
+      "bytes": 134021,
+      "sha256": "fea9adbcd17bcf6c50288a6c24545466cb1b76d1600769245e054c38c2eea295"
+    },
+    {
+      "path": "skills/build-bpc-proposals/assets/charts/previews/gallery-contact-3.jpg",
+      "bytes": 65202,
+      "sha256": "cd09ea9155e3b95bb98b07824df2d5b954d718b7526270651879200e009885ad"
+    },
+    {
+      "path": "skills/build-bpc-proposals/assets/charts/previews/gantt_strategy.meta.json",
+      "bytes": 1757,
+      "sha256": "c107cf7f7b847204ec0e439eff654de87d28698f1325ecf8f4888de146fe5ce3"
+    },
+    {
+      "path": "skills/build-bpc-proposals/assets/charts/previews/gantt_strategy.pdf",
+      "bytes": 13364,
+      "sha256": "dfadfb84f2f8703cf9cc9efbb169d67030133249615e1d8c069a8edcb6a2ee1f"
+    },
+    {
+      "path": "skills/build-bpc-proposals/assets/charts/previews/gantt_strategy.png",
+      "bytes": 49041,
+      "sha256": "73c0c97a6d2ebf4525d157e3029633062df41058e69908e6e3c4500b94ae8c2d"
+    },
+    {
+      "path": "skills/build-bpc-proposals/assets/charts/previews/gantt_strategy.tex",
+      "bytes": 3903,
+      "sha256": "cc28601d1b0bdc0b6c815a4c02c938430d8fda3e62fe219e7dabdcffbc893f00"
+    },
+    {
+      "path": "skills/build-bpc-proposals/assets/charts/previews/gantt_year1.meta.json",
+      "bytes": 1609,
+      "sha256": "eeef5e535315c1c7e944f65ca9ba570b235d25194e60d6650b54bbbb3eb1a9ef"
+    },
+    {
+      "path": "skills/build-bpc-proposals/assets/charts/previews/gantt_year1.pdf",
+      "bytes": 13581,
+      "sha256": "8ddb128a542f7e8ddebf3ad2c9f1336e5b80871827a1540706c553074415b9ac"
+    },
+    {
+      "path": "skills/build-bpc-proposals/assets/charts/previews/gantt_year1.png",
+      "bytes": 56084,
+      "sha256": "fe763a8c09369c5c05602c4ccf3d2866ab30d915d00cce8370daec4f55e1c4c6"
+    },
+    {
+      "path": "skills/build-bpc-proposals/assets/charts/previews/gantt_year1.tex",
+      "bytes": 4775,
+      "sha256": "a32c95e015f6070137f0fb17d3ae3c4e6481079568eab1cc1f7f785990890ddc"
+    },
+    {
+      "path": "skills/build-bpc-proposals/assets/charts/previews/issue_tree.meta.json",
+      "bytes": 1175,
+      "sha256": "44cec581166efedf9c6a6cacfcb1e435e83808c87c3760403d2c253bfcfeb45e"
+    },
+    {
+      "path": "skills/build-bpc-proposals/assets/charts/previews/issue_tree.pdf",
+      "bytes": 23331,
+      "sha256": "40c695f9070a6c55ab7bd56b5ffcf61d5204e262d1bab989198549acf592c740"
+    },
+    {
+      "path": "skills/build-bpc-proposals/assets/charts/previews/issue_tree.png",
+      "bytes": 123387,
+      "sha256": "163a909323d7e15ea27b7d74e3f4cb8cd881869fbbdcae424add8b581dcee625"
+    },
+    {
+      "path": "skills/build-bpc-proposals/assets/charts/previews/issue_tree.tex",
+      "bytes": 3496,
+      "sha256": "385c0a21a96fd59ab6109df35033964cbbd9fbee7eacfd8e47bfcc716055486c"
+    },
+    {
+      "path": "skills/build-bpc-proposals/assets/charts/previews/market_layers.meta.json",
+      "bytes": 1152,
+      "sha256": "8140c39c207330abe594c160caed675cddf27289dc086ad6229d0c65f8ae0a84"
+    },
+    {
+      "path": "skills/build-bpc-proposals/assets/charts/previews/market_layers.pdf",
+      "bytes": 23147,
+      "sha256": "2ed6a48abc7f3c6826131cd514e6eb615c23cba24c2a9da5f4020bfac8a3c2c4"
+    },
+    {
+      "path": "skills/build-bpc-proposals/assets/charts/previews/market_layers.png",
+      "bytes": 86018,
+      "sha256": "0fbe0b251822050d514b8afbed14c57a0aeb84fa20af9a293e9e6dc82e3465c1"
+    },
+    {
+      "path": "skills/build-bpc-proposals/assets/charts/previews/market_layers.tex",
+      "bytes": 1698,
+      "sha256": "371acb7e27268a72d29d210301c471d55fbb0422c42839e0dc2745eab2753d32"
+    },
+    {
+      "path": "skills/build-bpc-proposals/assets/charts/previews/npv_distribution.meta.json",
+      "bytes": 1471,
+      "sha256": "863e827dab4afcda0061efdc840863a1521be25f23c33da1f6744cc4061a9fa7"
+    },
+    {
+      "path": "skills/build-bpc-proposals/assets/charts/previews/npv_distribution.pdf",
+      "bytes": 15096,
+      "sha256": "9baf9835a7cb40209a13cb537a524f2ce1c3b95838fd1e2505a5709ede766451"
+    },
+    {
+      "path": "skills/build-bpc-proposals/assets/charts/previews/npv_distribution.png",
+      "bytes": 31695,
+      "sha256": "94e83d3bb11a270aafaebc603eec8d661cfde022a5817f9aa5f71c3370858fd6"
+    },
+    {
+      "path": "skills/build-bpc-proposals/assets/charts/previews/npv_distribution.tex",
+      "bytes": 2164,
+      "sha256": "d8233e5487ae97517fe77a0443dfd46136c509d09b90f4e5a999ad409c343624"
+    },
+    {
+      "path": "skills/build-bpc-proposals/assets/charts/previews/positioning.meta.json",
+      "bytes": 1103,
+      "sha256": "5e4debd4a2eaee8a1be98d0956a902c93faa71e712df9a51769a3234eb3b2b03"
+    },
+    {
+      "path": "skills/build-bpc-proposals/assets/charts/previews/positioning.pdf",
+      "bytes": 12436,
+      "sha256": "fd4c24b650a766095b397fc83e17af930bdc61206aa7dfda11bad9cc80b40a39"
+    },
+    {
+      "path": "skills/build-bpc-proposals/assets/charts/previews/positioning.png",
+      "bytes": 32168,
+      "sha256": "99c869b30cc8aa593ad2659ed5c92ee339cc7f777482b1231ae3e08a83f7f9f2"
+    },
+    {
+      "path": "skills/build-bpc-proposals/assets/charts/previews/positioning.tex",
+      "bytes": 1684,
+      "sha256": "179d7c449ae16a713609e2848693d3ecc85f01ea32b9fbde4921c5b9c1f3e854"
+    },
+    {
+      "path": "skills/build-bpc-proposals/assets/charts/previews/risk_heatmap.meta.json",
+      "bytes": 1080,
+      "sha256": "6b58bb14d5dbe9deeccd39d2281e810be199f2c25273682b3f2256d31831a571"
+    },
+    {
+      "path": "skills/build-bpc-proposals/assets/charts/previews/risk_heatmap.pdf",
+      "bytes": 13089,
+      "sha256": "27f6a5f85bbca5b9b76e12ac6a7e35a2d29186fd0275412cfab17de4c71d0ce5"
+    },
+    {
+      "path": "skills/build-bpc-proposals/assets/charts/previews/risk_heatmap.png",
+      "bytes": 45333,
+      "sha256": "11b9a6ca4b61e108f1e7ae1f7769dab502781fa0325e4815a5cd09236fa05511"
+    },
+    {
+      "path": "skills/build-bpc-proposals/assets/charts/previews/risk_heatmap.tex",
+      "bytes": 3513,
+      "sha256": "efc1c0f32f4ce3e90e9c9c4d96d5e99dd9b6fbf9b1f45176abc462a5f2d90f18"
+    },
+    {
+      "path": "skills/build-bpc-proposals/assets/charts/previews/service_flow.meta.json",
+      "bytes": 1021,
+      "sha256": "dad18ff2e0888894e26942683b5d5392e5e5670ab02de178bf3381972d29b311"
+    },
+    {
+      "path": "skills/build-bpc-proposals/assets/charts/previews/service_flow.pdf",
+      "bytes": 20247,
+      "sha256": "26f5d44b9db30f3a938542084610f347b31e7e65b677c346aa453fde349e2b5a"
+    },
+    {
+      "path": "skills/build-bpc-proposals/assets/charts/previews/service_flow.png",
+      "bytes": 78109,
+      "sha256": "7c117d2cf071ca9bae45632cb9c802239b10c51257ecd4fa484c4322c26fa9b8"
+    },
+    {
+      "path": "skills/build-bpc-proposals/assets/charts/previews/service_flow.tex",
+      "bytes": 1981,
+      "sha256": "e950b1b27e6dfa87bc16fcef512c45f3d243bbb860f9677abb6efd36bf073523"
+    },
+    {
+      "path": "skills/build-bpc-proposals/assets/charts/previews/stakeholder_structure.meta.json",
+      "bytes": 1095,
+      "sha256": "e8a9fdd35c453b370a7fe3028a8741607cbed397ff8ca1a376807fc67eec505c"
+    },
+    {
+      "path": "skills/build-bpc-proposals/assets/charts/previews/stakeholder_structure.pdf",
+      "bytes": 19829,
+      "sha256": "346937bde1136ed5a17cf5f01a1dd577fd03974232a7f0ff57983cbce7c8cc79"
+    },
+    {
+      "path": "skills/build-bpc-proposals/assets/charts/previews/stakeholder_structure.png",
+      "bytes": 46816,
+      "sha256": "bd8394ab0d4f6249032cd0c937e4490a74afaed8d0da59dc97d529968ec26921"
+    },
+    {
+      "path": "skills/build-bpc-proposals/assets/charts/previews/stakeholder_structure.tex",
+      "bytes": 2111,
+      "sha256": "5b6a3a1a05e112e77a682d3f538cbe62dbca55c0cc1d96ab70a8e7a9591313ae"
+    },
+    {
+      "path": "skills/build-bpc-proposals/assets/charts/previews/value_proposition.meta.json",
+      "bytes": 1237,
+      "sha256": "ddeb5cc26ee59b2f2896c6eff1da764ac345620c2c1d7bc790b85bbdac3d2e28"
+    },
+    {
+      "path": "skills/build-bpc-proposals/assets/charts/previews/value_proposition.pdf",
+      "bytes": 41540,
+      "sha256": "1bec47ce596472a0ad1e56025f2da7b40e873dc73d082863882c5ebb58162da5"
+    },
+    {
+      "path": "skills/build-bpc-proposals/assets/charts/previews/value_proposition.png",
+      "bytes": 104091,
+      "sha256": "f1f8b4083d5df9bd349e1c324405b289af3df452249861f2eb2abfb21f05575d"
+    },
+    {
+      "path": "skills/build-bpc-proposals/assets/charts/previews/value_proposition.tex",
+      "bytes": 3159,
+      "sha256": "8ea0a130a64085c80cd59f73700bcd4b4458375ade5d5059357161b573e2c69f"
+    },
+    {
+      "path": "skills/build-bpc-proposals/assets/charts/stress/long-gantt.json",
+      "bytes": 1210,
+      "sha256": "2755fe61ae0515f847bdc451d4ad892e1b6aba34ff8ed53092a8152cad47f8b4"
+    },
+    {
+      "path": "skills/build-bpc-proposals/assets/charts/stress/review_gantt_long.meta.json",
+      "bytes": 1421,
+      "sha256": "9cac8a2f830564dbb76ba400dbe0540c18c38e36405b7757d645e2103f3ea82f"
+    },
+    {
+      "path": "skills/build-bpc-proposals/assets/charts/stress/review_gantt_long.pdf",
+      "bytes": 23392,
+      "sha256": "2df0200a755a41820681aa3a06e1c5b44f3e337738f1552682901da3be09cb1e"
+    },
+    {
+      "path": "skills/build-bpc-proposals/assets/charts/stress/review_gantt_long.png",
+      "bytes": 70385,
+      "sha256": "73d8a8f69fce6268192a369caec10d39897914e1667c62b261d7910fb853a8a5"
+    },
+    {
+      "path": "skills/build-bpc-proposals/assets/charts/stress/review_gantt_long.tex",
+      "bytes": 4903,
+      "sha256": "7bda2dfa65e7acc1229b8b08a5a3b7dc5c56740fe431cfdc347dfba6388ab650"
+    },
+    {
+      "path": "skills/build-bpc-proposals/assets/charts/templates/cash.tex",
+      "bytes": 1664,
+      "sha256": "af6b00e03fcd2e9ec147752bfe87291193308423cf6fc3cd308071670b2dc8e8"
+    },
+    {
+      "path": "skills/build-bpc-proposals/assets/charts/templates/comparison.tex",
+      "bytes": 1434,
+      "sha256": "ac694f288a8dc01a6bb7255a43c4b716de56da4b8cad3a6fde401fd4d90a851b"
+    },
+    {
+      "path": "skills/build-bpc-proposals/assets/charts/templates/drivers.tex",
+      "bytes": 1516,
+      "sha256": "754c8d9c8d80def2294ee20f7d20a2cb17f550260c41c95b472bd4f1b575e371"
+    },
+    {
+      "path": "skills/build-bpc-proposals/assets/charts/templates/gantt_strategy.tex",
+      "bytes": 3906,
+      "sha256": "76f61834550c3de76a75cbc3186015f563c5b21a8febed2ebdad5a976b2b80e7"
+    },
+    {
+      "path": "skills/build-bpc-proposals/assets/charts/templates/gantt_year1.tex",
+      "bytes": 4778,
+      "sha256": "a0ad9468bcf07a8f0e8f6110c03413997c2f0b2240da2c952f8e6dd93fe0ba25"
+    },
+    {
+      "path": "skills/build-bpc-proposals/assets/charts/templates/issue_tree.tex",
+      "bytes": 3567,
+      "sha256": "be86b4ec897b9982bd035db884ce5543b7b4988f825f09cf7dfc6f7af3edd179"
+    },
+    {
+      "path": "skills/build-bpc-proposals/assets/charts/templates/market_layers.tex",
+      "bytes": 1701,
+      "sha256": "9c70905b12aead790f7719325019e435a26582e57d79d20b6de62b71deb26698"
+    },
+    {
+      "path": "skills/build-bpc-proposals/assets/charts/templates/npv_distribution.tex",
+      "bytes": 2167,
+      "sha256": "102149d4b6f352c5fe2228920307dc6109f75ab0fc926e1d4be3d51ac27cb949"
+    },
+    {
+      "path": "skills/build-bpc-proposals/assets/charts/templates/positioning.tex",
+      "bytes": 1687,
+      "sha256": "8793bec148ea2dbe6053159862b164051077b850e2b507951258af31f8978a31"
+    },
+    {
+      "path": "skills/build-bpc-proposals/assets/charts/templates/risk_heatmap.tex",
+      "bytes": 3516,
+      "sha256": "927a1cb5444c8e51ece916347ef4833492ab3a84b69b0967c6c38700ad8b078d"
+    },
+    {
+      "path": "skills/build-bpc-proposals/assets/charts/templates/service_flow.tex",
+      "bytes": 1984,
+      "sha256": "f93ad8fa80cf14a30b0c4503edcabc1584926cb825858c34d54d513e39bcef7a"
+    },
+    {
+      "path": "skills/build-bpc-proposals/assets/charts/templates/stakeholder_structure.tex",
+      "bytes": 2116,
+      "sha256": "8ca728e0c409329d323a1278709d8ac79713aa5429a04738a1e67e9ab283fd99"
+    },
+    {
+      "path": "skills/build-bpc-proposals/assets/charts/templates/value_proposition.tex",
+      "bytes": 3159,
+      "sha256": "8ea0a130a64085c80cd59f73700bcd4b4458375ade5d5059357161b573e2c69f"
+    },
+    {
+      "path": "skills/build-bpc-proposals/assets/templates/neutral_proposal.docx",
+      "bytes": 37807,
+      "sha256": "31068ad413a4d7e007fcf09a8a5df97f00fc435cad3a452f258d9c2f9d4ccc16"
+    },
+    {
+      "path": "skills/build-bpc-proposals/references/bpc-manual.md",
+      "bytes": 12915,
+      "sha256": "49e1ceec8b6ef3687192578bfb7f5ee8733fbfa41fd3435a6b3c9a94ae8be0a2"
+    },
+    {
+      "path": "skills/build-bpc-proposals/references/commercial-writing.md",
+      "bytes": 6751,
+      "sha256": "086213626cb81eea7dac62ffd0ffd8179e5016f2044d9fdbfc2fea7e4026eb78"
+    },
+    {
+      "path": "skills/build-bpc-proposals/references/evidence.md",
+      "bytes": 4260,
+      "sha256": "b3df4cf118736ec05094273a1cbbdc6b55fed9b155e15994ec9412a14787a9b1"
+    },
+    {
+      "path": "skills/build-bpc-proposals/references/finance.md",
+      "bytes": 4913,
+      "sha256": "88ffe43fea9ff12b8026e04e4a57e522f9cf0b2fb13fce07a37f189fe6952175"
+    },
+    {
+      "path": "skills/build-bpc-proposals/references/operations.md",
+      "bytes": 4367,
+      "sha256": "6a86e57c8b5941e2ba6208a7f043f3333bd8394d32a65b9ce3b44ba2e0fd5bcb"
+    },
+    {
+      "path": "skills/build-bpc-proposals/references/production.md",
+      "bytes": 2956,
+      "sha256": "38e3ec9d0943f69b71d2621508adb9557b7fd1daf4c39db5a2c2125ef474b304"
+    },
+    {
+      "path": "skills/build-bpc-proposals/references/project-continuity.md",
+      "bytes": 1197,
+      "sha256": "1386a84dfbecc3e472f308bcc0cd1a66e0e448a694a13037cb9e2ee78e24a76d"
+    },
+    {
+      "path": "skills/build-bpc-proposals/references/proposal-architecture.md",
+      "bytes": 4607,
+      "sha256": "6fb9977b4a7375c6b6858e2ec04650e8f2707f8a1cabcc740daf8f1bb89cbb9e"
+    },
+    {
+      "path": "skills/build-bpc-proposals/references/review-and-release.md",
+      "bytes": 3121,
+      "sha256": "dc4df5cca8cbd5003c0fc9882e0dd50206c566a91368bbbbe826b9d367ef7146"
+    },
+    {
+      "path": "skills/build-bpc-proposals/references/supporting-formats.md",
+      "bytes": 4290,
+      "sha256": "f83c0c8fa6ead9d4e372641d10087bb67a0f06f873f1f85b171192764ab8c009"
+    },
+    {
+      "path": "skills/build-bpc-proposals/references/venture-reasoning.md",
+      "bytes": 4283,
+      "sha256": "ff7cdaee424e93aae941e3e809435d0221077c6f3b477dcec6196cc3dc63a158"
+    },
+    {
+      "path": "skills/build-bpc-proposals/references/visual-system.md",
+      "bytes": 3719,
+      "sha256": "b5e54075d6362b7dee188a2bedf1bc1bb691ae2255a21f11c77bd190ba41cec6"
+    },
+    {
+      "path": "skills/build-bpc-proposals/scripts/analysis.py",
+      "bytes": 9917,
+      "sha256": "78282744b210498cb2a7a5e514e7f473b4ce8c4322baf819423d0656724cd13e"
+    },
+    {
+      "path": "skills/build-bpc-proposals/scripts/audit_document.py",
+      "bytes": 11337,
+      "sha256": "4b4ea7c9ed17d81eebc75dd7d377285cf7ae57557cb50da2be3d6dd39073c3d7"
+    },
+    {
+      "path": "skills/build-bpc-proposals/scripts/build_docx.py",
+      "bytes": 21074,
+      "sha256": "9f6d4114b1206abc732579474f2d39a48b7ccdba296b2717c868e36b38e0072b"
+    },
+    {
+      "path": "skills/build-bpc-proposals/scripts/charts.py",
+      "bytes": 35325,
+      "sha256": "d44c7fc143c7725df601253d2a4cdefa9afb5529bf234dfda3a57d0e0952f6b3"
+    },
+    {
+      "path": "skills/build-bpc-proposals/scripts/extract_comments.py",
+      "bytes": 4051,
+      "sha256": "48771682357c64091de216f2fd2504d3417571461645591fc0932459cb856b12"
+    },
+    {
+      "path": "skills/build-bpc-proposals/scripts/finance.py",
+      "bytes": 9421,
+      "sha256": "20e5872ac4c204a0495710e8986af4ff32bb0403517bc9d5c344464c94633be8"
+    },
+    {
+      "path": "skills/build-bpc-proposals/scripts/read_documents.py",
+      "bytes": 18060,
+      "sha256": "1e1271666a99b439424bbe74a1832e85ddb249f4b6fc18ec3739599c66fedd69"
+    },
+    {
+      "path": "skills/build-bpc-proposals/scripts/render_document.py",
+      "bytes": 5385,
+      "sha256": "7c293226eeee43018d1e542482c46793ccaca3e885e04c5ac0bbe625c58fada9"
+    },
+    {
+      "path": "skills/build-bpc-proposals/scripts/validate_package.py",
+      "bytes": 3225,
+      "sha256": "a8a20dd124d02144bd7b2e7c8dea576e3880d671dcaeb5592929bcf28b403ed5"
+    },
+    {
+      "path": "skills/build-bpc-proposals/scripts/voice_review.py",
+      "bytes": 1569,
+      "sha256": "b1a17da6ca1c298be7e8e1831287121ec6f31b759f48d29a358a81941578974b"
+    },
+    {
+      "path": "studio.py",
+      "bytes": 6820,
+      "sha256": "7e0f49a3113cfd91baa0a3abe99e1399d990cd6b31ffc1424dc77b068672ebc5"
+    },
+    {
+      "path": "tests/fixtures/bpc-fresh-brief.md",
+      "bytes": 1239,
+      "sha256": "d4e5128e2b8630dbc4f52442972797dc6495526807c11a8198a817601707567c"
+    },
+    {
+      "path": "tests/fixtures/saku-belajar-brief.md",
+      "bytes": 1433,
+      "sha256": "1db27922c7ab05e6e6f62dde27b5204e495d0d84967a9b25ddf126d55d117526"
+    },
+    {
+      "path": "tests/fixtures/saku-belajar-guide.md",
+      "bytes": 874,
+      "sha256": "c39ac1f4c0dd560aef0f08c430940f7e8fd6454f35433c4a81e0d8103664a64d"
+    },
+    {
+      "path": "tests/test_analysis.py",
+      "bytes": 3771,
+      "sha256": "8829958f2fde8618dcfd358a426870897121b790bddce638fe60e65fa04dfeb2"
+    },
+    {
+      "path": "tests/test_bpc_entry.py",
+      "bytes": 1237,
+      "sha256": "5ad5ea91b857e7e47404d8899471b57dc2f5055f78840635ac49435eb980490a"
+    },
+    {
+      "path": "tests/test_document_intake.py",
+      "bytes": 5687,
+      "sha256": "1dc3ba693d76d143dc0375695a3fbb2090e7631b35a2cd0afd0fac962b811d5f"
+    },
+    {
+      "path": "tests/test_document_tools.py",
+      "bytes": 6870,
+      "sha256": "ca29baaa008eec55f652a212584580aae8d1785778ecae62c01328472d315ba1"
+    },
+    {
+      "path": "tests/test_finance.py",
+      "bytes": 4476,
+      "sha256": "9ec9fb915ec5092ce97e7d2223aadbc0a43151e19d82a24c4655de336c798d7d"
+    },
+    {
+      "path": "tests/test_portable_cli.py",
+      "bytes": 3215,
+      "sha256": "2ece2c80239cb870f4ddced6869a46f188ac80740875031904107a05af896b9c"
+    },
+    {
+      "path": "tests/test_portable_paths.py",
+      "bytes": 1510,
+      "sha256": "c2541cf8e15742ead6d98df498128874be23550fc6aafe3442b6b1a212c0a137"
+    },
+    {
+      "path": "validation/README.md",
+      "bytes": 4728,
+      "sha256": "fb96752e62ede736e0b2988bdd4adab7cd9eb97634031ca9fc48f7a90e90aab2"
+    },
+    {
+      "path": "validation/fresh-task-response.md",
+      "bytes": 7840,
+      "sha256": "dcabcd7a5da234943af40d4c630764640ae7c0fdbfb205744b6f4084873fe68d"
+    },
+    {
+      "path": "validation/fresh-task-voice.json",
+      "bytes": 259,
+      "sha256": "78443d96b21042012691f1d8f75a84aab33ad38096f0ae3fcc1d46e7666f8125"
+    },
+    {
+      "path": "validation/package-check.json",
+      "bytes": 296,
+      "sha256": "0f70582e89445d41a4fef38ef6bd8ba6bbfcbfac4dc8037d03f60936eddb2b28"
+    },
+    {
+      "path": "validation/relocated-cli.json",
+      "bytes": 576,
+      "sha256": "eddf6ee5b003554f893e5ee5cea67652f8071c6fe6485472261fe3e42dcbc647"
+    },
+    {
+      "path": "validation/source-hashes.json",
+      "bytes": 117,
+      "sha256": "e13eefee6290a3f550d53eaafd70be54b262c99b159aa9c619f273056cc5a28c"
+    },
+    {
+      "path": "validation/tests.txt",
+      "bytes": 5684,
+      "sha256": "6f9cabe4b1679aa7b077af7f2830e9c9f03ed2c2b4afed6f5a2839792a6a52a7"
+    },
+    {
+      "path": "validation/zip-policy.json",
+      "bytes": 618,
+      "sha256": "27ad4601db526256659503451192c1536b69299b83c82052a8673fc5978631eb"
+    }
+  ]
+}

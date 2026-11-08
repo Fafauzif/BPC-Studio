@@ -1,0 +1,40 @@
+[
+  {
+    "name": "service_flow",
+    "tex": "service_flow.tex",
+    "width_cm": 15.83,
+    "height_cm": 7.51,
+    "job": "Enam langkah normal dengan pemeriksaan kelanjutan dan tanggung jawab yang tetap melekat pada pemegang perangkat saat kasus tertahan.",
+    "unavailable_historical_assets": {
+      "png": {
+        "filename": "service_flow.png",
+        "status": "historical original path unavailable in supplied current files"
+      },
+      "pdf": {
+        "filename": "service_flow.pdf",
+        "status": "historical original path unavailable in supplied current files"
+      }
+    }
+  },
+  {
+    "name": "issue_tree_horizontal",
+    "tex": "issue_tree_horizontal.tex",
+    "width_cm": 15.5,
+    "height_cm": 15.8,
+    "job": "Pohon masalah horizontal empat kolom dengan enam penyebab dan tautan bukti yang mengikuti analisis sebab, bukan daftar kebutuhan sistem.",
+    "unavailable_historical_assets": {
+      "png": {
+        "filename": "issue_tree_horizontal.png",
+        "status": "historical original path unavailable in supplied current files"
+      },
+      "pdf": {
+        "filename": "issue_tree_horizontal.pdf",
+        "status": "historical original path unavailable in supplied current files"
+      },
+      "source_json": {
+        "filename": "issue_tree_data.json",
+        "status": "historical original path unavailable in supplied current files"
+      }
+    }
+  }
+]

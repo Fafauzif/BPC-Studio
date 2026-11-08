@@ -1,0 +1,29 @@
+{
+  "status": "pass",
+  "unrelated_cwd": true,
+  "repository_and_output_paths_contain_spaces": true,
+  "commands": [
+    {
+      "command": "--help",
+      "exit_code": 0
+    },
+    {
+      "command": "new",
+      "exit_code": 0
+    },
+    {
+      "command": "handoff",
+      "exit_code": 0
+    },
+    {
+      "command": "finance",
+      "exit_code": 0
+    },
+    {
+      "command": "build",
+      "exit_code": 0
+    }
+  ],
+  "fresh_project": "blank venture, numbers, sources; Indonesian; no old venture names",
+  "build": "fresh DOCX generated with relative sample assets"
+}

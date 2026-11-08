@@ -1,0 +1,290 @@
+{
+  "range": "BPC-18 through BPC-27",
+  "documents_read": 10,
+  "physical_pages_read": 15,
+  "physical_pages_visually_inspected": 15,
+  "scope": "All available PDF content; external QR destinations not represented as read. Lessons distinguish missing source evidence from unreadable physical content.",
+  "recovery_note": "Recovered completed reading findings from agent conversation/tool history after workspace reset; completed sources not reread. Source SHA-256 values were checked against actual PDFs before reset.",
+  "documents": [
+    {
+      "id": "BPC-18",
+      "original_identity": "Contoh BMC/Fernanda Adrio F_Ciiiihuuuyyyy_BMC_20250717_131906_0000 - Fernanda _15.pdf",
+      "doc_path": "library/originals/bpc/BPC-18.pdf",
+      "sha256": "c5e04c37cf5136cbafe6e61ac1e9430a30ce6d48eb8d9f97414c4d9eaed61866",
+      "physical_pages": 1,
+      "text_pages_read": [
+        1
+      ],
+      "visual_pages": [
+        1
+      ],
+      "reading_method": "All native/available derivative page text read and every actual page render inspected; semantic visual content checked directly.",
+      "additional_recovery": "Page 1 OCR eng+ind and market circle crop 5x",
+      "gaps": [
+        {
+          "type": "external-material-not-in-pdf",
+          "physical_page": 1,
+          "content": "QR-linked photo/survey/interview materials not read"
+        }
+      ],
+      "tags": [
+        "BMC",
+        "physical-product",
+        "detergent",
+        "cross-section-inconsistency",
+        "market-sizing"
+      ],
+      "lesson_path": "library/bpc-lessons/BPC-18.md",
+      "source_status": "Historical reference; BMC/supporting material, not established full proposal or winner."
+    },
+    {
+      "id": "BPC-19",
+      "original_identity": "Contoh BMC/Josephine Karen Aristo_Cihuyy_BMC - Josephine Karen.pdf",
+      "doc_path": "library/originals/bpc/BPC-19.pdf",
+      "sha256": "ad464f7c2675afc651af2e3ea37de3fa6d67aff7bb200ce99bcf359e2387e8d0",
+      "physical_pages": 1,
+      "text_pages_read": [
+        1
+      ],
+      "visual_pages": [
+        1
+      ],
+      "reading_method": "All native/available derivative page text read and every actual page render inspected; semantic visual content checked directly.",
+      "additional_recovery": "Native text plus actual full-page render",
+      "gaps": [],
+      "tags": [
+        "BMC",
+        "wearable",
+        "gamification",
+        "hardware-subscription",
+        "channel-experience"
+      ],
+      "lesson_path": "library/bpc-lessons/BPC-19.md",
+      "source_status": "Historical reference; BMC/supporting material, not established full proposal or winner."
+    },
+    {
+      "id": "BPC-20",
+      "original_identity": "Contoh BMC/Kevin Ananta Marga_Vityuu_BMC - kevin ananta.pdf",
+      "doc_path": "library/originals/bpc/BPC-20.pdf",
+      "sha256": "639e21e224b1c4a5035032ce24903659ff09545f9ea9ffe95304182db8de05cf",
+      "physical_pages": 1,
+      "text_pages_read": [
+        1
+      ],
+      "visual_pages": [
+        1
+      ],
+      "reading_method": "All native/available derivative page text read and every actual page render inspected; semantic visual content checked directly.",
+      "additional_recovery": "Native text plus actual full-page render",
+      "gaps": [],
+      "tags": [
+        "BMC",
+        "maclon",
+        "medical-claims",
+        "marketplace-fees",
+        "evidence-boundaries"
+      ],
+      "lesson_path": "library/bpc-lessons/BPC-20.md",
+      "source_status": "Historical reference; BMC/supporting material, not established full proposal or winner."
+    },
+    {
+      "id": "BPC-21",
+      "original_identity": "Contoh BMC/Nelvina Ardini Putri_Coolaborators_BMC (1) - Nelvina Ardini Putri.pdf",
+      "doc_path": "library/originals/bpc/BPC-21.pdf",
+      "sha256": "14b6b300ad3274bc44e8b601fcdd0f82ac75e963a37ba2b31b103a735365a318",
+      "physical_pages": 2,
+      "text_pages_read": [
+        1,
+        2
+      ],
+      "visual_pages": [
+        1,
+        2
+      ],
+      "reading_method": "All native/available derivative page text read and every actual page render inspected; semantic visual content checked directly.",
+      "additional_recovery": "Pages 1-2 additional eng+ind OCR of 1.65x renders; page 2 six mockup screens enlarged",
+      "gaps": [
+        {
+          "type": "external-material-not-in-pdf",
+          "physical_page": 1,
+          "content": "QR-linked application prototype not read; PDF mockups read"
+        }
+      ],
+      "tags": [
+        "BMC",
+        "OEM",
+        "B2B2C",
+        "IoT",
+        "product-mockups",
+        "after-sales"
+      ],
+      "lesson_path": "library/bpc-lessons/BPC-21.md",
+      "source_status": "Historical reference; BMC/supporting material, not established full proposal or winner."
+    },
+    {
+      "id": "BPC-22",
+      "original_identity": "Contoh BMC/Nisa Altingia_Dreamgineers_BMC - Nisa AltngPtryni.pdf",
+      "doc_path": "library/originals/bpc/BPC-22.pdf",
+      "sha256": "d30bc0d6003e219faafe376d01ce6d4bd7a604089b63f377c444a1cd2285092f",
+      "physical_pages": 1,
+      "text_pages_read": [
+        1
+      ],
+      "visual_pages": [
+        1
+      ],
+      "reading_method": "All native/available derivative page text read and every actual page render inspected; semantic visual content checked directly.",
+      "additional_recovery": "Native text plus actual full-page render",
+      "gaps": [],
+      "tags": [
+        "BMC",
+        "smart-product",
+        "privacy-architecture",
+        "capex-opex",
+        "hospitality"
+      ],
+      "lesson_path": "library/bpc-lessons/BPC-22.md",
+      "source_status": "Historical reference; BMC/supporting material, not established full proposal or winner."
+    },
+    {
+      "id": "BPC-23",
+      "original_identity": "Contoh BMC/Raply Muzaki Aliyafi_Bina Ruang Emosi_BMC - Raply Muzaki Aliyafi.pdf",
+      "doc_path": "library/originals/bpc/BPC-23.pdf",
+      "sha256": "65a73575ddba2f3861c8583e9d301ee09491ce8596bb4da266bf48918431a049",
+      "physical_pages": 1,
+      "text_pages_read": [
+        1
+      ],
+      "visual_pages": [
+        1
+      ],
+      "reading_method": "All native/available derivative page text read and every actual page render inspected; semantic visual content checked directly.",
+      "additional_recovery": "Native text plus actual full-page render",
+      "gaps": [],
+      "tags": [
+        "BMC",
+        "mental-wellness",
+        "gaming",
+        "multi-payer",
+        "service-operations"
+      ],
+      "lesson_path": "library/bpc-lessons/BPC-23.md",
+      "source_status": "Historical reference; BMC/supporting material, not established full proposal or winner."
+    },
+    {
+      "id": "BPC-24",
+      "original_identity": "Contoh BMC/Taniya Boyasudibyo_BIQUAL_BMC - Taniya Boyasudibyo.pdf",
+      "doc_path": "library/originals/bpc/BPC-24.pdf",
+      "sha256": "af9b0d2c16df7027964de50ba2c81d20362b947906b9cee8797e515c0b798a49",
+      "physical_pages": 1,
+      "text_pages_read": [
+        1
+      ],
+      "visual_pages": [
+        1
+      ],
+      "reading_method": "All native/available derivative page text read and every actual page render inspected; semantic visual content checked directly.",
+      "additional_recovery": "Native text plus actual full-page render",
+      "gaps": [],
+      "tags": [
+        "BMC",
+        "refill",
+        "sensory-brand",
+        "custom-production",
+        "market-sizing"
+      ],
+      "lesson_path": "library/bpc-lessons/BPC-24.md",
+      "source_status": "Historical reference; BMC/supporting material, not established full proposal or winner."
+    },
+    {
+      "id": "BPC-25",
+      "original_identity": "Contoh BMC/Terence Lee_Gwenchana_BMC - Terence Lee.pdf",
+      "doc_path": "library/originals/bpc/BPC-25.pdf",
+      "sha256": "13f8b5aa6e0e5c1401157287e84473f7d37789ff4d9784e2f630ca9f771012b9",
+      "physical_pages": 4,
+      "text_pages_read": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "visual_pages": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "reading_method": "All native/available derivative page text read and every actual page render inspected; semantic visual content checked directly.",
+      "additional_recovery": "Native text plus actual full-page render",
+      "gaps": [],
+      "tags": [
+        "BMC",
+        "labor-marketplace",
+        "worker-welfare",
+        "fee-stack",
+        "source-relevance"
+      ],
+      "lesson_path": "library/bpc-lessons/BPC-25.md",
+      "source_status": "Historical reference; BMC/supporting material, not established full proposal or winner."
+    },
+    {
+      "id": "BPC-26",
+      "original_identity": "Contoh BMC/Thania Dwi Rahma_Ayo Gas_BMC - Thania.pdf",
+      "doc_path": "library/originals/bpc/BPC-26.pdf",
+      "sha256": "3fd4d1e6dc5a0a6759da290f7af934a3def9b0816bc4eba23e1c231c19744c8c",
+      "physical_pages": 1,
+      "text_pages_read": [
+        1
+      ],
+      "visual_pages": [
+        1
+      ],
+      "reading_method": "All native/available derivative page text read and every actual page render inspected; semantic visual content checked directly.",
+      "additional_recovery": "Page 1 two UI screens enlarged 5x and eng+ind OCR; residual microtext gaps recorded",
+      "gaps": [
+        {
+          "type": "partially-unreadable-physical-content",
+          "physical_page": 1,
+          "content": "Right-hand phone UI plot axis/date labels, some mini-statistics below left plot, warning unit identifier, and parts of Key Observations microtext remain blurred after 5x crop and eng+ind OCR; no invented transcription."
+        }
+      ],
+      "tags": [
+        "BMC",
+        "B2B",
+        "B2G",
+        "biofilter",
+        "forecast-chart",
+        "illustrative-dashboard"
+      ],
+      "lesson_path": "library/bpc-lessons/BPC-26.md",
+      "source_status": "Historical reference; BMC/supporting material, not established full proposal or winner."
+    },
+    {
+      "id": "BPC-27",
+      "original_identity": "Contoh BMC/Wahyu Alfian_Antigabut_BMC - Grady Mourheno.pdf",
+      "doc_path": "library/originals/bpc/BPC-27.pdf",
+      "sha256": "f4c39ba75f51542dd9b9f8d7ae395b1f89b4d36c7adc8292254ac5b1d6dd9740",
+      "physical_pages": 2,
+      "text_pages_read": [
+        1,
+        2
+      ],
+      "visual_pages": [
+        1,
+        2
+      ],
+      "reading_method": "All native/available derivative page text read and every actual page render inspected; semantic visual content checked directly.",
+      "additional_recovery": "Page 1 eng+ind OCR checked against actual render",
+      "gaps": [],
+      "tags": [
+        "BMC",
+        "food-surplus",
+        "preventive-use",
+        "marketplace",
+        "safety-workflow"
+      ],
+      "lesson_path": "library/bpc-lessons/BPC-27.md",
+      "source_status": "Historical reference; BMC/supporting material, not established full proposal or winner."
+    }
+  ]
+}

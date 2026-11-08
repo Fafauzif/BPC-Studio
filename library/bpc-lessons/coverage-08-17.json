@@ -1,0 +1,340 @@
+{
+  "range": "BPC-08–BPC-17",
+  "documents": [
+    {
+      "id": "BPC-08",
+      "path": "library/originals/bpc/BPC-08.pdf",
+      "original_path": "Contoh BMC/ALRIFKY ZAIDAN M._TIM JOSJIS_BMC - 07_Alrifky Zaidan M..pdf",
+      "sha256": "18900e712fe5c359e97e59034a00955158275a62cacbdf94ba42e7e5887f3ddf",
+      "page_count": 1,
+      "full_text_read": true,
+      "full_text_read_status": "all available substantive text read; visual recovery for OCR omissions; residual detail gaps listed",
+      "pages_read": [
+        1
+      ],
+      "visual_pages": [
+        1
+      ],
+      "gaps": [],
+      "source_limitations": "Illustrative claims and external links not externally verified. Missing data/formulas noted in lesson.",
+      "lesson_path": "library/bpc-lessons/BPC-08.md",
+      "lesson_tags": [
+        "transaction-unit",
+        "market-sizing",
+        "template-contamination",
+        "feature-scope"
+      ],
+      "recovered_after_workspace_reset": true
+    },
+    {
+      "id": "BPC-09",
+      "path": "library/originals/bpc/BPC-09.pdf",
+      "original_path": "Contoh BMC/Adre Budi Setiawan_ Garda Tim_ BMC - PB24A_ Kamila Fitria Rochmah.pdf",
+      "sha256": "e398c94cb7a6ef75c18bc09f69e3a03961dd7ac4f1751e4e23e6697c3f979bb5",
+      "page_count": 4,
+      "full_text_read": true,
+      "full_text_read_status": "all available substantive text read; visual recovery for OCR omissions; residual detail gaps listed",
+      "pages_read": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "visual_pages": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "gaps": [],
+      "source_limitations": "Illustrative claims and external links not externally verified. Missing data/formulas noted in lesson.",
+      "lesson_path": "library/bpc-lessons/BPC-09.md",
+      "lesson_tags": [
+        "inclusive-service",
+        "channels",
+        "funding-vs-revenue",
+        "privacy-operation"
+      ],
+      "recovered_after_workspace_reset": true
+    },
+    {
+      "id": "BPC-10",
+      "path": "library/originals/bpc/BPC-10.pdf",
+      "original_path": "Contoh BMC/Alisya Mutiara_UINNOVATORS_BMC - Alisya Mutiara.pdf",
+      "sha256": "e95f38ffc1f23e56f0c17c0d8b93d41bd76793eee900b5844fe2ca05294987b0",
+      "page_count": 5,
+      "full_text_read": true,
+      "full_text_read_status": "all available substantive text read; visual recovery for OCR omissions; residual detail gaps listed",
+      "pages_read": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "visual_pages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "gaps": [],
+      "source_limitations": "Illustrative claims and external links not externally verified. Missing data/formulas noted in lesson.",
+      "lesson_path": "library/bpc-lessons/BPC-10.md",
+      "lesson_tags": [
+        "prototype-story",
+        "evidence-scope",
+        "resources-vs-metrics",
+        "ai-unit-economics"
+      ],
+      "recovered_after_workspace_reset": true
+    },
+    {
+      "id": "BPC-11",
+      "path": "library/originals/bpc/BPC-11.pdf",
+      "original_path": "Contoh BMC/Angelica Aliwinata_Powershell_BMC - angelica aliwinata.pdf",
+      "sha256": "ca03c9cdf2817e264216f68793214dd71d3b0d7ac07f29f03eb5d6405ed13967",
+      "page_count": 5,
+      "full_text_read": true,
+      "full_text_read_status": "all available substantive text read; visual recovery for OCR omissions; residual detail gaps listed",
+      "pages_read": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "visual_pages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "gaps": [
+        "Physical page 4: small raster product-description paragraph insufficiently sharp for exact transcription; listing/funding/contact functions and prominent numbers read."
+      ],
+      "source_limitations": "Illustrative claims and external links not externally verified. Missing data/formulas noted in lesson.",
+      "lesson_path": "library/bpc-lessons/BPC-11.md",
+      "lesson_tags": [
+        "governance",
+        "platform-two-sides",
+        "mockup-arithmetic",
+        "value-chain"
+      ],
+      "recovered_after_workspace_reset": true
+    },
+    {
+      "id": "BPC-12",
+      "path": "library/originals/bpc/BPC-12.pdf",
+      "original_path": "Contoh BMC/Asti Ananta Ardiningrum_Manpro Girls_BMC - Asti Ananta.pdf",
+      "sha256": "bd750d327df02571aaf2086453dc7d9c2e3cdcbc4d9165dde212660efa01bc54",
+      "page_count": 1,
+      "full_text_read": true,
+      "full_text_read_status": "all available substantive text read; visual recovery for OCR omissions; residual detail gaps listed",
+      "pages_read": [
+        1
+      ],
+      "visual_pages": [
+        1
+      ],
+      "gaps": [],
+      "source_limitations": "Illustrative claims and external links not externally verified. Missing data/formulas noted in lesson.",
+      "lesson_path": "library/bpc-lessons/BPC-12.md",
+      "lesson_tags": [
+        "service-unit",
+        "repeat-purchase",
+        "capacity",
+        "in-kind-sponsor"
+      ],
+      "recovered_after_workspace_reset": true
+    },
+    {
+      "id": "BPC-13",
+      "path": "library/originals/bpc/BPC-13.pdf",
+      "original_path": "Contoh BMC/Diah Kartika_Coolabeez_BMC - Diah Kartika.pdf",
+      "sha256": "060a7621cd093ab51387a08f2209a0530c34b1567b34c74cf1bd2763cecd6390",
+      "page_count": 17,
+      "full_text_read": true,
+      "full_text_read_status": "all available substantive text read; visual recovery for OCR omissions; residual detail gaps listed",
+      "pages_read": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "visual_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "gaps": [
+        "Physical page 6: Recent Transactions mockup table cell values and some tiny UI chart axes remain blurred after enlargement; no invented recovery."
+      ],
+      "source_limitations": "Illustrative claims and external links not externally verified. Missing data/formulas noted in lesson.",
+      "lesson_path": "library/bpc-lessons/BPC-13.md",
+      "lesson_tags": [
+        "ecosystem-money-flow",
+        "measurement-vs-verification",
+        "canonical-economics",
+        "technical-architecture"
+      ],
+      "recovered_after_workspace_reset": true
+    },
+    {
+      "id": "BPC-14",
+      "path": "library/originals/bpc/BPC-14.pdf",
+      "original_path": "Contoh BMC/Elizabeth Auro_Serenity Gang_BMC - Elizabeth Auro.pdf",
+      "sha256": "4cf98e8cdee95e928f85120a8cee4f1077ea4a2cb420bd32751ad79242cec4dc",
+      "page_count": 5,
+      "full_text_read": true,
+      "full_text_read_status": "all available substantive text read; visual recovery for OCR omissions; residual detail gaps listed",
+      "pages_read": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "visual_pages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "gaps": [],
+      "source_limitations": "Illustrative claims and external links not externally verified. Missing data/formulas noted in lesson.",
+      "lesson_path": "library/bpc-lessons/BPC-14.md",
+      "lesson_tags": [
+        "hardware-service",
+        "control-flow",
+        "environmental-evidence",
+        "installation-capacity"
+      ],
+      "recovered_after_workspace_reset": true
+    },
+    {
+      "id": "BPC-15",
+      "path": "library/originals/bpc/BPC-15.pdf",
+      "original_path": "Contoh BMC/Fachry_Wongsu FIB_BMC - Fachry H.pdf",
+      "sha256": "f13dc9b19a449700daa4c81f1969002a1007277712a6ecc601e876a9d3d5e2ea",
+      "page_count": 3,
+      "full_text_read": true,
+      "full_text_read_status": "all available substantive text read; visual recovery for OCR omissions; residual detail gaps listed",
+      "pages_read": [
+        1,
+        2,
+        3
+      ],
+      "visual_pages": [
+        1,
+        2,
+        3
+      ],
+      "gaps": [],
+      "source_limitations": "Illustrative claims and external links not externally verified. Missing data/formulas noted in lesson.",
+      "lesson_path": "library/bpc-lessons/BPC-15.md",
+      "lesson_tags": [
+        "circular-material-flow",
+        "coin-liability",
+        "market-arithmetic",
+        "canonical-revenue"
+      ],
+      "recovered_after_workspace_reset": true
+    },
+    {
+      "id": "BPC-16",
+      "path": "library/originals/bpc/BPC-16.pdf",
+      "original_path": "Contoh BMC/Fairuz Afghan Bahari_E Buddies_BMC - Fairuz Afghan.pdf",
+      "sha256": "8f221259ecbe80a80c3b31890d838093e3acdc540a906f2bb78e9b841c977bb1",
+      "page_count": 2,
+      "full_text_read": true,
+      "full_text_read_status": "all available substantive text read; visual recovery for OCR omissions; residual detail gaps listed",
+      "pages_read": [
+        1,
+        2
+      ],
+      "visual_pages": [
+        1,
+        2
+      ],
+      "gaps": [],
+      "source_limitations": "Illustrative claims and external links not externally verified. Missing data/formulas noted in lesson.",
+      "lesson_path": "library/bpc-lessons/BPC-16.md",
+      "lesson_tags": [
+        "session-unit",
+        "segment-consistency",
+        "peer-support-operations",
+        "capacity"
+      ],
+      "recovered_after_workspace_reset": true
+    },
+    {
+      "id": "BPC-17",
+      "path": "library/originals/bpc/BPC-17.pdf",
+      "original_path": "Contoh BMC/Ferdyanto Gunawan_Going Concern_BMC - KELVIN KELVIN.pdf",
+      "sha256": "d2cbc2b96c1b6d8a5adf14a97ac86c9f9b7f491f38ac14c2108eb5dfadf58228",
+      "page_count": 6,
+      "full_text_read": true,
+      "full_text_read_status": "all available substantive text read; visual recovery for OCR omissions; residual detail gaps listed",
+      "pages_read": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "visual_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "gaps": [],
+      "source_limitations": "Illustrative claims and external links not externally verified. Missing data/formulas noted in lesson.",
+      "lesson_path": "library/bpc-lessons/BPC-17.md",
+      "lesson_tags": [
+        "buyer-vs-user",
+        "b2b-license",
+        "financial-inspectability",
+        "demo-annotation"
+      ],
+      "recovered_after_workspace_reset": true
+    }
+  ],
+  "total_physical_pages_read": 49,
+  "total_visual_pages_inspected": 49,
+  "external_links_tested": false
+}

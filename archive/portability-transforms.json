@@ -1,0 +1,581 @@
+{
+  "purpose": "Portable path normalization and recovery of distinct historical archive members. Provenance only; no new execution or visual/financial approval.",
+  "transforms": [
+    {
+      "path": "cases/jejakbalik/production-original/figures/build_figures.py",
+      "original_sha256": "c507e6264dc071d1db294ccde0c2e4f0fb41cf2b86138d6b0774ac010180bf96",
+      "current_sha256": "33823b983edc68224fc490fa6a06088ec8f4db6b03deaae91c17b70661e15e2e",
+      "transformation": "Replace former machine workspace root by script-relative production directory; preserve finance input and figure source/output roles."
+    },
+    {
+      "path": "cases/jejakbalik/production-original/figures/build_finance_figures.py",
+      "original_sha256": "8fe3688efa60f2131e9aebfcd4dd53f53d04206c1e547ce28af7542db0f74f06",
+      "current_sha256": "7c780bead9e2acf3072c204d4bcefa95c27f4c7a16a39dc9426fbe41d31f8700",
+      "transformation": "Replace former machine workspace root by script-relative production directory; preserve finance input and figure source/output roles."
+    },
+    {
+      "path": "cases/jejakbalik/production-original/build_document.py",
+      "original_sha256": "736659e4f27dacb62864538160125adf23423d8947889313a020c3cd414d9b59",
+      "current_sha256": "0892350aa14f5214eed2a0b49ae47f5ac3035119826b74db240069f11af9ec77",
+      "transformation": "Rebase original David template input to the exact retained template under the repository library; no template bytes or authored content changed."
+    },
+    {
+      "path": "cases/jejakbalik/production-original/assets/figures/manifest.json",
+      "original_sha256": "33508ccede3757ffe0a0f080570d1226a1fc5b6f46988ff390056c8cecf08b54",
+      "current_sha256": "f3b1f05d57a2a7397934878dbc5463ef1ad87305fa713825510ee598197553e3",
+      "transformation": "Make PNG/PDF paths relative to manifest and TeX paths relative through ../../figures; asset bytes unchanged."
+    },
+    {
+      "path": "cases/jejakbalik/source-current/overview_sources.json",
+      "original_sha256": "5d602366cf712a1dcacaa3f8a10241e7cc671b63f75ba6616f112dd04adda766",
+      "current_sha256": "2c77056283b3f998297885f7ce314c769f19d9b006b19f288de63268a368ca02",
+      "transformation": "Map screenshot basenames to retained owner-screenshots; original source_sha256 fields unchanged."
+    },
+    {
+      "path": "cases/jejakbalik/source-current/figure_manifest.json",
+      "original_sha256": "14f98fdd6ca9d005135756e959315e3f90cbe1d7f8e396262379ba64b8c7bed6",
+      "current_sha256": "40f237b580346636afcd79ea4f2b3dbe5eaf2298d47cd8261e162528f498bafb",
+      "transformation": "Rebase retained revised TeX; explicitly record missing revision-specific PNG/PDF/JSON basenames as unavailable; never substitute older figures."
+    },
+    {
+      "path": "cases/jejakbalik/production-original/prototype-execution/run.mjs",
+      "original_sha256": "56bc17537e95c9ab59a24808ae5329c8393247f553e467a39b23c73d19ce805d",
+      "current_sha256": "910b51770debf248e78da267928f8c74bec5ccba62cbfafd9890fcb78357a333",
+      "transformation": "Use explicit source-directory/output arguments instead of machine paths. Required source files remain absent; no new execution claimed."
+    }
+  ],
+  "archive_expansion": {
+    "archive_filename": "JejakBalik_Sumber_Produksi.zip",
+    "archive_sha256": "35671591fae778831b9a412abe566b75418986267032fdb18dfe19f8b5c41103",
+    "archive_bytes": 11321950,
+    "members": [
+      {
+        "member": "build_document.py",
+        "retained_path": "cases/jejakbalik/production-original/build_document.py",
+        "sha256": "736659e4f27dacb62864538160125adf23423d8947889313a020c3cd414d9b59",
+        "bytes": 37946,
+        "current_sha256": "0892350aa14f5214eed2a0b49ae47f5ac3035119826b74db240069f11af9ec77",
+        "transformation_record": "cases/jejakbalik/production-original/build_document.py"
+      },
+      {
+        "member": "main.json",
+        "retained_path": "cases/jejakbalik/production-original/main.json",
+        "sha256": "3b7acc252a40bb848f1b838c8599a4aa9ebe2936e68a4a74005f739cd6243aab",
+        "bytes": 12409
+      },
+      {
+        "member": "appendix_content.json",
+        "retained_path": "cases/jejakbalik/production-original/appendix_content.json",
+        "sha256": "697bacd4ced9de2da3f40ed4fe0757a9fcd9d7b07b85a7eef31137ef7b40b364",
+        "bytes": 59151
+      },
+      {
+        "member": "method_appendix.json",
+        "retained_path": "cases/jejakbalik/production-original/method_appendix.json",
+        "sha256": "a3f9fdd116d2c8193f96f231deb2485413be0298741c2dc8e8e63b0bdc3e28a9",
+        "bytes": 6592
+      },
+      {
+        "member": "evidence.json",
+        "retained_path": "cases/jejakbalik/production-original/evidence.json",
+        "sha256": "0fde1c813f129b3a214f6fe5eabb80572811e93db5b9dba90615d7be91895f73",
+        "bytes": 27412
+      },
+      {
+        "member": "finance_model.py",
+        "retained_path": "cases/jejakbalik/production-original/finance_model.py",
+        "sha256": "d82d92ef3db076035dd58be224f42d75851f18be90713eb61d78a6057d501359",
+        "bytes": 22747
+      },
+      {
+        "member": "finance.json",
+        "retained_path": "cases/jejakbalik/production-original/finance.json",
+        "sha256": "a57f6827cdfe9612e64e669954541cd939a1ebf2ec7a50872c74fd6c4553ab9f",
+        "bytes": 38123
+      },
+      {
+        "member": "finance_tables.json",
+        "retained_path": "cases/jejakbalik/production-original/finance_tables.json",
+        "sha256": "72ef0b81d54926c27cb32a6363694cd19e29dd3b9c7bf7c949d4c6a83796b1b6",
+        "bytes": 15516
+      },
+      {
+        "member": "finance_mc_draws.csv",
+        "retained_path": "cases/jejakbalik/source-history/original-archive/finance_mc_draws.csv",
+        "sha256": "47a66280fb9bb86a927aad1ab0ded12d97389de49c52d15874dad5799233b0ba",
+        "bytes": 2332045
+      },
+      {
+        "member": "prototype_scenarios.json",
+        "retained_path": "cases/jejakbalik/production-original/prototype_scenarios.json",
+        "sha256": "d7c8010e11d33bfd310b87a26d8a79cc529edffec7a43362c486be4e3d89a421",
+        "bytes": 37359
+      },
+      {
+        "member": "assets/concept_service.png",
+        "retained_path": "cases/jejakbalik/production-original/assets/concept_service.png",
+        "sha256": "19c13bf07363e4807c5ad0cf72f84ae732a1c7d008dcefb84d14d543811905d3",
+        "bytes": 2798725
+      },
+      {
+        "member": "assets/logos/lintasarta-black.png",
+        "retained_path": "cases/jejakbalik/production-original/assets/logos/lintasarta-black.png",
+        "sha256": "10a72597a0ebcf3115442e7377f7f4281fb18488320e984e7864a0216a51a8b6",
+        "bytes": 11128
+      },
+      {
+        "member": "assets/logos/ewasterj-black.png",
+        "retained_path": "cases/jejakbalik/production-original/assets/logos/ewasterj-black.png",
+        "sha256": "e2607ef092a10e986ed941ea93eba767bc6113fe2478a14e3efc966013860534",
+        "bytes": 38215
+      },
+      {
+        "member": "assets/logos/lintasarta-peduli-black.png",
+        "retained_path": "cases/jejakbalik/production-original/assets/logos/lintasarta-peduli-black.png",
+        "sha256": "21fefc21e23ccf25205825d8a47e29e5b85d7d8b8493e7bb0196343bda00e76d",
+        "bytes": 8082
+      },
+      {
+        "member": "assets/logos/source-87.png",
+        "retained_path": "cases/jejakbalik/production-original/assets/logos/source-87.png",
+        "sha256": "31d7131c606260ae728a3214319e4a82dc47bd9ef050e967ffcf81b4a434f79f",
+        "bytes": 13996
+      },
+      {
+        "member": "assets/logos/source-89.png",
+        "retained_path": "cases/jejakbalik/production-original/assets/logos/source-89.png",
+        "sha256": "2a707098d247e45ca29597af2cade0c55b14a2093809c8e46706974c19ff73af",
+        "bytes": 10386
+      },
+      {
+        "member": "assets/logos/source-88.png",
+        "retained_path": "cases/jejakbalik/production-original/assets/logos/source-88.png",
+        "sha256": "88070e26d59233c148d16708389011500dd5aa09d4d70503fd84d026a2a0c9b5",
+        "bytes": 49565
+      },
+      {
+        "member": "assets/logos/source-90.png",
+        "retained_path": "cases/jejakbalik/production-original/assets/logos/source-90.png",
+        "sha256": "d6dae9428875646284d214d73d4dcc7efb06ffe1b0e28b762d88bf716dc386fd",
+        "bytes": 10597
+      },
+      {
+        "member": "assets/logos/dlh-bemui-black.png",
+        "retained_path": "cases/jejakbalik/production-original/assets/logos/dlh-bemui-black.png",
+        "sha256": "d92880be31f46b447708b26f85caf89ed3068e356a2cbf424283caa2262f287f",
+        "bytes": 7262
+      },
+      {
+        "member": "assets/screenshots/11-owner-vehicle.png",
+        "retained_path": "cases/jejakbalik/production-original/assets/screenshots/11-owner-vehicle.png",
+        "sha256": "ff09c3797a99c8245063d38f11cc911afc218ebab7234f33a113eb0dae97fb50",
+        "bytes": 249817
+      },
+      {
+        "member": "assets/screenshots/13-custody-detail.png",
+        "retained_path": "cases/jejakbalik/production-original/assets/screenshots/13-custody-detail.png",
+        "sha256": "5f437646a22395a9f88d0facdf5c2ca81f4285d1ac67cbe67d221d0370a40fc3",
+        "bytes": 67968
+      },
+      {
+        "member": "assets/screenshots/10-device-view.png",
+        "retained_path": "cases/jejakbalik/production-original/assets/screenshots/10-device-view.png",
+        "sha256": "15ea957546e001aca6973bbdd797840ad58a124c56cebe23a58b405357352be7",
+        "bytes": 416713
+      },
+      {
+        "member": "assets/screenshots/02-journey-comparison.png",
+        "retained_path": "cases/jejakbalik/production-original/assets/screenshots/02-journey-comparison.png",
+        "sha256": "6156fc296202b44a654b53dc532d503dc61a8c64fae1e118844f19e930fe49b0",
+        "bytes": 1014824
+      },
+      {
+        "member": "assets/screenshots/01-network.png",
+        "retained_path": "cases/jejakbalik/production-original/assets/screenshots/01-network.png",
+        "sha256": "fbf4f93001f8bdfd886d194b0b1335d1e838b1ff6842a485282231642bf89038",
+        "bytes": 785825
+      },
+      {
+        "member": "assets/screenshots/14-data-detail.png",
+        "retained_path": "cases/jejakbalik/production-original/assets/screenshots/14-data-detail.png",
+        "sha256": "54f7b01fb33e51e87ef821a7d2993745fddb6b1d43bd02714efebbde227346ab",
+        "bytes": 53544
+      },
+      {
+        "member": "assets/screenshots/manifest.json",
+        "retained_path": "cases/jejakbalik/production-original/assets/screenshots/manifest.json",
+        "sha256": "550aa6faa3a131118cc8a7f3751079e4118958ce0246d3dd4a1a2bd00833b652",
+        "bytes": 4045
+      },
+      {
+        "member": "assets/screenshots/15-approval-detail.png",
+        "retained_path": "cases/jejakbalik/production-original/assets/screenshots/15-approval-detail.png",
+        "sha256": "3b517d06654e4c1d44a18c6f393946115186de6b9b657808e1bd71ad01340166",
+        "bytes": 131974
+      },
+      {
+        "member": "assets/screenshots/04-custody-exception.png",
+        "retained_path": "cases/jejakbalik/production-original/assets/screenshots/04-custody-exception.png",
+        "sha256": "3ec7bb115398e165d5e027b56795518b8bed186425bbe6c4594812470baafa60",
+        "bytes": 248563
+      },
+      {
+        "member": "assets/screenshots/05-data-hold.png",
+        "retained_path": "cases/jejakbalik/production-original/assets/screenshots/05-data-hold.png",
+        "sha256": "7b57341ad50681cf97daa0aafad5662d73bf5629d835d70416ce6176f374146e",
+        "bytes": 254468
+      },
+      {
+        "member": "assets/screenshots/16-options-detail.png",
+        "retained_path": "cases/jejakbalik/production-original/assets/screenshots/16-options-detail.png",
+        "sha256": "8862334bc2ab2583f05fd48729d737fefd6afd0ff67d5ab19d4e7046774a4e57",
+        "bytes": 87673
+      },
+      {
+        "member": "assets/screenshots/03-approval.png",
+        "retained_path": "cases/jejakbalik/production-original/assets/screenshots/03-approval.png",
+        "sha256": "802895e6b20f80052c6cb3ed341c506b4263dd9e4a93ab43763aca301b3c135f",
+        "bytes": 775907
+      },
+      {
+        "member": "assets/screenshots/07-intake.png",
+        "retained_path": "cases/jejakbalik/production-original/assets/screenshots/07-intake.png",
+        "sha256": "f4dfe52bf17ae2d6f26de5ac0cb57e1f71906381971abc512394b8548d0610c7",
+        "bytes": 281310
+      },
+      {
+        "member": "assets/screenshots/19-options-compact.png",
+        "retained_path": "cases/jejakbalik/production-original/assets/screenshots/19-options-compact.png",
+        "sha256": "5a6b1531f050548e6033d440c5baf9d6541d1f0ec4921f55e04d58118afb9022",
+        "bytes": 73789
+      },
+      {
+        "member": "assets/screenshots/12-owner-facility.png",
+        "retained_path": "cases/jejakbalik/production-original/assets/screenshots/12-owner-facility.png",
+        "sha256": "cce0dd13161f230b91d77b69ddac8c478ec5d36171af033ab53079a8b10a0605",
+        "bytes": 281583
+      },
+      {
+        "member": "assets/screenshots/09-options-detail.png",
+        "retained_path": "cases/jejakbalik/production-original/assets/screenshots/09-options-detail.png",
+        "sha256": "87548da593005b42843974c3cc33f301ee27adf5e49faca2c26dec7eec73b7c5",
+        "bytes": 369321
+      },
+      {
+        "member": "assets/screenshots/18-results-detail.png",
+        "retained_path": "cases/jejakbalik/production-original/assets/screenshots/18-results-detail.png",
+        "sha256": "c4188302c0154c3239b064e612a71351097e0636eb3dd3b3c79e08014ec05a49",
+        "bytes": 177831
+      },
+      {
+        "member": "assets/screenshots/06-results.png",
+        "retained_path": "cases/jejakbalik/production-original/assets/screenshots/06-results.png",
+        "sha256": "83edb84c2c696712dd12882a095939022cf558defe8248d31da3067f7f5d5d54",
+        "bytes": 224459
+      },
+      {
+        "member": "assets/screenshots/08-reference-results.png",
+        "retained_path": "cases/jejakbalik/production-original/assets/screenshots/08-reference-results.png",
+        "sha256": "eb67ac10daef6923800b9dae564d6406aff29a42285cd196dcdd45c9663d0cc0",
+        "bytes": 230596
+      },
+      {
+        "member": "assets/screenshots/17-intake-detail.png",
+        "retained_path": "cases/jejakbalik/production-original/assets/screenshots/17-intake-detail.png",
+        "sha256": "029d7b1b412fcc12e03ab6231daaee8629f93edd42173cdf7866e82b8cba602b",
+        "bytes": 86755
+      },
+      {
+        "member": "assets/figures/finance_cash.png",
+        "retained_path": "cases/jejakbalik/production-original/assets/figures/finance_cash.png",
+        "sha256": "f85b0de67c3ede7c994a5440fdee706ab8bc2af1704ab56d9e8af1674606e53e",
+        "bytes": 76529
+      },
+      {
+        "member": "assets/figures/finance_annual.pdf",
+        "retained_path": "cases/jejakbalik/production-original/assets/figures/finance_annual.pdf",
+        "sha256": "1993b1393293c5f9ea9b781882e6654fabaef4bf367e8e716ba8ecd6ca39f95f",
+        "bytes": 15981
+      },
+      {
+        "member": "assets/figures/service_swimlane.pdf",
+        "retained_path": "cases/jejakbalik/production-original/assets/figures/service_swimlane.pdf",
+        "sha256": "4fc7f2468d786f242fdcf9be35f9e24774cce4d45e0e7e076b0cfe4c42252fbc",
+        "bytes": 26362
+      },
+      {
+        "member": "assets/figures/issue_tree.pdf",
+        "retained_path": "cases/jejakbalik/production-original/assets/figures/issue_tree.pdf",
+        "sha256": "d4b92c32186fdeb96ff28a0907cc4410b6f4c8197c1032e45dff72cdf9a96532",
+        "bytes": 29918
+      },
+      {
+        "member": "assets/figures/mc_npv.png",
+        "retained_path": "cases/jejakbalik/production-original/assets/figures/mc_npv.png",
+        "sha256": "6f39e6ac6b7cb624fae2a88822d8b4fa1140d6e5f6e4b3c0ea3504d04f75bafe",
+        "bytes": 49421
+      },
+      {
+        "member": "assets/figures/gantt_year1.png",
+        "retained_path": "cases/jejakbalik/production-original/assets/figures/gantt_year1.png",
+        "sha256": "3b042fad4a1195b7a0eef12eafda13880b69642f20bb2b02676d2a57de47b37b",
+        "bytes": 122109
+      },
+      {
+        "member": "assets/figures/finance_sensitivity.pdf",
+        "retained_path": "cases/jejakbalik/production-original/assets/figures/finance_sensitivity.pdf",
+        "sha256": "305b7f57421ceb0e99a2865baeeb402d769145bac4b984822f2f2f08ee86bff1",
+        "bytes": 26803
+      },
+      {
+        "member": "assets/figures/mc_npv.pdf",
+        "retained_path": "cases/jejakbalik/production-original/assets/figures/mc_npv.pdf",
+        "sha256": "3f65c9a637964609f1d867ae7e5ac6c2e4bd3e63d7cced13a26e7a51936f34b2",
+        "bytes": 25332
+      },
+      {
+        "member": "assets/figures/manifest.json",
+        "retained_path": "cases/jejakbalik/production-original/assets/figures/manifest.json",
+        "sha256": "33508ccede3757ffe0a0f080570d1226a1fc5b6f46988ff390056c8cecf08b54",
+        "bytes": 6466,
+        "current_sha256": "f3b1f05d57a2a7397934878dbc5463ef1ad87305fa713825510ee598197553e3",
+        "transformation_record": "cases/jejakbalik/production-original/assets/figures/manifest.json"
+      },
+      {
+        "member": "assets/figures/risk_heatmap.pdf",
+        "retained_path": "cases/jejakbalik/production-original/assets/figures/risk_heatmap.pdf",
+        "sha256": "952ecf5300dbac69eaee4c2a5b99dcce286d43a70d1583462231b2fa04fa783d",
+        "bytes": 17033
+      },
+      {
+        "member": "assets/figures/finance_annual.png",
+        "retained_path": "cases/jejakbalik/production-original/assets/figures/finance_annual.png",
+        "sha256": "eb190c4bb0e35682b96e7a3dd856b4328741ccacf9cefe98abea1b56e74029f1",
+        "bytes": 60385
+      },
+      {
+        "member": "assets/figures/finance_sensitivity.png",
+        "retained_path": "cases/jejakbalik/production-original/assets/figures/finance_sensitivity.png",
+        "sha256": "c9e9151ab64e744303c749ff17beca0c43013c570764f37d4f316a6de0954969",
+        "bytes": 132087
+      },
+      {
+        "member": "assets/figures/prototype_comparison.pdf",
+        "retained_path": "cases/jejakbalik/production-original/assets/figures/prototype_comparison.pdf",
+        "sha256": "d4a3d897088586daeefbf9af8e6c6f9b2af62ff1448fa044cde8aa5f1ba2c26b",
+        "bytes": 15805
+      },
+      {
+        "member": "assets/figures/tam_sam_som.png",
+        "retained_path": "cases/jejakbalik/production-original/assets/figures/tam_sam_som.png",
+        "sha256": "c4c26f9def0bddac1dc879e1bfb5e4541edc6024e87bd60aca9d10820599903d",
+        "bytes": 112323
+      },
+      {
+        "member": "assets/figures/issue_tree.png",
+        "retained_path": "cases/jejakbalik/production-original/assets/figures/issue_tree.png",
+        "sha256": "ea2c95b553fa80e38b43419ce55e616731b32ae46bd73c90206711a355b63a1b",
+        "bytes": 194639
+      },
+      {
+        "member": "assets/figures/prototype_comparison.png",
+        "retained_path": "cases/jejakbalik/production-original/assets/figures/prototype_comparison.png",
+        "sha256": "8e250be8084a53ed2f6bc5d72fb659cb1af4490f722425e17bc56fca6c201ae7",
+        "bytes": 46932
+      },
+      {
+        "member": "assets/figures/finance_cash.pdf",
+        "retained_path": "cases/jejakbalik/production-original/assets/figures/finance_cash.pdf",
+        "sha256": "24125502bc4db30bcadccabf86328386beddae8e54dd56100d2f28368ab3bf8d",
+        "bytes": 24254
+      },
+      {
+        "member": "assets/figures/mc_funding.pdf",
+        "retained_path": "cases/jejakbalik/production-original/assets/figures/mc_funding.pdf",
+        "sha256": "928c33979f15e7549abfc7420fe2603ef9636434cadb298a5419f8c3ecae4bb2",
+        "bytes": 17162
+      },
+      {
+        "member": "assets/figures/mc_drivers.pdf",
+        "retained_path": "cases/jejakbalik/production-original/assets/figures/mc_drivers.pdf",
+        "sha256": "6dfbc0e0bb5544707d99ee9e048242933026371900ab23ed6b69fc49f9e5bd2b",
+        "bytes": 32991
+      },
+      {
+        "member": "assets/figures/mc_funding.png",
+        "retained_path": "cases/jejakbalik/production-original/assets/figures/mc_funding.png",
+        "sha256": "571a558632a54dc171824d756b1646fd4eab1a34cb992c0de2b6a8ce30a044b6",
+        "bytes": 60214
+      },
+      {
+        "member": "assets/figures/tam_sam_som.pdf",
+        "retained_path": "cases/jejakbalik/production-original/assets/figures/tam_sam_som.pdf",
+        "sha256": "f63abb7071cd5bed30cb4c541fd6a6dc9cac28a0e18a15e82e21538ba7986b2f",
+        "bytes": 35110
+      },
+      {
+        "member": "assets/figures/main_system.png",
+        "retained_path": "cases/jejakbalik/production-original/assets/figures/main_system.png",
+        "sha256": "67c36fbcc5da0d779fdc8dbaab53a8b8da8c812e5fe552f39097652b16218f3f",
+        "bytes": 124075
+      },
+      {
+        "member": "assets/figures/risk_heatmap.png",
+        "retained_path": "cases/jejakbalik/production-original/assets/figures/risk_heatmap.png",
+        "sha256": "093542389c0e121017788455a48b1f798f760fb97c53347a9c920b32c684a1f6",
+        "bytes": 140789
+      },
+      {
+        "member": "assets/figures/gantt_decade.pdf",
+        "retained_path": "cases/jejakbalik/production-original/assets/figures/gantt_decade.pdf",
+        "sha256": "23f91919ad9166c6d366df9c15a216c14e608241c16ea05ae594c52d5674b251",
+        "bytes": 16924
+      },
+      {
+        "member": "assets/figures/mc_drivers.png",
+        "retained_path": "cases/jejakbalik/production-original/assets/figures/mc_drivers.png",
+        "sha256": "db88cb6352243e3392249df87a431f281864a5b241d30cd6411e8494c5373b02",
+        "bytes": 82388
+      },
+      {
+        "member": "assets/figures/service_swimlane.png",
+        "retained_path": "cases/jejakbalik/production-original/assets/figures/service_swimlane.png",
+        "sha256": "5c86d43972e7909f9db28fadbbd57be5e4ad601b191a8b0668dc5448da0961d4",
+        "bytes": 136993
+      },
+      {
+        "member": "assets/figures/gantt_decade.png",
+        "retained_path": "cases/jejakbalik/production-original/assets/figures/gantt_decade.png",
+        "sha256": "e48725f0da62149a8ba00f5e09606b12b49162d3ec5967035d4d500e80dff73a",
+        "bytes": 90744
+      },
+      {
+        "member": "assets/figures/gantt_year1.pdf",
+        "retained_path": "cases/jejakbalik/production-original/assets/figures/gantt_year1.pdf",
+        "sha256": "c75c019a9c032f3ddad89014b39aa27cc375c3bb6340659840d900d5c4c1c2ef",
+        "bytes": 17669
+      },
+      {
+        "member": "assets/figures/main_system.pdf",
+        "retained_path": "cases/jejakbalik/production-original/assets/figures/main_system.pdf",
+        "sha256": "f8d2aa400c06d0c42aade067d2b451d1681db6d46d6f93cfa7395afac89e1152",
+        "bytes": 25669
+      },
+      {
+        "member": "figures/service_swimlane.tex",
+        "retained_path": "cases/jejakbalik/production-original/figures/service_swimlane.tex",
+        "sha256": "a2aaf973e88dc41ab131548a8e74cd2a67598dc6dbcbfb2800d1c4a72deb6af7",
+        "bytes": 2472
+      },
+      {
+        "member": "figures/gantt_year1.tex",
+        "retained_path": "cases/jejakbalik/production-original/figures/gantt_year1.tex",
+        "sha256": "3418d251d24a318b7e50b7fcc1b97405e18de1d907419af99abc690f779c9185",
+        "bytes": 1891
+      },
+      {
+        "member": "figures/mc_drivers.tex",
+        "retained_path": "cases/jejakbalik/production-original/figures/mc_drivers.tex",
+        "sha256": "6d5e5284f0263f62c02f0152ae7f812068b9a51058d4fc835ab35032683249d8",
+        "bytes": 1803
+      },
+      {
+        "member": "figures/mc_npv.tex",
+        "retained_path": "cases/jejakbalik/production-original/figures/mc_npv.tex",
+        "sha256": "821e9945a13d12e6950be8b1fdd5e459e2cff3eabc1617a7ebe470d8ebaf1ae5",
+        "bytes": 2434
+      },
+      {
+        "member": "figures/finance_cash.tex",
+        "retained_path": "cases/jejakbalik/production-original/figures/finance_cash.tex",
+        "sha256": "3939c0ce31bce4191c32b28669520f2373e09ce5762bbbba982c7717db2ed943",
+        "bytes": 2925
+      },
+      {
+        "member": "figures/tam_sam_som.tex",
+        "retained_path": "cases/jejakbalik/production-original/figures/tam_sam_som.tex",
+        "sha256": "a62ebc34c0a8f91824a3b1af52023363e3fac04d9b1423fda00a872501237857",
+        "bytes": 1977
+      },
+      {
+        "member": "figures/mc_funding.tex",
+        "retained_path": "cases/jejakbalik/production-original/figures/mc_funding.tex",
+        "sha256": "4eba645ea74e29d786e6565b31ebc0c96ea93f19d5bf95c3e384ab7c72d9776f",
+        "bytes": 2658
+      },
+      {
+        "member": "figures/build_finance_figures.py",
+        "retained_path": "cases/jejakbalik/production-original/figures/build_finance_figures.py",
+        "sha256": "8fe3688efa60f2131e9aebfcd4dd53f53d04206c1e547ce28af7542db0f74f06",
+        "bytes": 9829,
+        "current_sha256": "7c780bead9e2acf3072c204d4bcefa95c27f4c7a16a39dc9426fbe41d31f8700",
+        "transformation_record": "cases/jejakbalik/production-original/figures/build_finance_figures.py"
+      },
+      {
+        "member": "figures/gantt_decade.tex",
+        "retained_path": "cases/jejakbalik/production-original/figures/gantt_decade.tex",
+        "sha256": "675477f84c11dc6a8b17c88ef39670fdea14167a16a92654efdb693d205e2c8e",
+        "bytes": 1870
+      },
+      {
+        "member": "figures/build_figures.py",
+        "retained_path": "cases/jejakbalik/production-original/figures/build_figures.py",
+        "sha256": "c507e6264dc071d1db294ccde0c2e4f0fb41cf2b86138d6b0774ac010180bf96",
+        "bytes": 13139,
+        "current_sha256": "33823b983edc68224fc490fa6a06088ec8f4db6b03deaae91c17b70661e15e2e",
+        "transformation_record": "cases/jejakbalik/production-original/figures/build_figures.py"
+      },
+      {
+        "member": "figures/finance_annual.tex",
+        "retained_path": "cases/jejakbalik/production-original/figures/finance_annual.tex",
+        "sha256": "03fd7ca60ed05a11144dff5cecbc1f0446d70be05712488863befe2920e30a34",
+        "bytes": 1941
+      },
+      {
+        "member": "figures/finance_sensitivity.tex",
+        "retained_path": "cases/jejakbalik/production-original/figures/finance_sensitivity.tex",
+        "sha256": "64cf41da8de1f10db383087e943e08adef1c166b906d4cc1ad0eca415c7d90b6",
+        "bytes": 1927
+      },
+      {
+        "member": "figures/issue_tree.tex",
+        "retained_path": "cases/jejakbalik/production-original/figures/issue_tree.tex",
+        "sha256": "92438d6d3ea303b21141ef76f7721dd2ee78e0997b3b849d4c96e1cd56332aff",
+        "bytes": 2721
+      },
+      {
+        "member": "figures/main_system.tex",
+        "retained_path": "cases/jejakbalik/production-original/figures/main_system.tex",
+        "sha256": "406d5f5b6fb7fcb421824be35839eccaa48ce9de50dc6b161d5485632a96e05e",
+        "bytes": 1947
+      },
+      {
+        "member": "figures/prototype_comparison.tex",
+        "retained_path": "cases/jejakbalik/production-original/figures/prototype_comparison.tex",
+        "sha256": "fcceb0c5badc5527c4b0581522843f8f5d4f62893253706bfd5acb7ce49a4748",
+        "bytes": 2030
+      },
+      {
+        "member": "figures/risk_heatmap.tex",
+        "retained_path": "cases/jejakbalik/production-original/figures/risk_heatmap.tex",
+        "sha256": "c8665b146bbd41acc9b1017fea280929b89ba4a65e6b0df583a8f901497f8551",
+        "bytes": 4068
+      },
+      {
+        "member": "prototype-execution/run.mjs",
+        "retained_path": "cases/jejakbalik/production-original/prototype-execution/run.mjs",
+        "sha256": "56bc17537e95c9ab59a24808ae5329c8393247f553e467a39b23c73d19ce805d",
+        "bytes": 5535,
+        "current_sha256": "910b51770debf248e78da267928f8c74bec5ccba62cbfafd9890fcb78357a333",
+        "transformation_record": "cases/jejakbalik/production-original/prototype-execution/run.mjs"
+      },
+      {
+        "member": "qa_final.json",
+        "retained_path": "cases/jejakbalik/source-history/original-archive/qa_final.json",
+        "sha256": "89647af4b66a6718e0235292baafdb3b826c532279e201f67535dd23531394ba",
+        "bytes": 640
+      }
+    ],
+    "status": "All non-directory member bytes matched retained files before portable path transforms; archive removed after verification."
+  }
+}

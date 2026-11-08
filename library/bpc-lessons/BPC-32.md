@@ -1,0 +1,18 @@
+# BPC-32: HaiBoo — material bambu berlapis
+
+- Asli: `MKPR2025_Proposal_ByeRon_Aurel Jessie Arintoro.pdf`
+- PDF: `library/originals/bpc/BPC-32.pdf`
+- SHA-256: `a66be6e27434298abefc367cff7a17f4c020def9ede6b56d7f2f5a3a9b39e790`
+- Jumlah halaman fisik: 21.
+
+**Cakupan.** Seluruh teks asli/OCR halaman fisik 1–21 dibaca dan seluruh ikhtisar halaman dilihat. Pemeriksaan dekat tabel/diagram/foto selesai pada hlm. 7, 10–15, 18–21. Semua locator fisik.
+
+**Kekuatan.** Hlm. 10–12 menghubungkan pembagian peran, sumber bambu Ngaliyan, pemotongan/pembersihan, campuran pelapis epoxy–hardener–thinner 20:10:3, penyemprotan, pengeringan, lalu penawaran B2B, B2C per meter, dan custom cakar ayam. Uraian ini membentuk hubungan produksi dan unit penjualan. Survei 45 responden serta foto pengujian pada lampiran membuat pembaca dapat menelusuri asal klaim, meskipun kualitas buktinya perlu dibatasi.
+
+**Kelemahan bukti.** Tabel lentur hlm. 7 dengan beban 9 kg, diameter 10 mm, panjang 50 cm menampilkan urutan nilai yang berbeda dari prosa hlm. 7–8 dan label foto hlm. 19. Tabel menyebut besi 4, bambu 9, besi dari bambu 10, sedangkan uraian menyebut besi 1, bambu 10, bambu berlapis 4; foto hlm. 19 melabeli 1 besi, 10 bambu, dan 4 bambu. Hasil harus direkonsiliasi terhadap catatan sampel, jumlah batang yang menopang beban (judul kolom tabel), dan pengulangan. Uji rendam satu jam NaOH, H2SO4, H2O2, HCl pada hlm. 8 mendeskripsikan perubahan warna; itu tidak dengan sendirinya menunjukkan umur layanan, kekuatan struktur, atau kesesuaian seluruh aplikasi konstruksi. Angka minat 86,7% di badan bukan pesanan berbayar; lampiran hlm. 21 menampilkan 71,1% memilih bambu dari pertanyaan perbandingan yang berbeda dan pertanyaan tentang keunggulan bambu berpotensi mengarahkan jawaban.
+
+**Pasar dan uang.** Grafik hlm. 13 menyebut TAM Rp40 triliun, SAM Rp4 triliun, SOM Rp40–80 miliar, tetapi prosa memakai denominator berbeda. Target 95.000 meter perlu dilacak ke pembeli, order, kapasitas oven, yield, dan distribusi. Hlm. 15 memuat tarif B2C Rp13.846, B2B Rp12.781, custom Rp298.219–357.863 dan proyeksi pendapatan Rp1,495 miliar pada 2025 → Rp5,248 miliar pada 2029. Penulisan nominal penuh lalu kata “miliar” menggandakan satuan secara tekstual. Klaim NPV Rp11,268 miliar, PP 1,84 tahun, serta ROI memerlukan pemisahan laba, EBITDA, investasi, dan kas; pemeriksaan dekat menemukan tabel hlm. 15 menempatkan minus Rp1.105.815.474 pada kolom pra-tahun di baris EBITDA, lalu laba 2025 Rp389.541.290. Diagram lampiran hlm. 21 melabel ulang nilai tahunan 2025–2028 menjadi kuartal 2025 Q1–Q4. Ini membuat periode dan definisi laba tidak konsisten. Logo institusi “Media Partners” hlm. 14 tidak disertai bukti kerja sama; perlakukan sebagai daftar sasaran.
+
+**Pelajaran transfer.** Eksperimen sederhana bisa menjadi bagian argumen BPC bila bahan, ukuran, alat, beban, satuan, pengulangan, foto sampel, dan batas interpretasi konsisten. Pisahkan pengamatan spesifik dari klaim material setara besi. Jadikan operasi pelapisan dan kapasitas batch penjelas biaya per meter; laporkan survei sebagai sinyal minat terbatas. Penawaran bisnis dapat dinarasikan tegas sambil menandai pengujian/izin yang masih ditargetkan.
+
+**Tidak ditransfer dan gap.** Komposisi, kekuatan, ketahanan korosi, persentase survei, harga, angka pasar, dan proyeksi bukan bukti untuk proyek lain. Foto produksi bukan sertifikasi. Tidak ada halaman teks utuh yang tidak terbaca; konflik angka eksperimen dan periode keuangan dikonfirmasi pada sumber visual dan tetap tidak terselesaikan dalam dokumen. Workbook bit.ly tidak dibaca; catatan ini terbatas pada PDF.

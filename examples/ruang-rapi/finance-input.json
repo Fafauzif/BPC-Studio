@@ -1,0 +1,65 @@
+{
+  "title": "Ruang Rapi",
+  "status": "Synthetic teaching scenario; all quantities are adopted planning assumptions, no field results",
+  "currency": "IDR",
+  "price_year": 2027,
+  "price_basis": "constant 2027 IDR; before tax, interest and owner distributions",
+  "months": 12,
+  "leads": [
+    40,
+    44,
+    48,
+    52,
+    56,
+    60,
+    64,
+    68,
+    72,
+    76,
+    80,
+    90
+  ],
+  "conversion": 0.5,
+  "repeat_rate": 0.2,
+  "capacity": [
+    24,
+    28,
+    32,
+    32,
+    36,
+    40,
+    40,
+    40,
+    48,
+    48,
+    48,
+    48
+  ],
+  "unit_price": 450000,
+  "unit_direct_cost": 250000,
+  "fixed_cost": 4000000,
+  "marketing": 1000000,
+  "equipment": 6000000,
+  "setup_expense": 2000000,
+  "depreciation_months": 36,
+  "collection_lag": 1,
+  "planned_funding": 30000000,
+  "cash_floor": 3000000,
+  "annual_discount_rate": 0.12,
+  "metadata": {
+    "earned_unit": "one installed storage package, accepted at completion",
+    "direct_cost_breakdown": {
+      "components": 180000,
+      "installation_labor": 50000,
+      "travel_consumables": 20000
+    },
+    "fixed_cost_breakdown": {
+      "founder_coordination": 2500000,
+      "workspace": 1000000,
+      "admin_system": 500000
+    },
+    "capacity_basis": "one flexible installer roster;2.5 installation hours/order; max120 booked hours/month; ramp capacity explicit",
+    "collection_basis": "invoice at acceptance, collected next month; no initial deposits",
+    "repeat_basis": "one additional small space/package among prior-month customers; repeat orders floored; no repeat demand beyond previous month modeled"
+  }
+}

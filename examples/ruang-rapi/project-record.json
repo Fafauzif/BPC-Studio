@@ -1,0 +1,96 @@
+{
+  "project": "ruang-rapi",
+  "language": "id",
+  "mode": "synthetic worked example",
+  "requirements": {
+    "competition": "authored demonstration, no real organizer",
+    "guidebook_path": "README.md",
+    "body_page_budget": 3,
+    "format": "DejaVu Serif11pt,1.15spacing,A4,2.5cm margins; demonstration only"
+  },
+  "venture": {
+    "name": "Ruang Rapi",
+    "customer": "penghuni kos",
+    "payer": "penghuni kos; settlement lewat koordinator untuk pesanan kelompok",
+    "offer": "paket penyimpanan terpasang",
+    "revenue_unit": "paket selesai dan diterima",
+    "operation": "komponen, pemasangan, QC dan serah terima",
+    "first_market": "radius3km assumed",
+    "growth": "add funded installer capacity after contribution/cash/QC checks"
+  },
+  "decisions": [
+    {
+      "decision": "fixed package, bounded components",
+      "status": "accepted design"
+    },
+    {
+      "decision": "one-month collection lag",
+      "status": "planning assumption"
+    },
+    {
+      "decision": "Rp30m equity proposal",
+      "status": "planned, not committed"
+    }
+  ],
+  "protected_content": [
+    "synthetic identity; no real sales, research, partners or funding claimed",
+    "profit/cash/financing separation"
+  ],
+  "canonical_numbers": {
+    "orders": 441,
+    "unmet_orders": 8,
+    "revenue": 198450000.0,
+    "direct_cost": 110250000.0,
+    "contribution": 88200000.0,
+    "fixed_cost": 48000000.0,
+    "marketing": 12000000.0,
+    "ebitda": 28200000.0,
+    "depreciation": 2000000.0,
+    "operating_profit": 26200000.0,
+    "receipts": 176850000.0,
+    "net_operating_cash": 6600000.0,
+    "initial_equipment": 6000000.0,
+    "initial_setup_expense": 2000000.0,
+    "planned_funding": 30000000.0,
+    "funding_need_including_floor": 24050000.0,
+    "funding_shortfall": 0,
+    "closing_receivables": 21600000.0,
+    "closing_project_cash": -1400000.0,
+    "closing_funded_cash": 28600000.0,
+    "minimum_reserve_headroom": 5950000.0,
+    "sustained_project_cash_payback_month": null,
+    "npv_before_financing": -2943970.991285607
+  },
+  "sources": [
+    {
+      "path": "finance-input.json",
+      "state": "synthetic assumptions"
+    },
+    {
+      "path": "model/finance.json",
+      "state": "calculated"
+    }
+  ],
+  "assumptions": [
+    "qualified lead conversion50%",
+    "repeat20%previous month, floored",
+    "capacity cap and lost demand",
+    "beforetax/interest; no terminal recovery"
+  ],
+  "latest_artifacts": [
+    "proposal.json",
+    "proposal.docx",
+    "render/proposal.pdf",
+    "model/finance.json",
+    "assets/charts/cash.tex"
+  ],
+  "open_issues": [
+    "real demand and actual competition not assessed; synthetic example"
+  ],
+  "actual_checks": [
+    "505 independent arithmetic comparisons",
+    "CLI relocation and fresh-project check",
+    "DOCX/PDF audit and actual page review recorded in validation/README.md"
+  ],
+  "next_action": "For a real venture, replace synthetic inputs with accepted project assumptions and current competition requirements."
+}

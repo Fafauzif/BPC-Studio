@@ -1,0 +1,12 @@
+{
+  "status": "pass",
+  "checks": {
+    "active_links": 587,
+    "source_hashes": 249,
+    "files": 587,
+    "largest_file_bytes": 52901564
+  },
+  "failures": [],
+  "warnings": [],
+  "scope": "Mechanical structure/hash/path checks. Functional, financial and visual review recorded separately."
+}

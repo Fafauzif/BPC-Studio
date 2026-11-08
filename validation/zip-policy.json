@@ -1,0 +1,27 @@
+{
+  "required": [
+    "README.md",
+    "AGENTS.md",
+    "START.md",
+    "studio.py",
+    "LICENSE-NOTICE.md",
+    "RELEASE-NOTES.md",
+    "validation/README.md",
+    "library/bpc-index.md",
+    "library/bpc-synthesis.md",
+    "library/bpc-overlap.md",
+    "examples/ruang-rapi/proposal.docx",
+    "examples/ruang-rapi/render/proposal.pdf",
+    "skills/build-bpc-proposals/scripts/finance.py"
+  ],
+  "excluded": [
+    ".git",
+    ".venv",
+    "__pycache__",
+    "node_modules",
+    ".env",
+    "*.pyc",
+    "temporary transfer remnants"
+  ],
+  "scope": "Full repository, originals retained, no patch-only packaging."
+}

@@ -1,0 +1,31 @@
+{
+  "id": "comparison",
+  "type": "bar_comparison",
+  "tex": "skills/build-bpc-proposals/assets/charts/previews/comparison.tex",
+  "input_sha256": "95ef851fad82f14d834e957f1aea45c12b6a4a05ad7b58bcc8437816b0d1a4b5",
+  "font": "DejaVu Serif",
+  "width_cm": 16,
+  "font_pt": 10,
+  "data_summary": {},
+  "example_status": "Illustrative team assumptions; not observed research or market results.",
+  "source_note": "Demonstration input for the reusable chart library. Replace with project evidence and cited assumptions.",
+  "pdf": "skills/build-bpc-proposals/assets/charts/previews/comparison.pdf",
+  "engine": "xelatex",
+  "tex_warnings": [
+    "Underfull \\hbox (badness 1270) in paragraph at lines 25--25",
+    "Underfull \\hbox (badness 5475) in paragraph at lines 25--25"
+  ],
+  "pdf_width_cm": 16.03269170973036,
+  "pdf_height_cm": 4.285544562869601,
+  "pdf_text_fonts": [
+    "CMR9",
+    "DejaVuSerif"
+  ],
+  "pdf_text_sizes_pt": [
+    8.966
+  ],
+  "min_text_pt_at_nominal_width": 8.948117068619338,
+  "png_renderer": "PyMuPDF",
+  "png": "skills/build-bpc-proposals/assets/charts/previews/comparison.png",
+  "render_status": "rendered"
+}

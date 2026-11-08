@@ -1,0 +1,64 @@
+{
+  "id": "npv_distribution",
+  "type": "distribution",
+  "tex": "skills/build-bpc-proposals/assets/charts/previews/npv_distribution.tex",
+  "input_sha256": "f74510a1691e96825c974a52f654da35ac0710ff14a2b1123edd86504ee85217",
+  "font": "DejaVu Serif",
+  "width_cm": 16,
+  "font_pt": 10,
+  "data_summary": {
+    "n": 1200,
+    "bins": 24,
+    "bin_counts": [
+      7,
+      18,
+      34,
+      36,
+      41,
+      68,
+      54,
+      79,
+      83,
+      81,
+      100,
+      92,
+      78,
+      72,
+      79,
+      56,
+      38,
+      51,
+      33,
+      30,
+      30,
+      20,
+      16,
+      4
+    ],
+    "quantiles_linear": {
+      "10": 7.153600000000002,
+      "50": 98.87899999999999,
+      "90": 202.91379999999987
+    }
+  },
+  "example_status": "Illustrative team assumptions; not observed research or market results.",
+  "source_note": "Demonstration input for the reusable chart library. Replace with project evidence and cited assumptions.",
+  "pdf": "skills/build-bpc-proposals/assets/charts/previews/npv_distribution.pdf",
+  "engine": "xelatex",
+  "tex_warnings": [],
+  "pdf_width_cm": 16.28210585700141,
+  "pdf_height_cm": 5.812719595167372,
+  "pdf_text_fonts": [
+    "CMR9",
+    "CMSY9",
+    "DejaVuSerif"
+  ],
+  "pdf_text_sizes_pt": [
+    7.97,
+    8.966
+  ],
+  "min_text_pt_at_nominal_width": 7.832008951169105,
+  "png_renderer": "PyMuPDF",
+  "png": "skills/build-bpc-proposals/assets/charts/previews/npv_distribution.png",
+  "render_status": "rendered"
+}

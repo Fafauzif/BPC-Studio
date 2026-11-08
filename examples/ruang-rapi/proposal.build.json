@@ -1,0 +1,44 @@
+{
+  "docx": "examples/ruang-rapi/proposal.docx",
+  "bookmarks": 10,
+  "internal_links": 8,
+  "unresolved_links": [],
+  "images": [
+    {
+      "path": "examples/ruang-rapi/assets/charts/cash.png",
+      "width_cm": 16,
+      "height_cm": 7.314632297194844,
+      "pixels": [
+        1319,
+        603
+      ]
+    }
+  ],
+  "format": {
+    "page_width_cm": 21,
+    "page_height_cm": 29.7,
+    "margin_cm": 2.5,
+    "font": "DejaVu Serif",
+    "body_pt": 11,
+    "title_pt": 16,
+    "heading_pt": 12,
+    "line_spacing": 1.15,
+    "paragraph_after_pt": 4,
+    "first_line_cm": 0.5,
+    "table_pt": 10,
+    "table_header_fill": "E8EFEA",
+    "table_border": "D9D9D9",
+    "caption_pt": 10,
+    "language": "id",
+    "references_heading": "Daftar Pustaka",
+    "appendices_heading": "Daftar Lampiran",
+    "appendix_label": "Lampiran",
+    "return_label": "Proposal",
+    "index_label": "Daftar lampiran",
+    "references_new_page": true,
+    "appendices_new_page": true,
+    "page_numbers": true
+  },
+  "body_start_text": "Ruang Rapi Proposal Bisnis Penataan Ruang Kos",
+  "body_end_before_text": "Daftar Lampiran"
+}

@@ -1,0 +1,820 @@
+[
+  {
+    "id": "BPC-01",
+    "original_path": "Algrow_Proposal_Algrow Greener Growth for a Cooler Planet - Maltineus_compressed.pdf",
+    "sha256": "b1b3f607033a9081da149cd6945e235be7a476bcd2b383aaebcb29efe39347a5",
+    "bytes": 4585004,
+    "pages": 29,
+    "words": 5900,
+    "low_text_pages": [
+      1,
+      24,
+      25
+    ],
+    "path": "library/originals/bpc/BPC-01.pdf"
+  },
+  {
+    "id": "BPC-02",
+    "original_path": "Ayunda TristiaPanji-Karya Laut 3 - Ayunda_ Tp02.pdf",
+    "sha256": "bf66111610f3fcc9d2ae5ffe41c08f42a0fd5aac61c18019c54f32a3b9db64f9",
+    "bytes": 1465365,
+    "pages": 25,
+    "words": 5699,
+    "low_text_pages": [],
+    "path": "library/originals/bpc/BPC-02.pdf"
+  },
+  {
+    "id": "BPC-03",
+    "original_path": "BE1ST_PROPOSAL_UNIVO - Dina Januarta.pdf",
+    "sha256": "e334a24d55e874497e227ac51cda9526b9489ebc7563a61f675561513ae60107",
+    "bytes": 2737702,
+    "pages": 33,
+    "words": 5221,
+    "low_text_pages": [
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32
+    ],
+    "path": "library/originals/bpc/BPC-03.pdf"
+  },
+  {
+    "id": "BPC-04",
+    "original_path": "BOYS WINNER_Proposal YEP_MYLO CRAVE – Take a Bite, Treat the Planet Right! - Christiano.pdf",
+    "sha256": "c42e6cca6d73fdf5c1ea6d33bcc3ae3356ea5e62c6fb0ff7cca8bb577a420317",
+    "bytes": 38039904,
+    "pages": 47,
+    "words": 5781,
+    "low_text_pages": [
+      1,
+      25,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      42,
+      43,
+      44
+    ],
+    "path": "library/originals/bpc/BPC-04.pdf"
+  },
+  {
+    "id": "BPC-05",
+    "original_path": "BPC_Universitas Indonesia_PROPOSAL.pdf",
+    "sha256": "c57c3539fb3f97e59cf2537473991a01a5c3aa345eb9575b1a66e4ae521278ab",
+    "bytes": 2967620,
+    "pages": 28,
+    "words": 3568,
+    "low_text_pages": [
+      1,
+      3,
+      19,
+      24,
+      27,
+      28
+    ],
+    "path": "library/originals/bpc/BPC-05.pdf"
+  },
+  {
+    "id": "BPC-06",
+    "original_path": "Business Case Paper_Tim Digidaw_SMAN 15 Bandung.pdf",
+    "sha256": "d1aff430102f7a2160bd2c4fe309706b77355929a6a3238dbae42ff1124540f5",
+    "bytes": 1561393,
+    "pages": 14,
+    "words": 3058,
+    "low_text_pages": [
+      1,
+      14
+    ],
+    "path": "library/originals/bpc/BPC-06.pdf"
+  },
+  {
+    "id": "BPC-07",
+    "original_path": "Cathlin Apsari_ Savora Inovasi Food Waste Management dengan Konsep Resto Mini dan Teknologi Live Cam untuk Mewujudkan SDGs - Cathlin sari.pdf",
+    "sha256": "bca9979330512edf4c5a7262e3e6f4d766b677ca6a5fe597c0e7788342191029",
+    "bytes": 6292839,
+    "pages": 25,
+    "words": 3561,
+    "low_text_pages": [],
+    "path": "library/originals/bpc/BPC-07.pdf"
+  },
+  {
+    "id": "BPC-08",
+    "original_path": "Contoh BMC/ALRIFKY ZAIDAN M._TIM JOSJIS_BMC - 07_Alrifky Zaidan M..pdf",
+    "sha256": "18900e712fe5c359e97e59034a00955158275a62cacbdf94ba42e7e5887f3ddf",
+    "bytes": 9296823,
+    "pages": 1,
+    "words": 923,
+    "low_text_pages": [],
+    "path": "library/originals/bpc/BPC-08.pdf"
+  },
+  {
+    "id": "BPC-09",
+    "original_path": "Contoh BMC/Adre Budi Setiawan_ Garda Tim_ BMC - PB24A_ Kamila Fitria Rochmah.pdf",
+    "sha256": "e398c94cb7a6ef75c18bc09f69e3a03961dd7ac4f1751e4e23e6697c3f979bb5",
+    "bytes": 9813398,
+    "pages": 4,
+    "words": 734,
+    "low_text_pages": [
+      1,
+      4
+    ],
+    "path": "library/originals/bpc/BPC-09.pdf"
+  },
+  {
+    "id": "BPC-10",
+    "original_path": "Contoh BMC/Alisya Mutiara_UINNOVATORS_BMC - Alisya Mutiara.pdf",
+    "sha256": "e95f38ffc1f23e56f0c17c0d8b93d41bd76793eee900b5844fe2ca05294987b0",
+    "bytes": 5576400,
+    "pages": 5,
+    "words": 515,
+    "low_text_pages": [
+      3,
+      4,
+      5
+    ],
+    "path": "library/originals/bpc/BPC-10.pdf"
+  },
+  {
+    "id": "BPC-11",
+    "original_path": "Contoh BMC/Angelica Aliwinata_Powershell_BMC - angelica aliwinata.pdf",
+    "sha256": "ca03c9cdf2817e264216f68793214dd71d3b0d7ac07f29f03eb5d6405ed13967",
+    "bytes": 1811523,
+    "pages": 5,
+    "words": 786,
+    "low_text_pages": [
+      1,
+      4
+    ],
+    "path": "library/originals/bpc/BPC-11.pdf"
+  },
+  {
+    "id": "BPC-12",
+    "original_path": "Contoh BMC/Asti Ananta Ardiningrum_Manpro Girls_BMC - Asti Ananta.pdf",
+    "sha256": "bd750d327df02571aaf2086453dc7d9c2e3cdcbc4d9165dde212660efa01bc54",
+    "bytes": 3515492,
+    "pages": 1,
+    "words": 503,
+    "low_text_pages": [],
+    "path": "library/originals/bpc/BPC-12.pdf"
+  },
+  {
+    "id": "BPC-13",
+    "original_path": "Contoh BMC/Diah Kartika_Coolabeez_BMC - Diah Kartika.pdf",
+    "sha256": "060a7621cd093ab51387a08f2209a0530c34b1567b34c74cf1bd2763cecd6390",
+    "bytes": 7470636,
+    "pages": 17,
+    "words": 85,
+    "low_text_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+    ],
+    "path": "library/originals/bpc/BPC-13.pdf"
+  },
+  {
+    "id": "BPC-14",
+    "original_path": "Contoh BMC/Elizabeth Auro_Serenity Gang_BMC - Elizabeth Auro.pdf",
+    "sha256": "4cf98e8cdee95e928f85120a8cee4f1077ea4a2cb420bd32751ad79242cec4dc",
+    "bytes": 6580957,
+    "pages": 5,
+    "words": 597,
+    "low_text_pages": [
+      2,
+      3,
+      4
+    ],
+    "path": "library/originals/bpc/BPC-14.pdf"
+  },
+  {
+    "id": "BPC-15",
+    "original_path": "Contoh BMC/Fachry_Wongsu FIB_BMC - Fachry H.pdf",
+    "sha256": "f13dc9b19a449700daa4c81f1969002a1007277712a6ecc601e876a9d3d5e2ea",
+    "bytes": 7925023,
+    "pages": 3,
+    "words": 756,
+    "low_text_pages": [
+      3
+    ],
+    "path": "library/originals/bpc/BPC-15.pdf"
+  },
+  {
+    "id": "BPC-16",
+    "original_path": "Contoh BMC/Fairuz Afghan Bahari_E Buddies_BMC - Fairuz Afghan.pdf",
+    "sha256": "8f221259ecbe80a80c3b31890d838093e3acdc540a906f2bb78e9b841c977bb1",
+    "bytes": 9001077,
+    "pages": 2,
+    "words": 697,
+    "low_text_pages": [],
+    "path": "library/originals/bpc/BPC-16.pdf"
+  },
+  {
+    "id": "BPC-17",
+    "original_path": "Contoh BMC/Ferdyanto Gunawan_Going Concern_BMC - KELVIN KELVIN.pdf",
+    "sha256": "d2cbc2b96c1b6d8a5adf14a97ac86c9f9b7f491f38ac14c2108eb5dfadf58228",
+    "bytes": 13610732,
+    "pages": 6,
+    "words": 782,
+    "low_text_pages": [
+      1,
+      6
+    ],
+    "path": "library/originals/bpc/BPC-17.pdf"
+  },
+  {
+    "id": "BPC-18",
+    "original_path": "Contoh BMC/Fernanda Adrio F_Ciiiihuuuyyyy_BMC_20250717_131906_0000 - Fernanda _15.pdf",
+    "sha256": "c5e04c37cf5136cbafe6e61ac1e9430a30ce6d48eb8d9f97414c4d9eaed61866",
+    "bytes": 4491319,
+    "pages": 1,
+    "words": 5,
+    "low_text_pages": [
+      1
+    ],
+    "path": "library/originals/bpc/BPC-18.pdf"
+  },
+  {
+    "id": "BPC-19",
+    "original_path": "Contoh BMC/Josephine Karen Aristo_Cihuyy_BMC - Josephine Karen.pdf",
+    "sha256": "ad464f7c2675afc651af2e3ea37de3fa6d67aff7bb200ce99bcf359e2387e8d0",
+    "bytes": 437975,
+    "pages": 1,
+    "words": 686,
+    "low_text_pages": [],
+    "path": "library/originals/bpc/BPC-19.pdf"
+  },
+  {
+    "id": "BPC-20",
+    "original_path": "Contoh BMC/Kevin Ananta Marga_Vityuu_BMC - kevin ananta.pdf",
+    "sha256": "639e21e224b1c4a5035032ce24903659ff09545f9ea9ffe95304182db8de05cf",
+    "bytes": 426812,
+    "pages": 1,
+    "words": 329,
+    "low_text_pages": [],
+    "path": "library/originals/bpc/BPC-20.pdf"
+  },
+  {
+    "id": "BPC-21",
+    "original_path": "Contoh BMC/Nelvina Ardini Putri_Coolaborators_BMC (1) - Nelvina Ardini Putri.pdf",
+    "sha256": "14b6b300ad3274bc44e8b601fcdd0f82ac75e963a37ba2b31b103a735365a318",
+    "bytes": 41358073,
+    "pages": 2,
+    "words": 215,
+    "low_text_pages": [],
+    "path": "library/originals/bpc/BPC-21.pdf"
+  },
+  {
+    "id": "BPC-22",
+    "original_path": "Contoh BMC/Nisa Altingia_Dreamgineers_BMC - Nisa AltngPtryni.pdf",
+    "sha256": "d30bc0d6003e219faafe376d01ce6d4bd7a604089b63f377c444a1cd2285092f",
+    "bytes": 1040136,
+    "pages": 1,
+    "words": 468,
+    "low_text_pages": [],
+    "path": "library/originals/bpc/BPC-22.pdf"
+  },
+  {
+    "id": "BPC-23",
+    "original_path": "Contoh BMC/Raply Muzaki Aliyafi_Bina Ruang Emosi_BMC - Raply Muzaki Aliyafi.pdf",
+    "sha256": "65a73575ddba2f3861c8583e9d301ee09491ce8596bb4da266bf48918431a049",
+    "bytes": 423163,
+    "pages": 1,
+    "words": 444,
+    "low_text_pages": [],
+    "path": "library/originals/bpc/BPC-23.pdf"
+  },
+  {
+    "id": "BPC-24",
+    "original_path": "Contoh BMC/Taniya Boyasudibyo_BIQUAL_BMC - Taniya Boyasudibyo.pdf",
+    "sha256": "af9b0d2c16df7027964de50ba2c81d20362b947906b9cee8797e515c0b798a49",
+    "bytes": 4446906,
+    "pages": 1,
+    "words": 680,
+    "low_text_pages": [],
+    "path": "library/originals/bpc/BPC-24.pdf"
+  },
+  {
+    "id": "BPC-25",
+    "original_path": "Contoh BMC/Terence Lee_Gwenchana_BMC - Terence Lee.pdf",
+    "sha256": "13f8b5aa6e0e5c1401157287e84473f7d37789ff4d9784e2f630ca9f771012b9",
+    "bytes": 3378662,
+    "pages": 4,
+    "words": 1142,
+    "low_text_pages": [],
+    "path": "library/originals/bpc/BPC-25.pdf"
+  },
+  {
+    "id": "BPC-26",
+    "original_path": "Contoh BMC/Thania Dwi Rahma_Ayo Gas_BMC - Thania.pdf",
+    "sha256": "3fd4d1e6dc5a0a6759da290f7af934a3def9b0816bc4eba23e1c231c19744c8c",
+    "bytes": 3279666,
+    "pages": 1,
+    "words": 592,
+    "low_text_pages": [],
+    "path": "library/originals/bpc/BPC-26.pdf"
+  },
+  {
+    "id": "BPC-27",
+    "original_path": "Contoh BMC/Wahyu Alfian_Antigabut_BMC - Grady Mourheno.pdf",
+    "sha256": "f4c39ba75f51542dd9b9f8d7ae395b1f89b4d36c7adc8292254ac5b1d6dd9740",
+    "bytes": 3300891,
+    "pages": 2,
+    "words": 396,
+    "low_text_pages": [
+      1
+    ],
+    "path": "library/originals/bpc/BPC-27.pdf"
+  },
+  {
+    "id": "BPC-28",
+    "original_path": "Emeraldo Ariesusandi_BEEGUARD_ INOVASI SISTEM SARANG MADU DIGITAL - Alexander Emeraldo.pdf",
+    "sha256": "d722a73ebb97d71f245ad4e69b9790a53b8a800008aafeb482e1809f05a49c69",
+    "bytes": 5038109,
+    "pages": 20,
+    "words": 2678,
+    "low_text_pages": [
+      1,
+      12
+    ],
+    "path": "library/originals/bpc/BPC-28.pdf"
+  },
+  {
+    "id": "BPC-29",
+    "original_path": "HSC BRAND UI 2023_HealthUp_Stellar_Pamela Kristy Aroyo.pdf",
+    "sha256": "8635051fbcfbfe545cdaa8caa5d27dc1eb9e2dab66efb91de482381bb9f33928",
+    "bytes": 1648777,
+    "pages": 24,
+    "words": 3238,
+    "low_text_pages": [
+      1,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24
+    ],
+    "path": "library/originals/bpc/BPC-29.pdf"
+  },
+  {
+    "id": "BPC-30",
+    "original_path": "HSC BRAND UI_Mosquitech_Diffuze_Mini Business Proposal.pdf",
+    "sha256": "74b45a55222fd3bc1bda65dbfded47bd47776e7b3be7107cec5c6d7b8dc7bcef",
+    "bytes": 1819148,
+    "pages": 27,
+    "words": 3943,
+    "low_text_pages": [
+      1,
+      3,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27
+    ],
+    "path": "library/originals/bpc/BPC-30.pdf"
+  },
+  {
+    "id": "BPC-31",
+    "original_path": "Kipling_BPC Proposal UIIW.pdf",
+    "sha256": "2130ca9dc195902f227f23862118e5fb258541ebf7a5679ae5bdb7ebfce6a986",
+    "bytes": 2927538,
+    "pages": 18,
+    "words": 2978,
+    "low_text_pages": [
+      1,
+      10,
+      15,
+      16,
+      17,
+      18
+    ],
+    "path": "library/originals/bpc/BPC-31.pdf"
+  },
+  {
+    "id": "BPC-32",
+    "original_path": "MKPR2025_Proposal_ByeRon_Aurel Jessie Arintoro.pdf",
+    "sha256": "a66be6e27434298abefc367cff7a17f4c020def9ede6b56d7f2f5a3a9b39e790",
+    "bytes": 3489486,
+    "pages": 21,
+    "words": 3527,
+    "low_text_pages": [
+      1,
+      10,
+      18,
+      19,
+      20,
+      21
+    ],
+    "path": "library/originals/bpc/BPC-32.pdf"
+  },
+  {
+    "id": "BPC-33",
+    "original_path": "Mechademy_ProposalYEP - Ganesha Rahman Liswantoro.pdf",
+    "sha256": "95234f719738f59f04502f6a5a2df708f960f0ca2909043bcf2ca103435ea214",
+    "bytes": 9753212,
+    "pages": 30,
+    "words": 5111,
+    "low_text_pages": [
+      1,
+      18,
+      20,
+      22,
+      23,
+      24,
+      30
+    ],
+    "path": "library/originals/bpc/BPC-33.pdf"
+  },
+  {
+    "id": "BPC-34",
+    "original_path": "Momoy_BPC_grainy - Ruli Hendrawan Saputra.pdf",
+    "sha256": "d7b15c03c041aa840cc9d9f04dcb221910666b366658a0ba1d8441ad37b1e296",
+    "bytes": 3406859,
+    "pages": 28,
+    "words": 4749,
+    "low_text_pages": [
+      4,
+      26,
+      27
+    ],
+    "path": "library/originals/bpc/BPC-34.pdf"
+  },
+  {
+    "id": "BPC-35",
+    "original_path": "NENDEN_TRANSFORMASI GHOST NETS MENJADI ECOROLL MAT SOLUSI BERKELANJUTAN BAGI LINGKUNGAN DAN EKONOMI KREATIF - NENDEN ENDAH.pdf",
+    "sha256": "9aecf7f2fd4b0f2b95f18821249ebea3c7efe1ed3f58ade15dc1225ad6d42e8f",
+    "bytes": 1039733,
+    "pages": 25,
+    "words": 4684,
+    "low_text_pages": [
+      1,
+      3,
+      4
+    ],
+    "path": "library/originals/bpc/BPC-35.pdf"
+  },
+  {
+    "id": "BPC-36",
+    "original_path": "NurRamadhaniA.P_Locabar  Energy Bar dengan Kombinasi Bahan Pangan Lokal yang Mempunyai Serat dan Nutrisi yang Tinggi sebagai Alternatif Pengenalan Pangan Lokal Guna Mendukung Ketahanan Pangan Nasional - Nur Ramadha.pdf",
+    "sha256": "ce1052d23fc00a9fa0489aae721527b0422853e1c90da5048fc230c8ee3fa8d4",
+    "bytes": 543075,
+    "pages": 23,
+    "words": 4543,
+    "low_text_pages": [
+      23
+    ],
+    "path": "library/originals/bpc/BPC-36.pdf"
+  },
+  {
+    "id": "BPC-37",
+    "original_path": "Olivia IX 2024_BisnisPlan_SnapStone_Randi Saputra_Universitas Padjadjaran.pdf",
+    "sha256": "4542624b480a5309072f99837aaa2896cfb9eb80305ff411e8b07b1470cbd821",
+    "bytes": 1922039,
+    "pages": 25,
+    "words": 3748,
+    "low_text_pages": [
+      1,
+      20,
+      21
+    ],
+    "path": "library/originals/bpc/BPC-37.pdf"
+  },
+  {
+    "id": "BPC-38",
+    "original_path": "PRATIWI DWI SAPUTRI_Arahku Aplikasi Inklusif untuk Aksesibilitas Tunanetra di Era Digital - pratiwi dwisaputri.pdf",
+    "sha256": "941ff7b69487df323004ffeef9b1787809c9cd929dd3e90f338e42d6e6ed7280",
+    "bytes": 1707243,
+    "pages": 23,
+    "words": 3722,
+    "low_text_pages": [
+      1,
+      22,
+      23
+    ],
+    "path": "library/originals/bpc/BPC-38.pdf"
+  },
+  {
+    "id": "BPC-39",
+    "original_path": "PROPOSAL_TIGA DARA - NABILA FEBIONRAMADHANI.pdf",
+    "sha256": "5856eb0ed503b20c487d2cbb733492d57c14794f94e60f987af1ba1e2d42ddf5",
+    "bytes": 5616954,
+    "pages": 28,
+    "words": 4317,
+    "low_text_pages": [
+      1,
+      2,
+      26,
+      27
+    ],
+    "path": "library/originals/bpc/BPC-39.pdf"
+  },
+  {
+    "id": "BPC-40",
+    "original_path": "Pairfect_Proposal Bisnis_Lingkungan_ENVIORA_Kirana & Fazya.pdf",
+    "sha256": "5b941e86e03e93bc2ae26161262a57ec93aefb599f5f1e010d28e5903a3c2a5b",
+    "bytes": 1812570,
+    "pages": 25,
+    "words": 3799,
+    "low_text_pages": [
+      1
+    ],
+    "path": "library/originals/bpc/BPC-40.pdf"
+  },
+  {
+    "id": "BPC-41",
+    "original_path": "Proposal Bettercows_Veteran Consulting Club (1).pdf",
+    "sha256": "8c0f73bf0fe4751079299797c179b6a8015867c861d06635bacd58ed2821d2cd",
+    "bytes": 2139609,
+    "pages": 32,
+    "words": 6138,
+    "low_text_pages": [
+      1,
+      4,
+      28,
+      29
+    ],
+    "path": "library/originals/bpc/BPC-41.pdf"
+  },
+  {
+    "id": "BPC-42",
+    "original_path": "Proposal Bisnis_Royhan Saydi_(Universitas Jember).pdf",
+    "sha256": "0de8eb102faa135bfdff9a9af552c7f0eefb4f5eec336c3c899327b8efcdeced",
+    "bytes": 2279744,
+    "pages": 30,
+    "words": 4627,
+    "low_text_pages": [
+      2,
+      3,
+      24,
+      29,
+      30
+    ],
+    "path": "library/originals/bpc/BPC-42.pdf"
+  },
+  {
+    "id": "BPC-43",
+    "original_path": "Proposal Businees Plan Ecoal Pads .pdf",
+    "sha256": "a22180e1fe82a5ea813978d1df72d22f54108da68d9a137c1340bae800715636",
+    "bytes": 1823919,
+    "pages": 15,
+    "words": 2555,
+    "low_text_pages": [
+      1,
+      14,
+      15
+    ],
+    "path": "library/originals/bpc/BPC-43.pdf"
+  },
+  {
+    "id": "BPC-44",
+    "original_path": "Proposal Business Plan_SeAtap_CBPC.pdf",
+    "sha256": "f219478f9b2c8f70293c6612593a594a90f7371a495cfe4d966a058c8348a275",
+    "bytes": 4449011,
+    "pages": 33,
+    "words": 5054,
+    "low_text_pages": [
+      1,
+      31,
+      32,
+      33
+    ],
+    "path": "library/originals/bpc/BPC-44.pdf"
+  },
+  {
+    "id": "BPC-45",
+    "original_path": "Proposal NBPC2_Universitas Hasanuddin_Nano Booster Pasubburu (1).pdf",
+    "sha256": "2dc2fdb1d869935969ff5e838aea2276fb346653c6df1bc3a9b7085db9ac2b51",
+    "bytes": 1824468,
+    "pages": 28,
+    "words": 4649,
+    "low_text_pages": [
+      1,
+      2,
+      26,
+      27,
+      28
+    ],
+    "path": "library/originals/bpc/BPC-45.pdf"
+  },
+  {
+    "id": "BPC-46",
+    "original_path": "Proposal Patilaka Bon.pdf",
+    "sha256": "c95dc9c38d320d740fcc69af76a8a3a33323f8c12bb6852191909280c509698a",
+    "bytes": 722358,
+    "pages": 20,
+    "words": 3967,
+    "low_text_pages": [
+      18
+    ],
+    "path": "library/originals/bpc/BPC-46.pdf"
+  },
+  {
+    "id": "BPC-47",
+    "original_path": "Proposal Syada Final (10).pdf",
+    "sha256": "d8c2acc710f04ed23bd6dbef4826fb8869412d76b225f35141b03c46e1d8c14b",
+    "bytes": 1213680,
+    "pages": 17,
+    "words": 2704,
+    "low_text_pages": [
+      1,
+      17
+    ],
+    "path": "library/originals/bpc/BPC-47.pdf"
+  },
+  {
+    "id": "BPC-48",
+    "original_path": "Proposal Weave Finishing.pdf",
+    "sha256": "0aac8f329597738f91ba6510f12bcbbd701ac16a694a0d731e410c9030efa4f8",
+    "bytes": 1466465,
+    "pages": 21,
+    "words": 3576,
+    "low_text_pages": [
+      1
+    ],
+    "path": "library/originals/bpc/BPC-48.pdf"
+  },
+  {
+    "id": "BPC-49",
+    "original_path": "Proposal_Business_Plan_Pretty_Smart (2).pdf",
+    "sha256": "2114b7fe1c21a88f658a4b110c36a001688b2d767e4365971ca206d7bd1556ea",
+    "bytes": 2003265,
+    "pages": 17,
+    "words": 3083,
+    "low_text_pages": [
+      14,
+      17
+    ],
+    "path": "library/originals/bpc/BPC-49.pdf"
+  },
+  {
+    "id": "BPC-50",
+    "original_path": "Proposal_KRIYABALI_FINALE (1).pdf",
+    "sha256": "3a45d6561a3f0648ecf0ceb182275fb05f3e2e52caf3617295953558bc9a0eac",
+    "bytes": 2362279,
+    "pages": 25,
+    "words": 3504,
+    "low_text_pages": [
+      1,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25
+    ],
+    "path": "library/originals/bpc/BPC-50.pdf"
+  },
+  {
+    "id": "BPC-51",
+    "original_path": "Proposal_Ngok_YepUndip - Brandon Geraldo.pdf",
+    "sha256": "d040119c512f24a1b4492dee44e4814d2cb56bf2198386b2ea883de98bb6e58f",
+    "bytes": 25991924,
+    "pages": 28,
+    "words": 3927,
+    "low_text_pages": [
+      1,
+      16,
+      17,
+      24,
+      27,
+      28
+    ],
+    "path": "library/originals/bpc/BPC-51.pdf"
+  },
+  {
+    "id": "BPC-52",
+    "original_path": "Proposal_PIMPI2023_Miranda Tambunan_IPB University_Tiga Kata Pertama Judul Proposal.pdf",
+    "sha256": "392518a06a8cf8a455326d55318639983fd69dafe027b0b2875c58b9295bb49c",
+    "bytes": 24069239,
+    "pages": 27,
+    "words": 4374,
+    "low_text_pages": [
+      1,
+      26,
+      27
+    ],
+    "path": "library/originals/bpc/BPC-52.pdf"
+  },
+  {
+    "id": "BPC-53",
+    "original_path": "RAYHAAN_DAKINDO ENERGY - Rayhaan RKP.pdf",
+    "sha256": "47560f344382bf7543213702668ce6878e13a043bef7b0afecb2754dc320ad12",
+    "bytes": 1190457,
+    "pages": 24,
+    "words": 4162,
+    "low_text_pages": [
+      15
+    ],
+    "path": "library/originals/bpc/BPC-53.pdf"
+  },
+  {
+    "id": "BPC-54",
+    "original_path": "SETYORINI OKVIANA_JEMPUTIN - Setyorini Okviana.pdf",
+    "sha256": "7b57fc82f7288795b1b1b30bbe4bca1d4385c01d7e1beb2e376ff595472ce583",
+    "bytes": 1213597,
+    "pages": 25,
+    "words": 4509,
+    "low_text_pages": [
+      1,
+      25
+    ],
+    "path": "library/originals/bpc/BPC-54.pdf"
+  },
+  {
+    "id": "BPC-55",
+    "original_path": "Seleksi_BC_SMAIT Nurul Fikri Depok_Bambuddy_Nafia Azwa Zafira.pdf",
+    "sha256": "a97c1bf696c55b3ddf9a87d8f6c608a5f0a093071334c430b4a5c7fb0f3ca8a8",
+    "bytes": 13738430,
+    "pages": 20,
+    "words": 3173,
+    "low_text_pages": [
+      1,
+      2,
+      3
+    ],
+    "path": "library/originals/bpc/BPC-55.pdf"
+  },
+  {
+    "id": "BPC-56",
+    "original_path": "Stany_Nadya Rizka Munanza_PKN STAN - NADYA RIZKA MUNANZA.pdf",
+    "sha256": "43eca744b07088b9aff08c7c83d9efa370cb181bc8ef0b89e13dcfa741ef035a",
+    "bytes": 4625390,
+    "pages": 37,
+    "words": 5539,
+    "low_text_pages": [
+      1,
+      6,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36
+    ],
+    "path": "library/originals/bpc/BPC-56.pdf"
+  },
+  {
+    "id": "BPC-57",
+    "original_path": "Surya Onggara_Pengembangan Mesin Reverse Vending Machine Berbasiskan Teknologi Panel Surya Dalam Penunjang Perekonomian Masyarakat Pesisir Pantai Pangandaran - Stellina.pdf",
+    "sha256": "f1d8e79578bc1fe70f99d8e5b47232e8c625a385e5960ec0cd28fe1a626a2169",
+    "bytes": 994088,
+    "pages": 24,
+    "words": 4355,
+    "low_text_pages": [
+      21,
+      24
+    ],
+    "path": "library/originals/bpc/BPC-57.pdf"
+  },
+  {
+    "id": "BPC-58",
+    "original_path": "Tim Yukaku_PROPOSAL BPC_BeeGuard_ Inovasi Sistem Sarang Lebah Digital - Alexander Emeraldo.pdf",
+    "sha256": "7f728810ee5348a47240bd9d1c3504f96565c9a50d08c53ea85071051769dd1e",
+    "bytes": 8756295,
+    "pages": 28,
+    "words": 4931,
+    "low_text_pages": [
+      1,
+      2,
+      25,
+      26,
+      27
+    ],
+    "path": "library/originals/bpc/BPC-58.pdf"
+  }
+]

@@ -1,0 +1,18 @@
+# BPC-33: Mechademy — kit dan pembelajaran mekatronika
+
+- Asli: `Mechademy_ProposalYEP - Ganesha Rahman Liswantoro.pdf`
+- PDF: `library/originals/bpc/BPC-33.pdf`
+- SHA-256: `95234f719738f59f04502f6a5a2df708f960f0ca2909043bcf2ca103435ea214`
+- Jumlah halaman fisik: 30.
+
+**Cakupan.** Seluruh teks asli/OCR halaman fisik 1–30 dibaca; seluruh ikhtisar halaman dilihat. Detail diagram, mockup, dan tabel hlm. 7, 11–12, 17–18, 22–23, 28–30 selesai diperiksa dekat. Nomor fisik.
+
+**Kekuatan.** Hlm. 6–8 menguraikan urutan teori interaktif, Step-by-Step, EnCode/compiler peramban, sandbox, dan capstone fisik BuildBox. Hubungan latihan digital dan kit mengonkretkan manfaat pembelajaran. Hlm. 10–11 memakai minat pengguna untuk memprioritaskan modul sebelum produksi, dan hlm. 17–18 memberi tahap MVP, demo sekolah, modul gratis, serta pembagian tim. SWOT mengakui kit tahan lama memiliki frekuensi pembelian ulang rendah; kesadaran ini seharusnya mengarahkan model subscription.
+
+**Kelemahan.** Target siswa SMA belum memisahkan pengguna dari pembayar orang tua/sekolah. Klaim first mover lemah terhadap daftar kompetitor SMA pada lampiran hlm. 25–28. Ringkasan menyebut tujuh modul sedangkan roadmap sebelas. Mockup hlm. 7 dan 22 memuat “10 sekolah & 360+ siswa telah mendaftar”, sedangkan badan membahas rencana awal dan target 193. Karena caption menyebut mockup, angka antarmuka tidak boleh dipromosikan menjadi capaian faktual tanpa bukti pendaftaran. Definisi pengguna “aktif” sebagai pernah membayar tidak sama dengan pelanggan subscription yang masih berbayar. Hlm. 11 mencampur contoh kota/wilayah dan persentase pasar nasional dengan akuisisi lokal. Menunggu feedback positif sebagai syarat MVP membutuhkan indikator yang jelas, bukan sekadar respons baik.
+
+**Keuangan.** Hlm. 12 menawarkan Rp149.000/bulan, Rp1,49 juta/tahun, dan Rp399.000 ala carte termasuk kit/lifetime; tiap produk membutuhkan batas akses, biaya kit, dan retensi tersendiri. Harga kit Rp100.000 di badan tidak sama cakupan rentang Rp100.000–300.000 di lampiran. Biaya tetap Rp13.715.900 berbeda dari modal awal Rp8.782.212; kit Rp71.312 termasuk fee perlu direkonsiliasi dengan Rp66.312 sebelum fee. Tabel hlm. 28–30 memakai “Increase Target Active User” bulanan 3, 10, 12, dan seterusnya, total 193, tetapi pendapatan dihitung dari nilai setiap bulan × Rp149.000 tanpa penjelasan stok pelanggan aktif dan kohort perpanjangan. Biaya content developer, dukungan, dan cloud berulang belum jelas. NPV Rp3.154.271 dan payback bulan keenam sensitif pada model ini; kumulatif positif April dengan tabel Oktober–Agustus perlu konsistensi definisi bulan awal. BMC hlm. 23 mencantumkan pendanaan eksternal sebagai revenue stream, yang perlu dipisah dari pendapatan pelanggan.
+
+**Pelajaran transfer.** Jual perubahan kemampuan siswa melalui urutan tugas dan keluaran, lalu jelaskan perangkat yang menyertainya. Turunkan subscription ke akuisisi, retensi, pelanggan aktif, periode akses, biaya konten, dan pengiriman kit. Roadmap perlu pemilik, keluaran modul, serta ambang keberhasilan. Klaim produk/operasi boleh afirmatif; angka 193, NPV, dan dampak pendidikan tetap target/proyeksi sampai ada pelaksanaan terukur.
+
+**Tidak ditransfer dan gap.** Nama modul, desain kit, target 193, harga, kutipan pasar, serta hitungan investasi tidak dipindahkan ke proposal lain. Tabel competitor adalah klaim sumber dan perlu verifikasi jika dipakai. Halaman 30 nyaris kosong dengan baris ROI tersisa menunjukkan pemeriksaan aliran halaman penting. Tidak ada halaman teks utuh yang tidak terbaca; detail tabel dan mockup selesai diperiksa dekat. Persentase ROI terpotong antara hlm. 29–30, namun bagian angka dan tanda persen terbaca bila kedua halaman dibaca bersama; tidak ada isi teks utuh yang hilang.

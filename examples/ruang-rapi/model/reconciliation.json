@@ -1,0 +1,10 @@
+{
+  "status": "pass",
+  "checks": 505,
+  "failures": [],
+  "inputs_sha256": "c495ad3640283e9fcd8e64473ac1029e37ac74cd526241cb02fd26e652452ae6",
+  "model_sha256": "eedf32477254e41faa91e8658aeabaa719e22e3b8fdc35ec45d0d0bb1b17fc4c",
+  "csv_sha256": "45d505e8992803595dc168901e6a7584d805d29f21b700a2f3108bc9f16ff11e",
+  "method": "Independent Decimal schedules and hand-reviewed order vector; finance.py is not imported.",
+  "scope": "Synthetic teaching inputs only; checks arithmetic, timing, capacity and funding separation. No customer-demand, market, tax or operational validation."
+}

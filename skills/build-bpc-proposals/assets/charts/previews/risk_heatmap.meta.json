@@ -1,0 +1,30 @@
+{
+  "id": "risk_heatmap",
+  "type": "risk_heatmap",
+  "tex": "skills/build-bpc-proposals/assets/charts/previews/risk_heatmap.tex",
+  "input_sha256": "14f1683f5292715fab676b78645e710d8da040952f58e26aac4d5b73008f8359",
+  "font": "DejaVu Serif",
+  "width_cm": 14,
+  "font_pt": 10,
+  "data_summary": {
+    "positions": "input ordinal scores, not calibrated probabilities"
+  },
+  "example_status": "Illustrative team assumptions; not observed research or market results.",
+  "source_note": "Demonstration input for the reusable chart library. Replace with project evidence and cited assumptions.",
+  "pdf": "skills/build-bpc-proposals/assets/charts/previews/risk_heatmap.pdf",
+  "engine": "xelatex",
+  "tex_warnings": [],
+  "pdf_width_cm": 14.434608807033962,
+  "pdf_height_cm": 6.64174737294515,
+  "pdf_text_fonts": [
+    "DejaVuSerif"
+  ],
+  "pdf_text_sizes_pt": [
+    8.635,
+    9.594
+  ],
+  "min_text_pt_at_nominal_width": 8.374925603312315,
+  "png_renderer": "PyMuPDF",
+  "png": "skills/build-bpc-proposals/assets/charts/previews/risk_heatmap.png",
+  "render_status": "rendered"
+}

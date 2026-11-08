@@ -1,0 +1,28 @@
+{
+  "id": "cash",
+  "type": "cash_line",
+  "tex": "skills/build-bpc-proposals/assets/charts/previews/cash.tex",
+  "input_sha256": "20e2fae19d3cf7467dfb4cc6fc11dca678fac0c68e45f830c6ba34a50eb4a73b",
+  "font": "DejaVu Serif",
+  "width_cm": 16,
+  "font_pt": 10,
+  "data_summary": {},
+  "example_status": "Illustrative team assumptions; not observed research or market results.",
+  "source_note": "Demonstration input for the reusable chart library. Replace with project evidence and cited assumptions.",
+  "pdf": "skills/build-bpc-proposals/assets/charts/previews/cash.pdf",
+  "engine": "xelatex",
+  "tex_warnings": [],
+  "pdf_width_cm": 16.488127950032553,
+  "pdf_height_cm": 7.626349741617839,
+  "pdf_text_fonts": [
+    "CMR9",
+    "DejaVuSerif"
+  ],
+  "pdf_text_sizes_pt": [
+    8.966
+  ],
+  "min_text_pt_at_nominal_width": 8.700951543954192,
+  "png_renderer": "PyMuPDF",
+  "png": "skills/build-bpc-proposals/assets/charts/previews/cash.png",
+  "render_status": "rendered"
+}

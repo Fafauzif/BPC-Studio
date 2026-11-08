@@ -1,0 +1,9 @@
+# Historical JejakBalik worked case
+
+This is background from Essay Studio, not an active instruction set or a template for a new venture. Source-current and production-original retain calculations, editable exhibit sources and evidence assets; source-history retains earlier source artifacts. Competition rules, dates, markets, prices, institutions and author decisions are specific to this case.
+
+The large chat-specific master handover is omitted. Historical `source-history/original-archive/qa_final.json` records the source archive's verification claim, not a check performed for this release. That folder also preserves the archive's distinct `finance_mc_draws.csv`; it must not replace the different expanded production version without reconciliation. Current BPC release checks do not re-certify this historical submission.
+
+The duplicate production ZIP was expanded and all 86 member files were checked against retained bytes. [The portability record](../../archive/portability-transforms.json) records its original hash, member destinations/hashes and bounded changes to machine paths. Supplied PDFs and manual text were unchanged. The current figure manifest explicitly lists unavailable revised assets rather than substituting earlier production figures. Screenshot source paths resolve to bytes verified against their original hashes.
+
+Historical scripts are for inspection. The document builder now locates its exact retained original template by a repository-relative path; it has not been rerun for this release. The prototype runner requires the recorded TypeScript source revision, which is not bundled; its command explains the explicit source-directory input. Use root `studio.py` tools and the current runnable example for new production. Refer to the source manifest for original identities. Start new work at root AGENTS.md.

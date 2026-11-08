@@ -1,0 +1,7 @@
+# Actual packages exercised with Python3.12.14 in this release; optional QR packages not exercised.
+python-docx==1.2.0
+PyMuPDF==1.26.6
+Pillow==13.0.0
+numpy==2.3.5
+PyYAML==6.0.3
+lxml==6.1.1

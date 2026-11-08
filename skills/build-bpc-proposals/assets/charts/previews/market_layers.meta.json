@@ -1,0 +1,33 @@
+{
+  "id": "market_layers",
+  "type": "tam_sam_som",
+  "tex": "skills/build-bpc-proposals/assets/charts/previews/market_layers.tex",
+  "input_sha256": "4c0ea4b41b7d27711649094e62877b8bc5a7271533b41fdddb523c6ab2363f47",
+  "font": "DejaVu Serif",
+  "width_cm": 16,
+  "font_pt": 10,
+  "data_summary": {
+    "schematic": true,
+    "area_proportional": false
+  },
+  "example_status": "Illustrative team assumptions; not observed research or market results.",
+  "source_note": "Demonstration input for the reusable chart library. Replace with project evidence and cited assumptions.",
+  "pdf": "skills/build-bpc-proposals/assets/charts/previews/market_layers.pdf",
+  "engine": "xelatex",
+  "tex_warnings": [
+    "Underfull \\hbox (badness 1735) in paragraph at lines 33--33"
+  ],
+  "pdf_width_cm": 16.43485816107856,
+  "pdf_height_cm": 7.020277777777777,
+  "pdf_text_fonts": [
+    "DejaVuSerif",
+    "DejaVuSerif-Bold"
+  ],
+  "pdf_text_sizes_pt": [
+    10.942
+  ],
+  "min_text_pt_at_nominal_width": 10.652211261023064,
+  "png_renderer": "PyMuPDF",
+  "png": "skills/build-bpc-proposals/assets/charts/previews/market_layers.png",
+  "render_status": "rendered"
+}

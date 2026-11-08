@@ -1,0 +1,30 @@
+{
+  "id": "cash",
+  "type": "cash_line",
+  "tex": "examples/ruang-rapi/assets/charts/cash.tex",
+  "input_sha256": "c84b4b18eced835115c0ebb19b28060aca11d560f989244f43d5e56229390df1",
+  "font": "DejaVu Serif",
+  "width_cm": 16,
+  "font_pt": 11,
+  "data_summary": {},
+  "example_status": "Synthetic teaching scenario; all quantities are adopted planning assumptions, no field results",
+  "source_note": "Calculated from retained model input; IDR divided by 1,000,000 for chart units.",
+  "pdf": "examples/ruang-rapi/assets/charts/cash.pdf",
+  "engine": "xelatex",
+  "tex_warnings": [],
+  "pdf_width_cm": 16.750594702826604,
+  "pdf_height_cm": 7.655630361768934,
+  "pdf_text_fonts": [
+    "CMR10",
+    "CMSY10",
+    "DejaVuSerif"
+  ],
+  "pdf_text_sizes_pt": [
+    9.863,
+    9.963
+  ],
+  "min_text_pt_at_nominal_width": 9.421038563520197,
+  "png_renderer": "PyMuPDF",
+  "png": "examples/ruang-rapi/assets/charts/cash.png",
+  "render_status": "rendered"
+}

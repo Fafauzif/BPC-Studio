@@ -1,0 +1,59 @@
+{
+  "docx": "examples/ruang-rapi/proposal.docx",
+  "docx_sha256": "1455f45b634d0409a623a4821b60b0002bc7a75cc94585377f95412889f2a735",
+  "errors": [],
+  "warnings": [],
+  "visual_review": "not_performed_by_script",
+  "bookmarks": 10,
+  "internal_links": 8,
+  "unresolved_links": [],
+  "table_count": 3,
+  "comments": 0,
+  "tracked_changes": 0,
+  "sections": [
+    {
+      "page_width_cm": 21.001,
+      "page_height_cm": 29.7,
+      "margins_cm": {
+        "top": 2.499,
+        "bottom": 2.499,
+        "left": 2.499,
+        "right": 2.499
+      }
+    }
+  ],
+  "normal_style": {
+    "font": "DejaVu Serif",
+    "size_pt": 11.0,
+    "line_spacing": 1.15,
+    "after_pt": 4.0
+  },
+  "pdf": {
+    "path": "examples/ruang-rapi/render/proposal.pdf",
+    "sha256": "9681e4db0d3d1a9831074652af445bb0b3db592f4813dacecb21e76ea6e80393",
+    "page_count": 5,
+    "internal_links": 8,
+    "fonts": [
+      "DejaVuSerif",
+      "DejaVuSerif-Bold"
+    ],
+    "collapsed_grid_segments": 0,
+    "body_pages": {
+      "status": "verified",
+      "start_marker": "Ruang Rapi Proposal Bisnis Penataan Ruang Kos",
+      "end_marker": "Daftar Lampiran",
+      "start_matches": [
+        1
+      ],
+      "end_matches": [
+        4
+      ],
+      "boundary": "appendix index",
+      "first": 1,
+      "last": 3,
+      "count": 3,
+      "method": "unique text markers; physical pages including shared boundary pages"
+    }
+  },
+  "status": "automated_checks_passed_visual_review_required"
+}

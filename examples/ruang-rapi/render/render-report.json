@@ -1,0 +1,53 @@
+{
+  "input": "examples/ruang-rapi/proposal.docx",
+  "input_sha256": "1455f45b634d0409a623a4821b60b0002bc7a75cc94585377f95412889f2a735",
+  "status": "rendered_requires_visual_inspection",
+  "visual_review": "not_performed_by_script",
+  "dpi": 144,
+  "converter_selection": "PATH",
+  "converter": "soffice",
+  "returncode": 0,
+  "stdout": "convert examples/ruang-rapi/proposal.docx as a Writer document -> /tmp/bpc-render-9bgdw8yd/pdf/proposal.pdf using filter : writer_pdf_Export",
+  "stderr": "",
+  "seconds": 0.42,
+  "pdf": "examples/ruang-rapi/render/proposal.pdf",
+  "pdf_sha256": "9681e4db0d3d1a9831074652af445bb0b3db592f4813dacecb21e76ea6e80393",
+  "page_count": 5,
+  "pages": [
+    {
+      "page": 1,
+      "image": "page-001.png",
+      "width_pt": 595.3,
+      "height_pt": 841.89,
+      "words": 351
+    },
+    {
+      "page": 2,
+      "image": "page-002.png",
+      "width_pt": 595.3,
+      "height_pt": 841.89,
+      "words": 318
+    },
+    {
+      "page": 3,
+      "image": "page-003.png",
+      "width_pt": 595.3,
+      "height_pt": 841.89,
+      "words": 137
+    },
+    {
+      "page": 4,
+      "image": "page-004.png",
+      "width_pt": 595.3,
+      "height_pt": 841.89,
+      "words": 207
+    },
+    {
+      "page": 5,
+      "image": "page-005.png",
+      "width_pt": 595.3,
+      "height_pt": 841.89,
+      "words": 142
+    }
+  ]
+}
